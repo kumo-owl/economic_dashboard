@@ -1,0 +1,9 @@
+dash==2.0.0
+werkzeug==2.0.0
+pandas
+jupyterlab
+yfinance
+investpy
+matplotlib
+mysql
+mysql-connector-python
