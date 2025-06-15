@@ -1,9 +1,0 @@
-
-  You can now view your Streamlit app in your browser.
-
-  URL: http://0.0.0.0:8502
-
-/Users/yakumoishigaki/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
-  warnings.warn(
-/Users/yakumoishigaki/Library/Python/3.9/lib/python/site-packages/investpy/bonds.py:10: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
-  import pkg_resources
