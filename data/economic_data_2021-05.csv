@@ -1,0 +1,716 @@
+id,date,time,currency,importance,event,actual,forecast,previous
+0,01/05/2021,00:00,USD,low,OPEC Crude Oil Production Algeria (Barrel),0.87M,,0.88M
+1,01/05/2021,00:00,USD,low,OPEC Crude Oil Production Congo (Barrel),0.27M,,0.27M
+2,01/05/2021,00:00,USD,low,OPEC Crude Oil Production Gabon (Barrel),0.18M,,0.18M
+3,01/05/2021,00:00,USD,low,OPEC Crude Oil Production Guinea (Barrel),0.11M,,0.10M
+4,01/05/2021,00:00,USD,low,OPEC Crude oil Production Iran (Barrel),2.30M,,2.17M
+5,01/05/2021,00:00,USD,low,OPEC Crude oil Production Iraq (Barrel),3.91M,,3.89M
+6,01/05/2021,00:00,USD,low,OPEC Crude Oil Production Kuwait (Barrel),2.33M,,2.33M
+7,01/05/2021,00:00,USD,low,OPEC Crude Oil Production Libya (Barrel),1.20M,,1.17M
+8,01/05/2021,00:00,USD,low,OPEC Crude Oil Production Nigeria (Barrel),1.48M,,1.47M
+9,01/05/2021,00:00,USD,low,OPEC Crude oil Production Saudi Arabia (Barrel),8.09M,,8.12M
+10,01/05/2021,00:00,USD,low,OPEC Crude oil Production UAE (Barrel),2.61M,,2.61M
+11,01/05/2021,00:00,USD,low,OPEC Crude oil Production Venezuela (Barrel),0.53M,,0.52M
+12,01/05/2021,00:00,USD,low,M2 Money Supply (MoM)  (Mar),20.1T,,19.9T
+13,01/05/2021,01:00,USD,low,Dallas Fed PCE  (Mar),2.00%,,1.90%
+14,01/05/2021,02:00,USD,medium,U.S. Baker Hughes Oil Rig Count,342,,343
+15,01/05/2021,02:00,USD,medium,U.S. Baker Hughes Total Rig Count,440,,438
+16,01/05/2021,04:30,GBP,medium,CFTC GBP speculative net positions,29.2K,,25.2K
+17,01/05/2021,04:30,USD,low,CFTC Aluminium speculative net positions,3.4K,,3.4K
+18,01/05/2021,04:30,USD,low,CFTC Copper speculative net positions,49.3K,,42.9K
+19,01/05/2021,04:30,USD,low,CFTC Corn speculative net positions,521.6K,,522.7K
+20,01/05/2021,04:30,USD,medium,CFTC Crude Oil speculative net positions,489.7K,,500.0K
+21,01/05/2021,04:30,USD,medium,CFTC Gold speculative net positions,170.6K,,181.5K
+22,01/05/2021,04:30,USD,medium,CFTC Nasdaq 100 speculative net positions,-7.8K,,-5.1K
+23,01/05/2021,04:30,USD,low,CFTC Natural Gas speculative net positions,-59.6K,,-50.1K
+24,01/05/2021,04:30,USD,medium,CFTC S&P 500 speculative net positions,2.3K,,-52.2K
+25,01/05/2021,04:30,USD,low,CFTC Silver speculative net positions,42.8K,,41.7K
+26,01/05/2021,04:30,USD,low,CFTC Soybeans speculative net positions,250.6K,,243.2K
+27,01/05/2021,04:30,USD,low,CFTC Wheat speculative net positions,29.7K,,21.0K
+28,01/05/2021,04:30,AUD,medium,CFTC AUD speculative net positions,-1.4K,,-1.8K
+29,01/05/2021,04:30,JPY,medium,CFTC JPY speculative net positions,-48.5K,,-59.8K
+30,01/05/2021,04:30,EUR,medium,CFTC EUR speculative net positions,81.0K,,80.8K
+31,03/05/2021,All Day,GBP,,United Kingdom - Bank Holiday,,,
+32,03/05/2021,All Day,JPY,,Japan - Constitution Day,,,
+33,03/05/2021,07:30,AUD,low,AIG Manufacturing Index  (Apr),61.7,,59.9
+34,03/05/2021,10:00,AUD,low,MI Inflation Gauge (MoM),0.4%,,0.4%
+35,03/05/2021,10:30,AUD,low,ANZ Job Advertisements (MoM),4.7%,,7.8%
+36,03/05/2021,14:30,GBP,medium,Investing.com GBP/USD Index,48.0%,,41.8%
+37,03/05/2021,14:30,USD,medium,Investing.com Gold Index,50.0%,,52.0%
+38,03/05/2021,14:30,AUD,medium,Investing.com AUD/USD Index,35.7%,,30.5%
+39,03/05/2021,14:30,JPY,medium,Investing.com USD/JPY Index,42.6%,,49.0%
+40,03/05/2021,14:30,EUR,medium,Investing.com EUR/USD Index,46.9%,,45.3%
+41,03/05/2021,15:30,AUD,low,Commodity Prices (YoY),34.7%,,27.2%
+42,03/05/2021,23:00,USD,medium,Construction Spending (MoM)  (Mar),0.2%,1.9%,-0.6%
+43,03/05/2021,23:00,USD,medium,ISM Manufacturing Employment  (Apr),55.1,61.5,59.6
+44,03/05/2021,23:00,USD,low,ISM Manufacturing New Orders Index  (Apr),64.3,,68.0
+45,03/05/2021,23:00,USD,high,ISM Manufacturing PMI  (Apr),60.7,65.0,64.7
+46,03/05/2021,23:00,USD,high,ISM Manufacturing Prices  (Apr),89.6,86.1,85.6
+47,04/05/2021,All Day,JPY,,Japan - Greenery Day,,,
+48,04/05/2021,00:00,EUR,medium,ECB's Enria Speaks,,,
+49,04/05/2021,00:30,USD,low,3-Month Bill Auction,0.015%,,0.020%
+50,04/05/2021,00:30,USD,low,6-Month Bill Auction,0.035%,,0.035%
+51,04/05/2021,03:00,USD,low,Loan Officer Survey,,,
+52,04/05/2021,03:10,USD,medium,FOMC Member Williams Speaks,,,
+53,04/05/2021,03:20,USD,high,Fed Chair Powell Speaks,,,
+54,04/05/2021,09:00,USD,low,Total Vehicle Sales,18.50M,,17.70M
+55,04/05/2021,09:30,AUD,low,Invest Housing Finance (MoM),12.7%,,4.5%
+56,04/05/2021,10:30,AUD,low,Exports (MoM)  (Mar),-2%,,-1%
+57,04/05/2021,10:30,AUD,medium,Home Loans (MoM),3.3%,,-1.8%
+58,04/05/2021,10:30,AUD,low,Imports (MoM)  (Mar),4%,,5%
+59,04/05/2021,10:30,AUD,medium,Trade Balance  (Mar),5.574B,8.000B,7.595B
+60,04/05/2021,13:30,AUD,high,RBA Interest Rate Decision  (May),0.10%,0.10%,0.10%
+61,04/05/2021,13:30,AUD,medium,RBA Rate Statement,,,
+62,04/05/2021,17:30,GBP,low,BoE Consumer Credit  (Mar),-0.535B,-0.500B,-1.168B
+63,04/05/2021,17:30,GBP,low,Mortgage Approvals  (Mar),82.74K,92.30K,87.39K
+64,04/05/2021,17:30,GBP,low,Mortgage Lending  (Mar),11.83B,5.80B,6.43B
+65,04/05/2021,17:30,GBP,low,Net Lending to Individuals,11.3B,,5.3B
+66,04/05/2021,21:30,USD,medium,Exports,200.03B,,187.60B
+67,04/05/2021,21:30,USD,medium,Imports,274.48B,,258.10B
+68,04/05/2021,21:30,USD,medium,Trade Balance  (Mar),-74.40B,-74.50B,-70.50B
+69,04/05/2021,21:55,USD,low,Redbook (YoY),14.2%,,13.9%
+70,04/05/2021,22:00,USD,low,All Car Sales  (Apr),4.13M,,3.93M
+71,04/05/2021,22:00,USD,low,All Truck Sales  (Apr),14.37M,,14.03M
+72,04/05/2021,23:00,USD,medium,Cap Goods Ship Non Defense Ex Air (MoM),1.6%,,-1.1%
+73,04/05/2021,23:00,USD,low,Durables Excluding Defense (MoM)  (Mar),0.8%,,0.5%
+74,04/05/2021,23:00,USD,medium,Factory Orders (MoM)  (Mar),1.1%,1.3%,-0.5%
+75,04/05/2021,23:00,USD,low,Factory orders ex transportation (MoM)  (Mar),1.7%,,-0.2%
+76,04/05/2021,23:00,USD,low,IBD/TIPP Economic Optimism,54.4,,56.4
+77,05/05/2021,All Day,JPY,,Japan - Children's Day,,,
+78,05/05/2021,02:00,USD,medium,FOMC Member Daly Speaks,,,
+79,05/05/2021,05:30,USD,medium,API Weekly Crude Oil Stock,-7.688M,-2.191M,4.319M
+80,05/05/2021,05:30,USD,low,API Weekly Gasoline Stock,-5.308M,,-1.288M
+81,05/05/2021,07:30,AUD,low,AIG Construction Index  (Apr),59.1,,61.8
+82,05/05/2021,10:30,AUD,medium,Building Approvals (MoM)  (Mar),17.4%,3.0%,20.1%
+83,05/05/2021,10:30,AUD,low,Private House Approvals  (Mar),0.1%,,15.1%
+84,05/05/2021,10:30,AUD,low,RBA Chart Pack Release,,,
+85,05/05/2021,17:45,GBP,medium,BoE Deputy Governor Woods Speaks,,,
+86,05/05/2021,18:00,EUR,low,PPI (YoY)  (Mar),4.3%,4.2%,1.5%
+87,05/05/2021,18:00,EUR,low,PPI (MoM)  (Mar),1.1%,1.1%,0.5%
+88,05/05/2021,19:15,GBP,low,10-Year Treasury Gilt Auction,0.920%,,0.892%
+89,05/05/2021,20:00,USD,low,MBA 30-Year Mortgage Rate,3.18%,,3.17%
+90,05/05/2021,20:00,USD,low,MBA Mortgage Applications (WoW),-0.9%,,-2.5%
+91,05/05/2021,20:00,USD,low,MBA Purchase Index,274.5,,281.4
+92,05/05/2021,20:00,USD,low,Mortgage Market Index,700.4,,706.6
+93,05/05/2021,20:00,USD,low,Mortgage Refinance Index,"3,188.7",,"3,185.3"
+94,05/05/2021,21:15,USD,high,ADP Nonfarm Employment Change  (Apr),742K,800K,565K
+95,05/05/2021,22:30,USD,low,Chicago Fed President Evans Speaks,,,
+96,05/05/2021,23:00,USD,low,ISM Non-Manufacturing Business Activity  (Apr),62.7,69.5,69.4
+97,05/05/2021,23:00,USD,medium,ISM Non-Manufacturing Employment  (Apr),58.8,,57.2
+98,05/05/2021,23:00,USD,low,ISM Non-Manufacturing New Orders  (Apr),63.2,,67.2
+99,05/05/2021,23:00,USD,high,ISM Non-Manufacturing PMI  (Apr),62.7,64.3,63.7
+100,05/05/2021,23:00,USD,high,ISM Non-Manufacturing Prices  (Apr),76.8,,74.0
+101,05/05/2021,23:00,EUR,medium,ECB's Lane Speaks,,,
+102,05/05/2021,23:30,USD,high,Crude Oil Inventories,-7.990M,-2.346M,0.090M
+103,05/05/2021,23:30,USD,low,EIA Refinery Crude Runs  (WoW),0.225M,,0.253M
+104,05/05/2021,23:30,USD,low,Crude Oil Imports,-2.746M,,1.218M
+105,05/05/2021,23:30,USD,medium,Cushing Crude Oil Inventories,0.254M,,0.722M
+106,05/05/2021,23:30,USD,low,Distillate Fuel Production,-0.128M,,0.071M
+107,05/05/2021,23:30,USD,low,EIA Weekly Distillates Stocks,-2.896M,-1.120M,-3.342M
+108,05/05/2021,23:30,USD,low,Gasoline Production,-0.483M,,0.243M
+109,05/05/2021,23:30,USD,low,Heating Oil Stockpiles,-0.024M,,-0.175M
+110,05/05/2021,23:30,USD,low,EIA Weekly Refinery Utilization Rates (WoW),1.1%,0.5%,0.4%
+111,05/05/2021,23:30,USD,low,Gasoline Inventories,0.737M,-0.652M,0.092M
+112,06/05/2021,00:00,USD,medium,FOMC Member Rosengren Speaks,,,
+113,06/05/2021,01:00,USD,medium,FOMC Member Mester Speaks,,,
+114,06/05/2021,04:00,USD,low,Chicago Fed President Evans Speaks,,,
+115,06/05/2021,05:30,USD,medium,Fed's Balance Sheet,"7,810.49B",,"7,780.96B"
+116,06/05/2021,08:50,JPY,medium,Monetary Policy Meeting Minutes,,,
+117,06/05/2021,17:00,EUR,medium,ECB Economic Bulletin,,,
+118,06/05/2021,18:00,AUD,medium,RBA Assist Gov Debelle Speaks,,,
+119,06/05/2021,18:00,EUR,low,Retail Sales (YoY)  (Mar),12.0%,9.6%,-1.5%
+120,06/05/2021,18:00,EUR,low,Retail Sales (MoM)  (Mar),2.7%,1.5%,4.2%
+121,06/05/2021,19:30,EUR,medium,ECB's De Guindos Speaks,,,
+122,06/05/2021,20:00,GBP,high,BoE Inflation Report,,,
+123,06/05/2021,20:00,GBP,medium,BoE MPC vote cut  (May),0,,0
+124,06/05/2021,20:00,GBP,medium,BoE MPC vote hike  (May),0,,0
+125,06/05/2021,20:00,GBP,medium,BoE MPC vote unchanged  (May),9,9,9
+126,06/05/2021,20:00,GBP,medium,BoE QE Total  (May),875B,875B,875B
+127,06/05/2021,20:00,GBP,high,BoE Interest Rate Decision  (May),0.10%,0.10%,0.10%
+128,06/05/2021,20:00,GBP,medium,BoE MPC Meeting Minutes,,,
+129,06/05/2021,20:15,EUR,medium,ECB President Lagarde Speaks,,,
+130,06/05/2021,20:30,USD,low,Challenger Job Cuts (YoY),-96.6%,,-86.2%
+131,06/05/2021,20:30,USD,low,Challenger Job Cuts  (Apr),22.913K,,30.603K
+132,06/05/2021,21:30,USD,medium,Continuing Jobless Claims,"3,690K","3,620K","3,653K"
+133,06/05/2021,21:30,USD,high,Initial Jobless Claims,498K,540K,590K
+134,06/05/2021,21:30,USD,low,Jobless Claims 4-Week Avg.,560.00K,,621.00K
+135,06/05/2021,21:30,USD,medium,Nonfarm Productivity (QoQ)  (Q1),5.4%,4.3%,-4.2%
+136,06/05/2021,21:30,USD,medium,Unit Labor Costs (QoQ)  (Q1),-0.3%,-0.8%,6.0%
+137,06/05/2021,22:00,USD,medium,FOMC Member Williams Speaks,,,
+138,06/05/2021,22:15,EUR,medium,ECB's Schnabel Speaks,,,
+139,06/05/2021,23:30,USD,low,Natural Gas Storage,60B,64B,15B
+140,07/05/2021,00:30,USD,low,4-Week Bill Auction,0.010%,,0.000%
+141,07/05/2021,00:30,USD,low,8-Week Bill Auction,0.010%,,0.010%
+142,07/05/2021,02:00,USD,medium,FOMC Member Bostic Speaks,,,
+143,07/05/2021,02:00,USD,medium,FOMC Member Mester Speaks,,,
+144,07/05/2021,07:05,USD,medium,FOMC Member Kaplan Speaks,,,
+145,07/05/2021,07:30,AUD,low,AIG Services Index  (Apr),61.0,,58.7
+146,07/05/2021,08:30,JPY,low,Overall wage income of employees  (Mar),0.2%,,-0.4%
+147,07/05/2021,08:30,JPY,low,Overtime Pay (YoY)  (Mar),-6.20%,,-9.10%
+148,07/05/2021,08:50,JPY,low,Average Cash Earnings (YoY),0.2%,,-0.4%
+149,07/05/2021,08:50,JPY,low,Monetary Base (YoY),24.3%,,20.8%
+150,07/05/2021,10:30,AUD,medium,RBA Monetary Policy Statement,,,
+151,07/05/2021,19:00,EUR,medium,ECB President Lagarde Speaks,,,
+152,07/05/2021,20:15,GBP,medium,BoE MPC Member Haldane Speaks,,,
+153,07/05/2021,20:15,GBP,medium,BoE MPC Member Broadbent Speaks,,,
+154,07/05/2021,21:30,USD,medium,Average Hourly Earnings (YoY) (YoY)  (Apr),0.3%,-0.4%,4.2%
+155,07/05/2021,21:30,USD,high,Average Hourly Earnings (MoM)  (Apr),0.7%,0.1%,-0.1%
+156,07/05/2021,21:30,USD,low,Average Weekly Hours  (Apr),35.0,34.9,34.9
+157,07/05/2021,21:30,USD,low,Government Payrolls  (Apr),48.0K,,62.0K
+158,07/05/2021,21:30,USD,low,Manufacturing Payrolls  (Apr),-18K,55K,54K
+159,07/05/2021,21:30,USD,high,Nonfarm Payrolls  (Apr),266K,978K,770K
+160,07/05/2021,21:30,USD,medium,Participation Rate  (Apr),61.7%,,61.5%
+161,07/05/2021,21:30,USD,medium,Private Nonfarm Payrolls  (Apr),218K,893K,708K
+162,07/05/2021,21:30,USD,medium,U6 Unemployment Rate  (Apr),10.4%,,10.7%
+163,07/05/2021,21:30,USD,high,Unemployment Rate  (Apr),6.1%,5.8%,6.0%
+164,07/05/2021,22:00,USD,low,FOMC Member Barkin Speaks,,,
+165,07/05/2021,23:00,USD,low,Wholesale Inventories (MoM),1.3%,,1.4%
+166,07/05/2021,23:00,USD,low,Wholesale Trade Sales (MoM)  (Mar),4.6%,1.0%,-0.8%
+167,08/05/2021,02:00,USD,medium,U.S. Baker Hughes Oil Rig Count,344,,342
+168,08/05/2021,02:00,USD,low,MBA Delinquency Rates (QoQ),6.38%,,6.73%
+169,08/05/2021,02:00,USD,medium,U.S. Baker Hughes Total Rig Count,448,,440
+170,08/05/2021,04:00,USD,medium,Consumer Credit  (Mar),25.84B,20.00B,26.13B
+171,08/05/2021,04:30,GBP,medium,CFTC GBP speculative net positions,19.8K,,29.2K
+172,08/05/2021,04:30,USD,low,CFTC Aluminium speculative net positions,3.1K,,3.4K
+173,08/05/2021,04:30,USD,low,CFTC Copper speculative net positions,53.8K,,49.3K
+174,08/05/2021,04:30,USD,low,CFTC Corn speculative net positions,536.1K,,521.6K
+175,08/05/2021,04:30,USD,medium,CFTC Crude Oil speculative net positions,500.0K,,489.7K
+176,08/05/2021,04:30,USD,medium,CFTC Gold speculative net positions,170.7K,,170.6K
+177,08/05/2021,04:30,USD,medium,CFTC Nasdaq 100 speculative net positions,-16.8K,,-7.8K
+178,08/05/2021,04:30,USD,low,CFTC Natural Gas speculative net positions,-55.8K,,-59.6K
+179,08/05/2021,04:30,USD,medium,CFTC S&P 500 speculative net positions,-33.8K,,2.3K
+180,08/05/2021,04:30,USD,low,CFTC Silver speculative net positions,47.9K,,42.8K
+181,08/05/2021,04:30,USD,low,CFTC Soybeans speculative net positions,247.6K,,250.6K
+182,08/05/2021,04:30,USD,low,CFTC Wheat speculative net positions,28.0K,,29.7K
+183,08/05/2021,04:30,AUD,medium,CFTC AUD speculative net positions,1.5K,,-1.4K
+184,08/05/2021,04:30,JPY,medium,CFTC JPY speculative net positions,-41.5K,,-48.5K
+185,08/05/2021,04:30,EUR,medium,CFTC EUR speculative net positions,84.8K,,81.0K
+186,10/05/2021,10:30,AUD,medium,NAB Business Confidence  (Apr),26,,17
+187,10/05/2021,10:30,AUD,low,NAB Business Survey  (Apr),32,,25
+188,10/05/2021,10:30,AUD,medium,Retail Sales (MoM)  (Mar),1.3%,1.4%,-0.8%
+189,10/05/2021,10:30,AUD,low,Retail Sales (QoQ)  (Q1),-0.5%,-0.4%,2.5%
+190,10/05/2021,14:30,GBP,medium,Investing.com GBP/USD Index,45.3%,,48.0%
+191,10/05/2021,14:30,USD,medium,Investing.com Gold Index,56.2%,,50.0%
+192,10/05/2021,14:30,AUD,medium,Investing.com AUD/USD Index,44.9%,,35.7%
+193,10/05/2021,14:30,JPY,medium,Investing.com USD/JPY Index,58.7%,,42.6%
+194,10/05/2021,14:30,EUR,medium,Investing.com EUR/USD Index,51.0%,,46.9%
+195,10/05/2021,16:30,GBP,medium,Halifax House Price Index (MoM)  (Apr),1.4%,,1.1%
+196,10/05/2021,16:30,GBP,medium,Halifax House Price Index (YoY),8.2%,,6.5%
+197,10/05/2021,17:30,EUR,low,Sentix Investor Confidence  (May),21.0,14.0,13.1
+198,10/05/2021,23:00,USD,low,CB Employment Trends Index  (Apr),105.40,,102.70
+199,11/05/2021,00:30,USD,low,3-Month Bill Auction,0.015%,,0.015%
+200,11/05/2021,00:30,USD,low,6-Month Bill Auction,0.035%,,0.035%
+201,11/05/2021,02:15,USD,high,U.S. President Biden Speaks,,,
+202,11/05/2021,03:00,USD,low,Chicago Fed President Evans Speaks,,,
+203,11/05/2021,08:01,GBP,medium,BRC Retail Sales Monitor (YoY)  (Apr),39.6%,,20.3%
+204,03/05/2021,All Day,GBP,,United Kingdom - Bank Holiday,,,
+205,03/05/2021,All Day,JPY,,Japan - Constitution Day,,,
+206,04/05/2021,All Day,JPY,,Japan - Greenery Day,,,
+207,05/05/2021,All Day,JPY,,Japan - Children's Day,,,
+208,11/05/2021,08:30,JPY,medium,Household Spending (MoM)  (Mar),7.2%,2.1%,2.4%
+209,11/05/2021,08:30,JPY,medium,Household Spending (YoY)  (Mar),6.2%,1.5%,-6.6%
+210,11/05/2021,08:50,JPY,low,BoJ Summary of Opinions,,,
+211,11/05/2021,12:45,JPY,medium,10-Year JGB Auction,0.070%,,0.123%
+212,11/05/2021,18:00,EUR,medium,ZEW Economic Sentiment  (May),84.0,,66.3
+213,11/05/2021,18:45,GBP,low,5-Year Treasury Gilt Auction,0.457%,,0.468%
+214,11/05/2021,19:00,USD,low,NFIB Small Business Optimism  (Apr),99.8,,98.2
+215,11/05/2021,20:00,USD,medium,OPEC Monthly Report,,,
+216,11/05/2021,Tentative,USD,medium,OPEC Monthly Report,,,
+217,11/05/2021,21:55,USD,low,Redbook (YoY),13.3%,,14.2%
+218,11/05/2021,23:00,USD,high,JOLTS Job Openings  (Mar),8.123M,7.500M,7.526M
+219,11/05/2021,23:30,GBP,medium,BoE Gov Bailey Speaks,,,
+220,11/05/2021,23:30,USD,medium,FOMC Member Williams Speaks,,,
+221,12/05/2021,01:00,USD,medium,EIA Short-Term Energy Outlook,,,
+222,12/05/2021,01:00,USD,medium,FOMC Member Brainard Speaks,,,
+223,12/05/2021,02:00,USD,medium,3-Year Note Auction,0.329%,,0.376%
+224,12/05/2021,02:00,USD,medium,FOMC Member Daly Speaks,,,
+225,12/05/2021,02:15,USD,medium,FOMC Member Bostic Speaks,,,
+226,12/05/2021,03:00,USD,medium,FOMC Member Harker Speaks,,,
+227,12/05/2021,05:30,USD,medium,API Weekly Crude Oil Stock,-2.533M,-2.250M,-7.688M
+228,12/05/2021,05:30,USD,low,API Weekly Gasoline Stock,5.640M,,-5.308M
+229,12/05/2021,08:50,JPY,low,Foreign Reserves (USD)  (Apr),"1,378.5B",,"1,368.5B"
+230,12/05/2021,10:30,AUD,medium,Building Approvals (MoM),17.4%,17.4%,21.6%
+231,12/05/2021,14:00,JPY,low,Coincident Indicator (MoM)  (Mar),3.2%,,-1.7%
+232,12/05/2021,14:00,JPY,low,Leading Index (MoM)  (Mar),4.3%,,0.6%
+233,12/05/2021,15:00,GBP,low,Business Investment (YoY)  (Q1),-18.1%,,-7.4%
+234,12/05/2021,15:00,GBP,medium,Business Investment (QoQ)  (Q1),-11.9%,,5.9%
+235,12/05/2021,15:00,GBP,low,U.K. Construction Output (YoY)  (Mar),6.0%,0.1%,-3.3%
+236,12/05/2021,15:00,GBP,low,Construction Output (MoM)  (Mar),5.8%,0.6%,2.3%
+237,12/05/2021,15:00,GBP,high,GDP (QoQ)  (Q1),-1.5%,-1.6%,1.3%
+238,12/05/2021,15:00,GBP,high,GDP (YoY)  (Q1),-6.1%,-6.1%,-7.3%
+239,12/05/2021,15:00,GBP,high,GDP (MoM),2.1%,,0.4%
+240,12/05/2021,15:00,GBP,low,Index of Services,-2.0%,,-1.9%
+241,12/05/2021,15:00,GBP,medium,Industrial Production (MoM)  (Mar),1.8%,1.0%,1.0%
+242,12/05/2021,15:00,GBP,low,Industrial Production (YoY)  (Mar),3.6%,2.8%,-3.5%
+243,12/05/2021,15:00,GBP,low,Manufacturing Production (YoY)  (Mar),4.8%,3.8%,-4.2%
+244,12/05/2021,15:00,GBP,medium,Manufacturing Production (MoM)  (Mar),2.1%,1.0%,1.3%
+245,12/05/2021,15:00,GBP,medium,Monthly GDP 3M/3M Change,-1.5%,,-1.7%
+246,12/05/2021,15:00,GBP,medium,Trade Balance  (Mar),-11.71B,-14.40B,-10.51B
+247,12/05/2021,15:00,GBP,medium,Trade Balance Non-EU  (Mar),-6.55B,-3.50B,-5.14B
+248,12/05/2021,16:55,EUR,medium,ECB's Enria Speaks,,,
+249,12/05/2021,17:00,USD,medium,IEA Monthly Report,,,
+250,12/05/2021,18:00,GBP,medium,BoE Gov Bailey Speaks,,,
+251,12/05/2021,18:00,EUR,medium,Industrial Production (MoM)  (Mar),0.1%,0.7%,-1.2%
+252,12/05/2021,18:00,EUR,low,Industrial Production (YoY)  (Mar),10.9%,11.6%,-1.8%
+253,12/05/2021,20:00,USD,low,MBA 30-Year Mortgage Rate,3.11%,,3.18%
+254,12/05/2021,20:00,USD,low,MBA Mortgage Applications (WoW),2.1%,,-0.9%
+255,12/05/2021,20:00,USD,low,MBA Purchase Index,276.7,,274.5
+256,12/05/2021,20:00,USD,low,Mortgage Market Index,715.3,,700.4
+257,12/05/2021,20:00,USD,low,Mortgage Refinance Index,"3,281.0",,"3,188.7"
+258,12/05/2021,21:30,USD,medium,Core CPI (YoY)  (Apr),3.0%,2.3%,1.6%
+259,12/05/2021,21:30,USD,high,Core CPI (MoM)  (Apr),0.9%,0.3%,0.3%
+260,12/05/2021,21:30,USD,low,Core CPI Index  (Apr),273.70,,271.21
+261,12/05/2021,21:30,USD,high,CPI (MoM)  (Apr),0.8%,0.2%,0.6%
+262,12/05/2021,21:30,USD,high,CPI (YoY)  (Apr),4.2%,3.6%,2.6%
+263,12/05/2021,21:30,USD,low,"CPI Index, n.s.a.  (Apr)",267.05,265.58,264.88
+264,12/05/2021,21:30,USD,low,"CPI Index, s.a  (Apr)",266.83,,264.79
+265,12/05/2021,21:30,USD,low,"CPI, n.s.a (MoM)  (Apr)",0.82%,,0.71%
+266,12/05/2021,21:30,USD,low,Real Earnings (MoM)  (Apr),0.2%,,0.1%
+267,12/05/2021,22:00,GBP,medium,NIESR Monthly GDP Tracker,1.3%,,-1.5%
+268,12/05/2021,22:00,USD,medium,FOMC Member Clarida Speaks,,,
+269,12/05/2021,23:30,USD,high,Crude Oil Inventories,-0.427M,-2.817M,-7.990M
+270,12/05/2021,23:30,USD,low,EIA Refinery Crude Runs  (WoW),-0.223M,,0.225M
+271,12/05/2021,23:30,USD,low,Crude Oil Imports,2.363M,,-2.746M
+272,12/05/2021,23:30,USD,medium,Cushing Crude Oil Inventories,-0.421M,,0.254M
+273,12/05/2021,23:30,USD,low,Distillate Fuel Production,0.157M,,-0.128M
+274,12/05/2021,23:30,USD,low,EIA Weekly Distillates Stocks,-1.733M,-1.080M,-2.896M
+275,12/05/2021,23:30,USD,low,Gasoline Production,0.442M,,-0.483M
+276,12/05/2021,23:30,USD,low,Heating Oil Stockpiles,-0.315M,,-0.024M
+277,12/05/2021,23:30,USD,low,EIA Weekly Refinery Utilization Rates (WoW),-0.4%,0.5%,1.1%
+278,12/05/2021,23:30,USD,low,Gasoline Inventories,0.378M,-0.600M,0.737M
+279,13/05/2021,00:00,USD,low,Cleveland CPI (MoM)  (Apr),0.2%,,0.2%
+280,13/05/2021,01:00,USD,low,Thomson Reuters IPSOS PCSI  (May),62.09,,59.00
+281,13/05/2021,01:00,USD,medium,WASDE Report,,,
+282,13/05/2021,02:00,USD,high,10-Year Note Auction,1.684%,,1.680%
+283,13/05/2021,02:00,USD,medium,FOMC Member Bostic Speaks,,,
+284,13/05/2021,02:30,USD,medium,FOMC Member Harker Speaks,,,
+285,13/05/2021,03:00,USD,medium,Federal Budget Balance  (Apr),-226.0B,-220.0B,-660.0B
+286,13/05/2021,05:30,USD,medium,Fed's Balance Sheet,"7,830.66B",,"7,810.49B"
+287,13/05/2021,08:50,JPY,medium,Adjusted Current Account,1.70T,,1.84T
+288,13/05/2021,08:50,JPY,low,Bank Lending (YoY)  (Apr),4.8%,,6.3%
+289,13/05/2021,08:50,JPY,medium,Current Account n.s.a.  (Mar),2.650T,2.796T,2.917T
+290,13/05/2021,08:50,JPY,low,Foreign Bonds Buying,-73.6B,,132.8B
+291,13/05/2021,08:50,JPY,low,Foreign Investments in Japanese Stocks,144.8B,,492.2B
+292,13/05/2021,12:45,JPY,low,30-Year JGB Auction,0.645%,,0.691%
+293,13/05/2021,14:00,JPY,low,Economy Watchers Current Index  (Apr),39.1,,49.0
+294,13/05/2021,20:00,GBP,low,Thomson Reuters IPSOS PCSI  (May),55.8,,53.1
+295,13/05/2021,21:00,GBP,medium,BoE MPC Member Cunliffe Speaks,,,
+296,13/05/2021,21:30,USD,medium,Continuing Jobless Claims,"3,655K","3,655K","3,700K"
+297,13/05/2021,21:30,USD,medium,Core PPI (MoM)  (Apr),0.7%,0.4%,0.7%
+298,13/05/2021,21:30,USD,low,Core PPI (YoY)  (Apr),4.1%,3.7%,3.1%
+299,13/05/2021,21:30,USD,high,Initial Jobless Claims,473K,490K,507K
+300,13/05/2021,21:30,USD,low,Jobless Claims 4-Week Avg.,534.00K,,562.25K
+301,13/05/2021,21:30,USD,low,PPI (YoY)  (Apr),6.2%,5.9%,4.2%
+302,13/05/2021,21:30,USD,high,PPI (MoM)  (Apr),0.6%,0.3%,1.0%
+303,13/05/2021,23:30,USD,low,Natural Gas Storage,71B,76B,60B
+304,14/05/2021,00:30,USD,low,4-Week Bill Auction,0.000%,,0.010%
+305,14/05/2021,00:30,USD,low,8-Week Bill Auction,0.010%,,0.010%
+306,14/05/2021,01:00,GBP,medium,BoE Gov Bailey Speaks,,,
+307,14/05/2021,02:00,USD,high,30-Year Bond Auction,2.395%,,2.320%
+308,14/05/2021,02:00,USD,medium,Fed Waller Speaks,,,
+309,14/05/2021,05:00,USD,medium,FOMC Member Bullard Speaks,,,
+310,14/05/2021,08:50,JPY,low,M2 Money Stock (YoY),9.2%,,9.4%
+311,14/05/2021,08:50,JPY,low,M3 Money Supply  (Apr),"1,953.6T",,"1,948.0T"
+312,14/05/2021,09:00,AUD,medium,HIA New Home Sales (MoM),-54.4%,,90.3%
+313,14/05/2021,11:00,JPY,low,Thomson Reuters IPSOS PCSI  (May),36.30,,41.07
+314,14/05/2021,19:00,EUR,medium,Eurogroup Meetings,,,
+315,14/05/2021,20:30,EUR,medium,ECB Publishes Account of Monetary Policy Meeting,,,
+316,14/05/2021,21:30,USD,high,Core Retail Sales (MoM)  (Apr),-0.8%,0.7%,9.0%
+317,14/05/2021,21:30,USD,medium,Export Price Index (MoM)  (Apr),0.8%,0.6%,2.4%
+318,14/05/2021,21:30,USD,low,Export Price Index (YoY),14.4%,,9.1%
+319,14/05/2021,21:30,USD,low,Import Price Index (YoY),10.6%,,6.9%
+320,14/05/2021,21:30,USD,medium,Import Price Index (MoM)  (Apr),0.7%,0.6%,1.4%
+321,14/05/2021,21:30,USD,low,Import Price Index ex Petroleum (MoM),0.7%,,0.8%
+322,14/05/2021,21:30,USD,medium,Retail Control (MoM)  (Apr),-1.5%,-0.2%,7.6%
+323,14/05/2021,21:30,USD,low,Retail Sales (YoY)  (Apr),51.22%,,29.01%
+324,14/05/2021,21:30,USD,high,Retail Sales (MoM)  (Apr),0.0%,1.0%,10.7%
+325,14/05/2021,21:30,USD,low,Retail Sales Ex Gas/Autos (MoM)  (Apr),-0.8%,,8.9%
+326,14/05/2021,22:15,USD,low,Capacity Utilization Rate  (Apr),74.9%,75.0%,74.4%
+327,14/05/2021,22:15,USD,medium,Industrial Production (YoY)  (Apr),16.49%,,1.04%
+328,14/05/2021,22:15,USD,medium,Industrial Production (MoM)  (Apr),0.7%,1.0%,2.4%
+329,14/05/2021,22:15,USD,low,Manufacturing Production (MoM)  (Apr),0.4%,0.4%,3.1%
+330,14/05/2021,23:00,USD,medium,Business Inventories (MoM)  (Mar),0.3%,0.3%,0.6%
+331,14/05/2021,23:00,USD,medium,Michigan 1-Year Inflation Expectations  (May),4.6%,,3.4%
+332,14/05/2021,23:00,USD,medium,Michigan 5-Year Inflation Expectations  (May),3.10%,,2.70%
+333,14/05/2021,23:00,USD,medium,Michigan Consumer Expectations  (May),77.6,85.0,82.7
+334,14/05/2021,23:00,USD,medium,Michigan Consumer Sentiment  (May),82.8,90.4,88.3
+335,14/05/2021,23:00,USD,low,Michigan Current Conditions  (May),90.8,99.6,97.2
+336,14/05/2021,23:00,USD,medium,Retail Inventories Ex Auto  (Mar),0.6%,,0.6%
+337,15/05/2021,02:00,USD,medium,U.S. Baker Hughes Oil Rig Count,352,,344
+338,15/05/2021,02:00,USD,medium,U.S. Baker Hughes Total Rig Count,453,,448
+339,15/05/2021,04:30,GBP,medium,CFTC GBP speculative net positions,28.2K,,19.8K
+340,15/05/2021,04:30,USD,low,CFTC Aluminium speculative net positions,3.2K,,3.1K
+341,15/05/2021,04:30,USD,low,CFTC Copper speculative net positions,45.8K,,53.8K
+342,15/05/2021,04:30,USD,low,CFTC Corn speculative net positions,500.9K,,536.1K
+343,15/05/2021,04:30,USD,medium,CFTC Crude Oil speculative net positions,496.6K,,500.0K
+344,15/05/2021,04:30,USD,medium,CFTC Gold speculative net positions,192.3K,,170.7K
+345,15/05/2021,04:30,USD,medium,CFTC Nasdaq 100 speculative net positions,-6.0K,,-16.8K
+346,15/05/2021,04:30,USD,low,CFTC Natural Gas speculative net positions,-65.5K,,-55.8K
+347,15/05/2021,04:30,USD,medium,CFTC S&P 500 speculative net positions,-36.8K,,-33.8K
+348,15/05/2021,04:30,USD,low,CFTC Silver speculative net positions,52.8K,,47.9K
+349,15/05/2021,04:30,USD,low,CFTC Soybeans speculative net positions,245.9K,,247.6K
+350,15/05/2021,04:30,USD,low,CFTC Wheat speculative net positions,24.3K,,28.0K
+351,15/05/2021,04:30,AUD,medium,CFTC AUD speculative net positions,2.4K,,1.5K
+352,15/05/2021,04:30,JPY,medium,CFTC JPY speculative net positions,-41.7K,,-41.5K
+353,15/05/2021,04:30,EUR,medium,CFTC EUR speculative net positions,93.9K,,84.8K
+354,17/05/2021,08:01,GBP,low,Rightmove House Price Index (MoM),1.8%,,2.1%
+355,17/05/2021,08:50,JPY,low,PPI (YoY)  (Apr),3.6%,3.1%,1.2%
+356,17/05/2021,08:50,JPY,low,PPI (MoM)  (Apr),0.7%,0.5%,1.0%
+357,17/05/2021,14:30,GBP,medium,Investing.com GBP/USD Index,50.5%,,45.3%
+358,17/05/2021,14:30,USD,medium,Investing.com Gold Index,59.9%,,56.2%
+359,17/05/2021,14:30,AUD,medium,Investing.com AUD/USD Index,46.3%,,44.9%
+360,17/05/2021,14:30,JPY,medium,Investing.com USD/JPY Index,61.6%,,58.7%
+361,17/05/2021,14:30,EUR,medium,Investing.com EUR/USD Index,53.7%,,51.0%
+362,17/05/2021,15:00,JPY,low,Machine Tool Orders (YoY),120.8%,,65.1%
+363,17/05/2021,19:00,EUR,low,Reserve Assets Total  (Apr),852.14B,,849.49B
+364,17/05/2021,21:00,EUR,medium,ECB McCaul Speaks,,,
+365,17/05/2021,21:30,USD,medium,NY Empire State Manufacturing Index  (May),24.30,23.90,26.30
+366,17/05/2021,23:00,USD,low,NAHB Housing Market Index  (May),83,83,83
+367,17/05/2021,23:05,USD,medium,FOMC Member Clarida Speaks,,,
+368,17/05/2021,23:15,GBP,medium,MPC Member Tenreyro Speaks,,,
+369,17/05/2021,23:25,USD,medium,FOMC Member Bostic Speaks,,,
+370,17/05/2021,23:25,USD,medium,FOMC Member Clarida Speaks,,,
+371,18/05/2021,00:30,GBP,medium,MPC Member Vlieghe Speaks,,,
+372,18/05/2021,00:30,USD,low,3-Month Bill Auction,0.015%,,0.015%
+373,18/05/2021,00:30,USD,low,6-Month Bill Auction,0.030%,,0.035%
+374,18/05/2021,01:30,GBP,medium,BoE MPC Member Haldane Speaks,,,
+375,18/05/2021,05:00,USD,low,"US Foreign Buying, T-bonds  (Mar)",118.90B,,-65.50B
+376,18/05/2021,05:00,USD,low,Overall Net Capital Flow  (Mar),146.40B,,73.70B
+377,18/05/2021,05:00,USD,medium,TIC Net Long-Term Transactions  (Mar),262.2B,,4.3B
+378,18/05/2021,05:00,USD,low,TIC Net Long-Term Transactions including Swaps  (Mar),224.70B,,-36.80B
+379,18/05/2021,08:50,JPY,medium,GDP (YoY)  (Q1),-5.1%,-4.6%,11.6%
+380,18/05/2021,08:50,JPY,high,GDP (QoQ)  (Q1),-1.3%,-1.2%,2.8%
+381,18/05/2021,08:50,JPY,low,GDP Capital Expenditure (QoQ)  (Q1),-1.4%,1.1%,4.3%
+382,18/05/2021,08:50,JPY,low,GDP External Demand (QoQ)  (Q1),-0.2%,-0.2%,1.0%
+383,18/05/2021,08:50,JPY,medium,GDP Price Index (YoY),-0.2%,,0.3%
+384,18/05/2021,08:50,JPY,low,GDP Private Consumption (QoQ)  (Q1),-1.4%,-2.0%,2.2%
+385,18/05/2021,10:30,AUD,medium,RBA Meeting Minutes,,,
+386,18/05/2021,13:30,JPY,medium,Tertiary Industry Activity Index (MoM),1.1%,,0.3%
+387,18/05/2021,15:00,GBP,low,Average Earnings ex Bonus  (Mar),4.6%,4.6%,4.4%
+388,18/05/2021,15:00,GBP,medium,Average Earnings Index +Bonus  (Mar),4.0%,4.5%,4.5%
+389,18/05/2021,15:00,GBP,medium,Claimant Count Change  (Apr),-15.1K,,-19.4K
+390,18/05/2021,15:00,GBP,medium,Employment Change 3M/3M (MoM)  (Mar),84K,50K,-73K
+391,18/05/2021,15:00,GBP,medium,Labour Productivity,0.8%,,-4.3%
+392,18/05/2021,15:00,GBP,medium,Unemployment Rate  (Mar),4.8%,4.9%,4.9%
+393,18/05/2021,18:00,EUR,low,Employment Change (YoY),-2.1%,,-1.9%
+394,18/05/2021,18:00,EUR,low,Employment Change (QoQ),-0.3%,,0.4%
+395,18/05/2021,18:00,EUR,low,Employment Overall  (Q1),"157,440.7K",,"157,972.0K"
+396,18/05/2021,18:00,EUR,medium,GDP (QoQ)  (Q1),-0.6%,-0.6%,-0.6%
+397,18/05/2021,18:00,EUR,medium,GDP (YoY)  (Q1),-1.8%,-1.8%,-1.8%
+398,18/05/2021,18:00,EUR,medium,Trade Balance  (Mar),15.8B,,23.0B
+399,18/05/2021,19:45,GBP,low,20-Year Treasury Gilt Auction,1.392%,,1.223%
+400,18/05/2021,21:30,USD,low,Building Permits (MoM)  (Apr),0.3%,,1.7%
+401,18/05/2021,21:30,USD,medium,Building Permits  (Apr),1.760M,1.770M,1.755M
+402,18/05/2021,21:30,USD,medium,Housing Starts (MoM)  (Apr),-9.5%,,19.8%
+403,18/05/2021,21:30,USD,medium,Housing Starts  (Apr),1.569M,1.710M,1.733M
+404,18/05/2021,21:55,USD,low,Redbook (YoY),12.6%,,13.3%
+405,18/05/2021,23:00,EUR,medium,ECB President Lagarde Speaks,,,
+406,19/05/2021,00:30,USD,low,52-Week Bill Auction,0.055%,,0.065%
+407,19/05/2021,01:30,USD,medium,FOMC Member Bostic Speaks,,,
+408,03/05/2021,All Day,GBP,,United Kingdom - Bank Holiday,,,
+409,03/05/2021,All Day,JPY,,Japan - Constitution Day,,,
+410,04/05/2021,All Day,JPY,,Japan - Greenery Day,,,
+411,05/05/2021,All Day,JPY,,Japan - Children's Day,,,
+412,19/05/2021,05:30,USD,medium,API Weekly Crude Oil Stock,0.620M,1.680M,-2.533M
+413,19/05/2021,05:30,USD,low,API Weekly Gasoline Stock,-2.837M,,5.640M
+414,19/05/2021,09:30,AUD,low,Westpac Consumer Sentiment  (May),-4.8%,,6.2%
+415,19/05/2021,10:30,AUD,medium,Wage Price Index (QoQ)  (Q1),0.6%,0.5%,0.6%
+416,19/05/2021,10:30,AUD,low,Wage Price Index (YoY)  (Q1),1.5%,1.4%,1.4%
+417,19/05/2021,13:30,JPY,low,Capacity Utilization (MoM)  (Mar),5.6%,,-2.8%
+418,19/05/2021,13:30,JPY,medium,Industrial Production (MoM)  (Mar),1.7%,,2.2%
+419,19/05/2021,15:00,GBP,low,Car Registration (MoM)  (Apr),-50.1%,,453.4%
+420,19/05/2021,15:00,GBP,low,Car Registration (YoY)  (Apr),"3,176.6%",,11.5%
+421,19/05/2021,15:00,GBP,low,Core CPI (YoY)  (Apr),1.3%,1.3%,1.1%
+422,19/05/2021,15:00,GBP,low,Core CPI (MoM)  (Apr),0.3%,0.4%,0.4%
+423,19/05/2021,15:00,GBP,low,Core PPI Output (YoY)  (Apr),2.5%,,2.0%
+424,19/05/2021,15:00,GBP,low,Core PPI Output (MoM)  (Apr),0.5%,,0.7%
+425,19/05/2021,15:00,GBP,low,Core RPI (MoM)  (Apr),1.5%,,0.3%
+426,19/05/2021,15:00,GBP,low,Core RPI (YoY)  (Apr),3.2%,,1.6%
+427,19/05/2021,15:00,GBP,medium,CPI (MoM)  (Apr),0.6%,0.6%,0.3%
+428,19/05/2021,15:00,GBP,high,CPI (YoY)  (Apr),1.5%,1.4%,0.7%
+429,19/05/2021,15:00,GBP,low,"CPI, n.s.a  (Apr)",110.10,,109.40
+430,19/05/2021,15:00,GBP,medium,CPIH (YoY),1.6%,0.9%,1.0%
+431,19/05/2021,15:00,GBP,medium,PPI Input (MoM)  (Apr),1.2%,1.1%,1.9%
+432,19/05/2021,15:00,GBP,low,PPI Input (YoY)  (Apr),9.9%,9.0%,6.4%
+433,19/05/2021,15:00,GBP,low,PPI Output (YoY)  (Apr),3.9%,3.5%,2.3%
+434,19/05/2021,15:00,GBP,low,PPI Output (MoM)  (Apr),0.4%,0.4%,0.8%
+435,19/05/2021,15:00,GBP,low,RPI (MoM)  (Apr),1.4%,0.8%,0.3%
+436,19/05/2021,15:00,GBP,low,RPI (YoY)  (Apr),2.9%,2.4%,1.5%
+437,19/05/2021,16:20,EUR,medium,ECB's Panetta Speaks,,,
+438,19/05/2021,17:00,EUR,medium,ECB Financial Stability Review,,,
+439,19/05/2021,17:30,GBP,low,House Price Index (YoY),10.2%,,9.2%
+440,19/05/2021,18:00,EUR,low,Core CPI (MoM)  (Apr),0.5%,0.6%,1.0%
+441,19/05/2021,18:00,EUR,medium,Core CPI (YoY)  (Apr),0.7%,0.8%,0.9%
+442,19/05/2021,18:00,EUR,high,CPI (YoY)  (Apr),1.6%,1.6%,1.3%
+443,19/05/2021,18:00,EUR,medium,CPI (MoM)  (Apr),0.6%,0.6%,0.9%
+444,19/05/2021,18:00,EUR,low,CPI ex Tobacco (MoM)  (Apr),0.6%,,0.9%
+445,19/05/2021,18:00,EUR,low,CPI ex Tobacco (YoY)  (Apr),1.6%,,1.3%
+446,19/05/2021,18:00,EUR,low,HICP ex Energy & Food (YoY)  (Apr),0.8%,0.8%,0.8%
+447,19/05/2021,18:00,EUR,low,HICP ex Energy and Food (MoM)  (Apr),0.5%,0.5%,0.8%
+448,19/05/2021,20:00,USD,low,MBA 30-Year Mortgage Rate,3.15%,,3.11%
+449,19/05/2021,20:00,USD,low,MBA Mortgage Applications (WoW),1.2%,,2.1%
+450,19/05/2021,20:00,USD,low,MBA Purchase Index,265.3,,276.7
+451,19/05/2021,20:00,USD,low,Mortgage Market Index,724.2,,715.3
+452,19/05/2021,20:00,USD,low,Mortgage Refinance Index,"3,413.3",,"3,281.0"
+453,19/05/2021,23:00,USD,medium,FOMC Member Quarles Speaks,,,
+454,19/05/2021,23:00,EUR,medium,ECB's Enria Speaks,,,
+455,19/05/2021,23:30,USD,high,Crude Oil Inventories,1.321M,1.623M,-0.427M
+456,19/05/2021,23:30,USD,low,EIA Refinery Crude Runs  (WoW),0.096M,,-0.223M
+457,19/05/2021,23:30,USD,low,Crude Oil Imports,-0.587M,,2.363M
+458,19/05/2021,23:30,USD,medium,Cushing Crude Oil Inventories,-0.142M,,-0.421M
+459,19/05/2021,23:30,USD,low,Distillate Fuel Production,-0.102M,,0.157M
+460,19/05/2021,23:30,USD,low,EIA Weekly Distillates Stocks,-2.324M,-0.386M,-1.733M
+461,19/05/2021,23:30,USD,low,Gasoline Production,0.165M,,0.442M
+462,19/05/2021,23:30,USD,low,Heating Oil Stockpiles,-0.164M,,-0.315M
+463,19/05/2021,23:30,USD,low,EIA Weekly Refinery Utilization Rates (WoW),0.2%,-0.7%,-0.4%
+464,19/05/2021,23:30,USD,low,Gasoline Inventories,-1.963M,-0.886M,0.378M
+465,20/05/2021,00:35,USD,medium,FOMC Member Bostic Speaks,,,
+466,20/05/2021,00:50,EUR,medium,ECB's Lane Speaks,,,
+467,20/05/2021,02:00,USD,medium,20-Year Bond Auction,2.286%,,2.144%
+468,20/05/2021,03:00,USD,high,FOMC Meeting Minutes,,,
+469,20/05/2021,05:30,USD,medium,Fed's Balance Sheet,"7,922.88B",,"7,830.66B"
+470,20/05/2021,08:00,JPY,low,Reuters Tankan Index  (May),21,,13
+471,20/05/2021,08:50,JPY,medium,Adjusted Trade Balance,0.07T,,0.30T
+472,20/05/2021,08:50,JPY,low,Core Machinery Orders (YoY)  (Mar),-2.0%,-2.6%,-7.1%
+473,20/05/2021,08:50,JPY,low,Core Machinery Orders (MoM)  (Mar),3.7%,6.4%,-8.5%
+474,20/05/2021,08:50,JPY,medium,Exports (YoY)  (Apr),38.0%,30.9%,16.1%
+475,20/05/2021,08:50,JPY,low,Foreign Bonds Buying,600.2B,,-72.2B
+476,20/05/2021,08:50,JPY,low,Foreign Investments in Japanese Stocks,-471.4B,,144.7B
+477,20/05/2021,08:50,JPY,low,Imports (YoY)  (Apr),12.8%,8.8%,5.8%
+478,20/05/2021,08:50,JPY,medium,Trade Balance  (Apr),255.3B,140.0B,662.2B
+479,20/05/2021,10:00,AUD,low,MI Inflation Expectations,3.5%,,3.2%
+480,20/05/2021,10:30,AUD,medium,Employment Change  (Apr),-30.6K,15.0K,77.0K
+481,20/05/2021,10:30,AUD,medium,Full Employment Change  (Apr),33.8K,,-21.1K
+482,20/05/2021,10:30,AUD,low,Participation Rate  (Apr),66.0%,66.3%,66.3%
+483,20/05/2021,10:30,AUD,medium,Unemployment Rate  (Apr),5.5%,5.6%,5.7%
+484,20/05/2021,17:00,EUR,low,Current Account  (Mar),17.8B,,25.9B
+485,20/05/2021,17:00,EUR,low,Current Account n.s.a.  (Mar),31.0B,,13.3B
+486,20/05/2021,18:00,EUR,low,Construction Output (MoM)  (Mar),2.73%,,-2.03%
+487,20/05/2021,18:00,EUR,medium,ECB's Lane Speaks,,,
+488,20/05/2021,18:05,GBP,medium,BoE MPC Member Cunliffe Speaks,,,
+489,20/05/2021,19:00,GBP,low,CBI Industrial Trends Orders  (May),17,,-8
+490,20/05/2021,21:00,EUR,medium,ECB President Lagarde Speaks,,,
+491,20/05/2021,21:30,USD,medium,Continuing Jobless Claims,"3,751K","3,640K","3,640K"
+492,20/05/2021,21:30,USD,high,Initial Jobless Claims,444K,450K,478K
+493,20/05/2021,21:30,USD,low,Jobless Claims 4-Week Avg.,504.75K,,535.25K
+494,20/05/2021,21:30,USD,high,Philadelphia Fed Manufacturing Index  (May),31.5,43.0,50.2
+495,20/05/2021,21:30,USD,low,Philly Fed Business Conditions  (May),52.7,,66.6
+496,20/05/2021,21:30,USD,low,Philly Fed CAPEX Index  (May),37.40,,36.70
+497,20/05/2021,21:30,USD,medium,Philly Fed Employment  (May),19.3,,30.8
+498,20/05/2021,21:30,USD,low,Philly Fed New Orders  (May),32.5,,36.0
+499,20/05/2021,21:30,USD,low,Philly Fed Prices Paid  (May),76.80,,69.10
+500,20/05/2021,23:00,USD,medium,US Leading Index (MoM)  (Apr),1.6%,1.4%,1.3%
+501,20/05/2021,23:30,USD,low,Natural Gas Storage,71B,60B,71B
+502,21/05/2021,00:30,USD,low,4-Week Bill Auction,0.000%,,0.000%
+503,21/05/2021,00:30,USD,low,8-Week Bill Auction,0.005%,,0.010%
+504,21/05/2021,02:00,USD,medium,10-Year TIPS Auction,-0.805%,,-0.580%
+505,21/05/2021,08:01,GBP,low,GfK Consumer Confidence  (May),-9,-12,-15
+506,21/05/2021,08:30,JPY,low,"CPI, n.s.a (MoM)  (Apr)",-0.3%,,0.2%
+507,21/05/2021,08:30,JPY,medium,National Core CPI (YoY)  (Apr),-0.1%,-0.2%,-0.1%
+508,21/05/2021,08:30,JPY,medium,National CPI (MoM),-0.4%,,0.2%
+509,21/05/2021,08:30,JPY,low,National CPI (YoY)  (Apr),-0.4%,,-0.2%
+510,21/05/2021,10:30,AUD,medium,Retail Sales (MoM)  (Apr),1.1%,,1.3%
+511,21/05/2021,15:00,GBP,medium,Core Retail Sales (MoM)  (Apr),9.0%,4.2%,4.6%
+512,21/05/2021,15:00,GBP,medium,Core Retail Sales (YoY)  (Apr),37.7%,31.7%,7.9%
+513,21/05/2021,15:00,GBP,medium,Retail Sales (MoM)  (Apr),9.2%,4.5%,5.1%
+514,21/05/2021,15:00,GBP,medium,Retail Sales (YoY)  (Apr),42.4%,36.8%,7.2%
+515,21/05/2021,20:00,EUR,medium,ECB President Lagarde Speaks,,,
+516,21/05/2021,23:00,USD,high,Existing Home Sales  (Apr),5.85M,6.09M,6.01M
+517,21/05/2021,23:00,USD,medium,Existing Home Sales (MoM)  (Apr),-2.7%,2.0%,-3.7%
+518,21/05/2021,23:00,EUR,low,Consumer Confidence  (May),-5.1,-6.8,-8.1
+519,22/05/2021,02:00,USD,medium,U.S. Baker Hughes Oil Rig Count,356,,352
+520,22/05/2021,02:00,USD,medium,U.S. Baker Hughes Total Rig Count,455,,453
+521,22/05/2021,04:30,GBP,medium,CFTC GBP speculative net positions,24.9K,,28.2K
+522,22/05/2021,04:30,USD,low,CFTC Aluminium speculative net positions,3.2K,,3.2K
+523,22/05/2021,04:30,USD,low,CFTC Copper speculative net positions,39.0K,,45.8K
+524,22/05/2021,04:30,USD,low,CFTC Corn speculative net positions,459.5K,,500.9K
+525,22/05/2021,04:30,USD,medium,CFTC Crude Oil speculative net positions,475.9K,,496.6K
+526,22/05/2021,04:30,USD,medium,CFTC Gold speculative net positions,198.9K,,192.3K
+527,22/05/2021,04:30,USD,medium,CFTC Nasdaq 100 speculative net positions,-6.1K,,-6.0K
+528,22/05/2021,04:30,USD,low,CFTC Natural Gas speculative net positions,-68.8K,,-65.5K
+529,22/05/2021,04:30,USD,medium,CFTC S&P 500 speculative net positions,-23.2K,,-36.8K
+530,22/05/2021,04:30,USD,low,CFTC Silver speculative net positions,51.0K,,52.8K
+531,22/05/2021,04:30,USD,low,CFTC Soybeans speculative net positions,228.3K,,245.9K
+532,22/05/2021,04:30,USD,low,CFTC Wheat speculative net positions,25.7K,,24.3K
+533,22/05/2021,04:30,AUD,medium,CFTC AUD speculative net positions,3.0K,,2.4K
+534,22/05/2021,04:30,JPY,medium,CFTC JPY speculative net positions,-50.9K,,-41.7K
+535,22/05/2021,04:30,EUR,medium,CFTC EUR speculative net positions,99.9K,,93.9K
+536,22/05/2021,20:30,EUR,medium,ECB's De Guindos Speaks,,,
+537,24/05/2021,14:30,GBP,medium,Investing.com GBP/USD Index,42.2%,,50.5%
+538,24/05/2021,14:30,USD,medium,Investing.com Gold Index,55.1%,,59.9%
+539,24/05/2021,14:30,AUD,medium,Investing.com AUD/USD Index,45.4%,,46.3%
+540,24/05/2021,14:30,JPY,medium,Investing.com USD/JPY Index,60.8%,,61.6%
+541,24/05/2021,14:30,EUR,medium,Investing.com EUR/USD Index,57.4%,,53.7%
+542,24/05/2021,19:00,EUR,medium,EU Leaders Summit,,,
+543,24/05/2021,20:05,JPY,medium,BoJ Governor Kuroda Speaks,,,
+544,24/05/2021,21:30,USD,low,Chicago Fed National Activity  (Apr),0.24,,1.71
+545,24/05/2021,22:00,USD,medium,FOMC Member Brainard Speaks,,,
+546,24/05/2021,22:00,EUR,medium,ECB McCaul Speaks,,,
+547,24/05/2021,23:15,GBP,medium,BoE MPC Treasury Committee Hearings,,,
+548,24/05/2021,23:30,GBP,medium,BoE Gov Bailey Speaks,,,
+549,25/05/2021,00:30,USD,low,3-Month Bill Auction,0.015%,,0.015%
+550,25/05/2021,00:30,USD,low,6-Month Bill Auction,0.030%,,0.030%
+551,25/05/2021,01:00,USD,medium,FOMC Member Bostic Speaks,,,
+552,25/05/2021,06:30,USD,medium,FOMC Member George Speaks,,,
+553,25/05/2021,14:00,JPY,medium,BoJ Core CPI (YoY),-0.1%,,0.0%
+554,25/05/2021,15:00,GBP,low,Public Sector Net Borrowing  (Apr),30.96B,,25.53B
+555,25/05/2021,15:00,GBP,low,Public Sector Net Cash Requirement  (Apr),33.564B,,15.581B
+556,25/05/2021,19:00,GBP,low,CBI Distributive Trades Survey  (May),18,30,20
+557,25/05/2021,19:00,EUR,medium,EU Leaders Summit,,,
+558,25/05/2021,20:40,USD,low,Chicago Fed President Evans Speaks,,,
+559,25/05/2021,21:55,USD,low,Redbook (YoY),13.6%,,12.6%
+560,25/05/2021,22:00,USD,low,House Price Index (YoY)  (Mar),13.9%,,12.4%
+561,25/05/2021,22:00,USD,low,House Price Index (MoM)  (Mar),1.4%,,1.1%
+562,25/05/2021,22:00,USD,low,House Price Index  (Mar),324.9,,320.3
+563,25/05/2021,22:00,USD,low,S&P/CS HPI Composite - 20 s.a. (MoM)  (Mar),1.6%,1.2%,1.2%
+564,25/05/2021,22:00,USD,medium,S&P/CS HPI Composite - 20 n.s.a. (MoM)  (Mar),2.2%,,1.3%
+565,25/05/2021,22:00,USD,medium,S&P/CS HPI Composite - 20 n.s.a. (YoY)  (Mar),13.3%,12.3%,12.0%
+566,25/05/2021,23:00,USD,high,CB Consumer Confidence  (May),117.2,119.2,117.5
+567,25/05/2021,23:00,USD,medium,FOMC Member Quarles Speaks,,,
+568,25/05/2021,23:00,USD,medium,New Home Sales (MoM)  (Apr),-5.9%,,7.4%
+569,25/05/2021,23:00,USD,high,New Home Sales  (Apr),863K,970K,917K
+570,25/05/2021,23:00,USD,low,Richmond Manufacturing Index  (May),18,,17
+571,25/05/2021,23:00,USD,low,Richmond Manufacturing Shipments  (May),12,,16
+572,25/05/2021,23:00,USD,low,Richmond Services Index  (May),29,,22
+573,25/05/2021,23:00,EUR,medium,ECB's Lane Speaks,,,
+574,26/05/2021,01:00,GBP,medium,MPC Member Tenreyro Speaks,,,
+575,26/05/2021,02:00,USD,medium,2-Year Note Auction,0.152%,,0.175%
+576,26/05/2021,05:30,USD,medium,API Weekly Crude Oil Stock,-0.439M,-1.279M,0.620M
+577,26/05/2021,05:30,USD,low,API Weekly Gasoline Stock,-1.986M,,-2.837M
+578,26/05/2021,08:50,JPY,low,Corporate Services Price Index (CSPI) (YoY),1.0%,,0.7%
+579,26/05/2021,09:30,AUD,low,MI Leading Index (MoM),0.2%,,0.5%
+580,26/05/2021,10:30,AUD,medium,Construction Work Done (QoQ)  (Q1),2.4%,2.2%,-0.9%
+581,26/05/2021,10:30,JPY,medium,BoJ Board Member Suzuki Speaks,,,
+582,26/05/2021,14:00,JPY,low,Leading Index,102.8,,98.9
+583,26/05/2021,14:00,JPY,low,Leading Index (MoM),3.6%,,0.6%
+584,26/05/2021,20:00,USD,low,MBA 30-Year Mortgage Rate,3.18%,,3.15%
+585,26/05/2021,20:00,USD,low,MBA Mortgage Applications (WoW),-4.2%,,1.2%
+586,26/05/2021,20:00,USD,low,MBA Purchase Index,269.8,,265.3
+587,26/05/2021,20:00,USD,low,Mortgage Market Index,693.7,,724.2
+588,26/05/2021,20:00,USD,low,Mortgage Refinance Index,"3,168.8",,"3,413.3"
+589,26/05/2021,23:00,USD,medium,FOMC Member Quarles Speaks,,,
+590,26/05/2021,23:30,USD,high,Crude Oil Inventories,-1.662M,-1.050M,-0.426M
+591,26/05/2021,23:30,USD,low,EIA Refinery Crude Runs  (WoW),0.123M,,0.096M
+592,26/05/2021,23:30,USD,low,Crude Oil Imports,-0.265M,,-0.587M
+593,26/05/2021,23:30,USD,medium,Cushing Crude Oil Inventories,-1.008M,,-0.142M
+594,26/05/2021,23:30,USD,low,Distillate Fuel Production,0.112M,,-0.102M
+595,26/05/2021,23:30,USD,low,EIA Weekly Distillates Stocks,-3.013M,-1.900M,-1.734M
+596,26/05/2021,23:30,USD,low,Gasoline Production,-0.005M,,0.165M
+597,26/05/2021,23:30,USD,low,Heating Oil Stockpiles,0.355M,,-0.164M
+598,26/05/2021,23:30,USD,low,EIA Weekly Refinery Utilization Rates (WoW),0.7%,0.2%,0.2%
+599,26/05/2021,23:30,USD,low,Gasoline Inventories,-1.745M,-0.614M,-1.963M
+600,27/05/2021,02:00,USD,medium,5-Year Note Auction,0.788%,,0.849%
+601,27/05/2021,04:00,USD,medium,FOMC Member Quarles Speaks,,,
+602,27/05/2021,05:30,USD,medium,Fed's Balance Sheet,"7,903.54B",,"7,922.88B"
+603,27/05/2021,08:50,JPY,low,Foreign Bonds Buying,-551.5B,,600.0B
+604,27/05/2021,08:50,JPY,low,Foreign Investments in Japanese Stocks,-223.5B,,144.7B
+605,27/05/2021,10:30,AUD,low,Building Capital Expenditure (MoM)  (Q1),3.8%,,0.7%
+606,27/05/2021,10:30,AUD,low,Plant/Machinery Capital Expenditure (QoQ)  (Q1),9.1%,,5.7%
+607,27/05/2021,10:30,AUD,medium,Private New Capital Expenditure (QoQ)  (Q1),6.3%,2.0%,4.2%
+608,27/05/2021,18:10,EUR,medium,ECB Hakkarainen Speaks,,,
+609,27/05/2021,18:45,EUR,medium,ECB's De Guindos Speaks,,,
+610,27/05/2021,19:00,EUR,medium,ECB's Elderson Speaks,,,
+611,27/05/2021,20:00,GBP,medium,MPC Member Vlieghe Speaks,,,
+612,03/05/2021,All Day,GBP,,United Kingdom - Bank Holiday,,,
+613,03/05/2021,All Day,JPY,,Japan - Constitution Day,,,
+614,04/05/2021,All Day,JPY,,Japan - Greenery Day,,,
+615,05/05/2021,All Day,JPY,,Japan - Children's Day,,,
+616,27/05/2021,21:30,USD,medium,Continuing Jobless Claims,"3,642K","3,680K","3,738K"
+617,27/05/2021,21:30,USD,medium,Core Durable Goods Orders (MoM)  (Apr),1.0%,0.8%,3.2%
+618,27/05/2021,21:30,USD,medium,Core PCE Prices  (Q1),2.50%,2.30%,1.30%
+619,27/05/2021,21:30,USD,low,Corporate Profits (QoQ)  (Q1),-0.8%,,27.0%
+620,27/05/2021,21:30,USD,high,Durable Goods Orders (MoM)  (Apr),-1.3%,0.7%,1.3%
+621,27/05/2021,21:30,USD,low,Durables Excluding Defense (MoM)  (Apr),0.0%,,2.2%
+622,27/05/2021,21:30,USD,high,GDP (QoQ)  (Q1),6.4%,6.5%,6.4%
+623,27/05/2021,21:30,USD,medium,GDP Price Index (QoQ)  (Q1),4.3%,4.1%,4.1%
+624,27/05/2021,21:30,USD,low,GDP Sales  (Q1),9.4%,,9.2%
+625,27/05/2021,21:30,USD,low,Goods Orders Non Defense Ex Air (MoM)  (Apr),2.3%,0.8%,1.6%
+626,27/05/2021,21:30,USD,high,Initial Jobless Claims,406K,425K,444K
+627,27/05/2021,21:30,USD,low,Jobless Claims 4-Week Avg.,458.75K,,504.75K
+628,27/05/2021,21:30,USD,low,PCE Prices  (Q1),3.7%,,1.5%
+629,27/05/2021,21:30,USD,low,Real Consumer Spending  (Q1),11.3%,,10.7%
+630,27/05/2021,22:00,EUR,medium,ECB's Schnabel Speaks,,,
+631,27/05/2021,23:00,USD,medium,Pending Home Sales (MoM)  (Apr),-4.4%,0.8%,1.7%
+632,27/05/2021,23:00,USD,low,Pending Home Sales Index  (Apr),106.2,,111.1
+633,27/05/2021,23:30,USD,low,Natural Gas Storage,115B,104B,71B
+634,28/05/2021,00:00,USD,low,KC Fed Composite Index  (May),26,,31
+635,28/05/2021,00:00,USD,low,KC Fed Manufacturing Index  (May),32,,40
+636,28/05/2021,00:00,EUR,medium,ECB's Schnabel Speaks,,,
+637,28/05/2021,00:30,USD,low,4-Week Bill Auction,0.010%,,0.000%
+638,28/05/2021,00:30,USD,low,8-Week Bill Auction,0.005%,,0.005%
+639,28/05/2021,02:00,USD,medium,7-Year Note Auction,1.285%,,1.306%
+640,28/05/2021,08:30,JPY,low,Jobs/applications ratio  (Apr),1.09,1.10,1.10
+641,28/05/2021,08:30,JPY,medium,Tokyo Core CPI (YoY)  (May),-0.2%,-0.2%,-0.2%
+642,28/05/2021,08:30,JPY,low,Tokyo CPI (YoY)  (May),-0.4%,,-0.6%
+643,28/05/2021,08:30,JPY,low,CPI Tokyo Ex Food and Energy (MoM)  (May),0.0%,,-0.4%
+644,28/05/2021,08:30,JPY,low,Unemployment Rate  (Apr),2.8%,2.7%,2.6%
+645,28/05/2021,18:00,EUR,low,Business and Consumer Survey  (May),114.5,112.1,110.5
+646,28/05/2021,18:00,EUR,low,Business Climate  (May),1.50,,1.12
+647,28/05/2021,18:00,EUR,low,Consumer Confidence  (May),-5.1,-5.1,-8.1
+648,28/05/2021,18:00,EUR,low,Consumer Inflation Expectation  (May),22.2,,19.6
+649,28/05/2021,18:00,EUR,low,Selling Price Expectations  (May),29.9,,24.2
+650,28/05/2021,18:00,EUR,low,Services Sentiment  (May),11.3,7.5,2.2
+651,28/05/2021,18:00,EUR,low,Industrial Sentiment  (May),11.5,11.3,10.9
+652,28/05/2021,20:00,EUR,medium,ECB's Enria Speaks,,,
+653,28/05/2021,21:30,USD,high,Core PCE Price Index (MoM)  (Apr),0.7%,0.6%,0.4%
+654,28/05/2021,21:30,USD,high,Core PCE Price Index (YoY)  (Apr),3.1%,2.9%,1.9%
+655,28/05/2021,21:30,USD,medium,Goods Trade Balance  (Apr),-85.23B,,-91.98B
+656,28/05/2021,21:30,USD,medium,PCE Price index (YoY)  (Apr),3.6,,2.4
+657,28/05/2021,21:30,USD,medium,PCE price index (MoM)  (Apr),0.6%,,0.6%
+658,28/05/2021,21:30,USD,low,Personal Income (MoM)  (Apr),-13.1%,-14.1%,20.9%
+659,28/05/2021,21:30,USD,medium,Personal Spending (MoM)  (Apr),0.5%,0.5%,4.7%
+660,28/05/2021,21:30,USD,low,Real Personal Consumption (MoM)  (Apr),-0.1%,,4.1%
+661,28/05/2021,21:30,USD,medium,Retail Inventories Ex Auto  (Apr),0.5%,,0.7%
+662,28/05/2021,21:30,USD,low,Wholesale Inventories (MoM),0.8%,,1.1%
+663,28/05/2021,22:45,USD,high,Chicago PMI  (May),75.2,68.0,72.1
+664,28/05/2021,23:00,USD,medium,Michigan 1-Year Inflation Expectations  (May),4.6%,4.6%,3.4%
+665,28/05/2021,23:00,USD,medium,Michigan 5-Year Inflation Expectations  (May),3.00%,3.10%,2.70%
+666,28/05/2021,23:00,USD,medium,Michigan Consumer Expectations  (May),78.8,77.6,82.7
+667,28/05/2021,23:00,USD,medium,Michigan Consumer Sentiment  (May),82.9,82.8,88.3
+668,28/05/2021,23:00,USD,low,Michigan Current Conditions  (May),89.4,90.8,97.2
+669,29/05/2021,01:00,USD,low,Dallas Fed PCE  (Apr),2.40%,,2.20%
+670,29/05/2021,02:00,USD,medium,U.S. Baker Hughes Oil Rig Count,359,,356
+671,29/05/2021,02:00,USD,medium,U.S. Baker Hughes Total Rig Count,457,,455
+672,29/05/2021,03:00,USD,high,US Federal Budget,"-1,837.0B",,-966.0B
+673,29/05/2021,04:30,GBP,medium,CFTC GBP speculative net positions,30.7K,,24.9K
+674,29/05/2021,04:30,USD,low,CFTC Aluminium speculative net positions,3.1K,,3.2K
+675,29/05/2021,04:30,USD,low,CFTC Copper speculative net positions,23.7K,,39.0K
+676,29/05/2021,04:30,USD,low,CFTC Corn speculative net positions,428.4K,,459.5K
+677,29/05/2021,04:30,USD,medium,CFTC Crude Oil speculative net positions,475.5K,,475.9K
+678,29/05/2021,04:30,USD,medium,CFTC Gold speculative net positions,214.6K,,198.9K
+679,29/05/2021,04:30,USD,medium,CFTC Nasdaq 100 speculative net positions,-13.3K,,-6.1K
+680,29/05/2021,04:30,USD,low,CFTC Natural Gas speculative net positions,-76.0K,,-68.8K
+681,29/05/2021,04:30,USD,medium,CFTC S&P 500 speculative net positions,-18.5K,,-23.2K
+682,29/05/2021,04:30,USD,low,CFTC Silver speculative net positions,50.5K,,51.0K
+683,29/05/2021,04:30,USD,low,CFTC Soybeans speculative net positions,221.1K,,228.3K
+684,29/05/2021,04:30,USD,low,CFTC Wheat speculative net positions,18.4K,,25.7K
+685,29/05/2021,04:30,AUD,medium,CFTC AUD speculative net positions,-0.8K,,3.0K
+686,29/05/2021,04:30,JPY,medium,CFTC JPY speculative net positions,-50.2K,,-50.9K
+687,29/05/2021,04:30,EUR,medium,CFTC EUR speculative net positions,104.0K,,99.9K
+688,31/05/2021,All Day,GBP,,United Kingdom - Bank Holiday,,,
+689,31/05/2021,All Day,USD,,United States - Memorial Day,,,
+690,31/05/2021,08:50,JPY,medium,Industrial Production (MoM)  (Apr),2.5%,4.1%,1.7%
+691,31/05/2021,08:50,JPY,low,Industrial Production forecast 1m ahead (MoM)  (May),-1.7%,,8.4%
+692,31/05/2021,08:50,JPY,low,Industrial Production forecast 2m ahead (MoM)  (Jun),5.0%,,-4.3%
+693,31/05/2021,08:50,JPY,low,Large Retailers' Sales (MoM),15.5%,,2.9%
+694,31/05/2021,08:50,JPY,low,Retail Sales (YoY)  (Apr),12.0%,15.3%,5.2%
+695,31/05/2021,10:00,AUD,low,MI Inflation Gauge (MoM),-0.2%,,0.4%
+696,31/05/2021,10:30,AUD,low,Housing Credit  (Apr),0.5%,,0.5%
+697,31/05/2021,10:30,AUD,low,Private Sector Credit (MoM)  (Apr),0.2%,,0.4%
+698,31/05/2021,14:00,JPY,low,Construction Orders (YoY)  (Apr),3.3%,,12.5%
+699,31/05/2021,14:00,JPY,low,Household Confidence  (May),34.1,,34.7
+700,31/05/2021,14:00,JPY,low,Housing Starts (YoY)  (Apr),7.1%,3.5%,1.5%
+701,31/05/2021,14:30,GBP,medium,Investing.com GBP/USD Index,40.6%,,42.2%
+702,31/05/2021,14:30,USD,medium,Investing.com Gold Index,56.8%,,55.1%
+703,31/05/2021,14:30,AUD,medium,Investing.com AUD/USD Index,41.3%,,45.4%
+704,31/05/2021,14:30,JPY,medium,Investing.com USD/JPY Index,49.3%,,60.8%
+705,31/05/2021,14:30,EUR,medium,Investing.com EUR/USD Index,50.6%,,57.4%
+706,31/05/2021,17:00,EUR,low,M3 Money Supply (YoY)  (Apr),9.2%,9.5%,10.1%
+707,31/05/2021,17:00,EUR,low,Loans to Non Financial Corporations  (Apr),3.2%,,5.3%
+708,31/05/2021,17:00,EUR,low,Private Sector Loans (YoY),3.8%,,3.3%
+709,03/05/2021,All Day,GBP,,United Kingdom - Bank Holiday,,,
+710,03/05/2021,All Day,JPY,,Japan - Constitution Day,,,
+711,04/05/2021,All Day,JPY,,Japan - Greenery Day,,,
+712,05/05/2021,All Day,JPY,,Japan - Children's Day,,,
+713,31/05/2021,All Day,GBP,,United Kingdom - Bank Holiday,,,
+714,31/05/2021,All Day,USD,,United States - Memorial Day,,,

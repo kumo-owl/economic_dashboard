@@ -1,0 +1,672 @@
+id,date,time,currency,importance,event,actual,forecast,previous
+0,01/04/2023,00:00,EUR,medium,ECB President Lagarde Speaks,,,
+1,01/04/2023,02:00,USD,medium,U.S. Baker Hughes Oil Rig Count,592,,593
+2,01/04/2023,02:00,USD,medium,U.S. Baker Hughes Total Rig Count,755,,758
+3,01/04/2023,02:23,USD,low,Dallas Fed PCE  (Feb),4.00%,,5.80%
+4,01/04/2023,04:05,USD,medium,FOMC Member Williams Speaks,,,
+5,01/04/2023,05:30,GBP,medium,CFTC GBP speculative net positions,-24.1K,,-20.5K
+6,01/04/2023,05:30,USD,low,CFTC Aluminium speculative net positions,5.8K,,5.6K
+7,01/04/2023,05:30,USD,low,CFTC Copper speculative net positions,-1.5K,,-12.4K
+8,01/04/2023,05:30,USD,low,CFTC Corn speculative net positions,71.5K,,59.5K
+9,01/04/2023,05:30,USD,medium,CFTC Crude Oil speculative net positions,181.1K,,154.3K
+10,01/04/2023,05:30,USD,medium,CFTC Gold speculative net positions,181.6K,,158.6K
+11,01/04/2023,05:30,USD,medium,CFTC Nasdaq 100 speculative net positions,-7.3K,,-5.1K
+12,01/04/2023,05:30,USD,low,CFTC Natural Gas speculative net positions,-126.2K,,-144.7K
+13,01/04/2023,05:30,USD,medium,CFTC S&P 500 speculative net positions,-224.7K,,-202.5K
+14,01/04/2023,05:30,USD,low,CFTC Silver speculative net positions,13.4K,,3.5K
+15,01/04/2023,05:30,USD,low,CFTC Soybeans speculative net positions,161.0K,,171.8K
+16,01/04/2023,05:30,USD,low,CFTC Wheat speculative net positions,-60.5K,,-59.2K
+17,01/04/2023,05:30,AUD,medium,CFTC AUD speculative net positions,-35.4K,,-38.5K
+18,01/04/2023,05:30,JPY,medium,CFTC JPY speculative net positions,-54.0K,,-66.3K
+19,01/04/2023,05:30,EUR,medium,CFTC EUR speculative net positions,145.0K,,144.8K
+20,01/04/2023,06:45,USD,low,Fed Governor Cook Speaks,,,
+21,03/04/2023,08:50,JPY,medium,Tankan All Big Industry CAPEX  (Q1),3.2%,4.9%,19.2%
+22,03/04/2023,08:50,JPY,low,Tankan All Small Industry CAPEX  (Q1),1.4%,-9.0%,3.8%
+23,03/04/2023,08:50,JPY,medium,Tankan Big Manufacturing Outlook Index  (Q1),3,4,6
+24,03/04/2023,08:50,JPY,medium,Tankan Large Manufacturers Index  (Q1),1,3,7
+25,03/04/2023,08:50,JPY,low,Tankan Large Non-Manufacturers Diffusion Index  (Q1),15,16,11
+26,03/04/2023,08:50,JPY,medium,Tankan Large Non-Manufacturers Index  (Q1),20,20,19
+27,03/04/2023,08:50,JPY,low,Tankan Small Manufacturers Diffusion Index  (Q1),-4,-6,-5
+28,03/04/2023,08:50,JPY,low,Tankan Small Manufacturing Index  (Q1),-6,-6,-2
+29,03/04/2023,08:50,JPY,low,Tankan Small Non-Manufacturers Diffusion Index  (Q1),3,1,-1
+30,03/04/2023,08:50,JPY,low,Tankan Small Non-Manufacturing Index  (Q1),8,7,6
+31,03/04/2023,10:00,AUD,low,MI Inflation Gauge (MoM),0.3%,0.6%,0.4%
+32,03/04/2023,10:30,AUD,low,ANZ Job Advertisements (MoM),-2.4%,,-0.5%
+33,03/04/2023,10:30,AUD,medium,Building Approvals (MoM),4.0%,-2.0%,-27.1%
+34,03/04/2023,10:30,AUD,medium,Home Loans (MoM),-1.2%,-3.0%,-2.0%
+35,03/04/2023,10:30,AUD,low,Invest Housing Finance (MoM),-0.5%,-0.8%,-3.0%
+36,03/04/2023,10:30,AUD,low,Private House Approvals  (Feb),11.3%,-0.8%,-13.5%
+37,03/04/2023,10:30,AUD,medium,Retail Sales (MoM)  (Mar),0.2%,0.1%,1.8%
+38,03/04/2023,15:30,AUD,low,Commodity Prices (YoY),-9.1%,,4.7%
+39,03/04/2023,19:00,USD,medium,OPEC Meeting,,,
+40,03/04/2023,21:30,EUR,medium,ECB McCaul Speaks,,,
+41,03/04/2023,22:00,USD,low,Total Vehicle Sales  (Mar),14.84M,,14.90M
+42,03/04/2023,23:00,USD,medium,Construction Spending (MoM)  (Feb),-0.1%,-0.1%,0.4%
+43,03/04/2023,23:00,USD,medium,ISM Manufacturing Employment  (Mar),46.9,50.0,49.1
+44,03/04/2023,23:00,USD,low,ISM Manufacturing New Orders Index  (Mar),44.3,49.0,47.0
+45,03/04/2023,23:00,USD,high,ISM Manufacturing PMI  (Mar),46.3,47.5,47.7
+46,03/04/2023,23:00,USD,high,ISM Manufacturing Prices  (Mar),49.2,51.2,51.3
+47,04/04/2023,00:30,USD,low,3-Month Bill Auction,4.780%,,4.675%
+48,04/04/2023,00:30,USD,low,6-Month Bill Auction,4.705%,,4.650%
+49,04/04/2023,05:15,USD,low,Fed Governor Cook Speaks,,,
+50,04/04/2023,08:50,JPY,low,Monetary Base (YoY)  (Mar),-1.2%,2.0%,-1.7%
+51,04/04/2023,12:35,JPY,medium,10-Year JGB Auction,0.456%,,0.500%
+52,04/04/2023,13:30,AUD,high,RBA Interest Rate Decision  (Apr),3.60%,3.60%,3.60%
+53,04/04/2023,13:30,AUD,medium,RBA Rate Statement,,,
+54,04/04/2023,18:00,EUR,low,PPI (MoM)  (Feb),-0.5%,-0.3%,-2.8%
+55,04/04/2023,18:00,EUR,low,PPI (YoY)  (Feb),13.2%,13.3%,15.1%
+56,04/04/2023,18:15,GBP,medium,MPC Member Tenreyro Speaks,,,
+57,04/04/2023,21:55,USD,low,Redbook (YoY),3.7%,,2.8%
+58,04/04/2023,23:00,USD,low,All Car Sales  (Mar),2.99M,,3.00M
+59,04/04/2023,23:00,USD,low,All Truck Sales  (Mar),11.83M,,12.00M
+60,04/04/2023,23:00,USD,low,Durables Excluding Defense (MoM)  (Feb),-0.5%,,-0.5%
+61,04/04/2023,23:00,USD,low,Durables Excluding Transport (MoM)  (Feb),-0.1%,,0.7%
+62,04/04/2023,23:00,USD,medium,Factory Orders (MoM)  (Feb),-0.7%,-0.5%,-2.1%
+63,04/04/2023,23:00,USD,low,Factory orders ex transportation (MoM)  (Feb),-0.3%,-0.8%,0.8%
+64,04/04/2023,23:00,USD,low,IBD/TIPP Economic Optimism,47.4,,46.9
+65,04/04/2023,23:00,USD,high,JOLTS Job Openings  (Feb),9.931M,10.400M,10.563M
+66,04/04/2023,23:30,GBP,medium,BoE MPC Member Pill Speaks,,,
+67,05/04/2023,02:30,USD,low,Fed Governor Cook Speaks,,,
+68,05/04/2023,02:30,USD,medium,FOMC Member Rosengren Speaks,,,
+69,05/04/2023,05:30,USD,medium,API Weekly Crude Oil Stock,-4.346M,-1.800M,-6.076M
+70,05/04/2023,07:45,USD,medium,FOMC Member Mester Speaks,,,
+71,05/04/2023,08:00,AUD,low,AIG Construction Index  (Mar),-5.8,-8.0,-5.0
+72,05/04/2023,08:00,AUD,low,AIG Manufacturing Index  (Mar),5.6,-4.0,-6.4
+73,05/04/2023,10:30,AUD,low,RBA Chart Pack Release,,,
+74,05/04/2023,11:30,AUD,medium,RBA Governor Lowe Speaks,,,
+75,05/04/2023,18:15,GBP,medium,MPC Member Tenreyro Speaks,,,
+76,05/04/2023,18:30,GBP,low,5-Year Treasury Gilt Auction,3.497%,,3.746%
+77,05/04/2023,20:00,USD,low,MBA 30-Year Mortgage Rate,6.40%,6.80%,6.45%
+78,05/04/2023,20:00,USD,low,MBA Mortgage Applications (WoW),-4.1%,,2.9%
+79,05/04/2023,20:00,USD,low,MBA Purchase Index,166.6,,172.7
+80,05/04/2023,20:00,USD,low,Mortgage Market Index,217.9,,227.3
+81,05/04/2023,20:00,USD,low,Mortgage Refinance Index,477.2,,504.4
+82,05/04/2023,21:15,USD,high,ADP Nonfarm Employment Change  (Mar),145K,200K,261K
+83,05/04/2023,21:30,USD,medium,Exports,251.15B,250.40B,258.10B
+84,05/04/2023,21:30,USD,medium,Imports,321.70B,319.40B,326.70B
+85,05/04/2023,21:30,USD,medium,Trade Balance  (Feb),-70.50B,-69.00B,-68.70B
+86,05/04/2023,23:00,USD,low,ISM Non-Manufacturing Business Activity  (Mar),55.4,55.0,56.3
+87,05/04/2023,23:00,USD,medium,ISM Non-Manufacturing Employment  (Mar),51.3,53.0,54.0
+88,05/04/2023,23:00,USD,low,ISM Non-Manufacturing New Orders  (Mar),52.2,62.0,62.6
+89,05/04/2023,23:00,USD,high,ISM Non-Manufacturing PMI  (Mar),51.2,54.5,55.1
+90,05/04/2023,23:00,USD,high,ISM Non-Manufacturing Prices  (Mar),59.5,65.0,65.6
+91,05/04/2023,23:30,USD,high,Crude Oil Inventories,-3.739M,-2.329M,-7.489M
+92,05/04/2023,23:30,USD,low,EIA Refinery Crude Runs  (WoW),-0.198M,,0.437M
+93,05/04/2023,23:30,USD,low,Crude Oil Imports,1.164M,-0.137M,-0.499M
+94,05/04/2023,23:30,USD,medium,Cushing Crude Oil Inventories,-0.970M,-0.518M,-1.632M
+95,05/04/2023,23:30,USD,low,Distillate Fuel Production,0.107M,0.044M,0.130M
+96,05/04/2023,23:30,USD,low,EIA Weekly Distillates Stocks,-3.632M,-0.396M,0.281M
+97,05/04/2023,23:30,USD,low,Gasoline Production,-0.187M,0.024M,0.535M
+98,05/04/2023,23:30,USD,low,Heating Oil Stockpiles,-0.721M,-0.149M,-0.164M
+99,05/04/2023,23:30,USD,low,EIA Weekly Refinery Utilization Rates (WoW),-0.7%,0.3%,1.7%
+100,05/04/2023,23:30,USD,low,Gasoline Inventories,-4.119M,-1.729M,-2.904M
+101,06/04/2023,08:50,JPY,low,Foreign Bonds Buying,-483.4B,,"1,183.0B"
+102,06/04/2023,08:50,JPY,low,Foreign Investments in Japanese Stocks,62.2B,,"-1,296.8B"
+103,06/04/2023,10:30,AUD,low,Exports (MoM)  (Feb),-3.0%,,1.0%
+104,06/04/2023,10:30,AUD,low,Imports (MoM)  (Feb),-9.0%,,5.0%
+105,06/04/2023,10:30,AUD,medium,RBA Financial Stability Review,,,
+106,06/04/2023,10:30,AUD,medium,Trade Balance  (Feb),13.870B,11.100B,11.266B
+107,06/04/2023,12:35,JPY,low,30-Year JGB Auction,1.353%,,1.416%
+108,06/04/2023,15:00,GBP,medium,Halifax House Price Index (YoY)  (Mar),1.6%,0.3%,2.1%
+109,06/04/2023,15:00,GBP,medium,Halifax House Price Index (MoM)  (Mar),0.8%,-0.3%,1.2%
+110,06/04/2023,17:30,GBP,low,Housing Equity Withdrawal (QoQ),-14.9B,,-5.8B
+111,06/04/2023,20:30,USD,low,Challenger Job Cuts (YoY),319.4%,148.0%,410.1%
+112,06/04/2023,20:30,USD,low,Challenger Job Cuts  (Mar),89.703K,65.000K,77.770K
+113,06/04/2023,21:30,USD,medium,Continuing Jobless Claims,"1,823K","1,699K","1,817K"
+114,06/04/2023,21:30,USD,high,Initial Jobless Claims,228K,200K,246K
+115,06/04/2023,21:30,USD,low,Jobless Claims 4-Week Avg.,237.75K,196.50K,242.00K
+116,06/04/2023,23:00,USD,medium,FOMC Member Bullard Speaks,,,
+117,06/04/2023,23:30,USD,low,Natural Gas Storage,-23B,-21B,-47B
+118,07/04/2023,All Day,USD,,United States - Good Friday,,,
+119,07/04/2023,All Day,GBP,,United Kingdom - Good Friday,,,
+120,07/04/2023,All Day,AUD,,Australia - Good Friday,,,
+121,07/04/2023,All Day,GBP,,United Kingdom - Good Friday,,,
+122,07/04/2023,00:30,USD,low,4-Week Bill Auction,4.440%,,4.600%
+123,07/04/2023,00:30,USD,low,8-Week Bill Auction,4.650%,,4.600%
+124,07/04/2023,02:00,USD,medium,U.S. Baker Hughes Oil Rig Count,590,,592
+125,07/04/2023,02:00,USD,medium,U.S. Baker Hughes Total Rig Count,751,,755
+126,07/04/2023,05:30,USD,medium,Fed's Balance Sheet,"8,632B",,"8,706B"
+127,07/04/2023,05:30,USD,low,Reserve Balances with Federal Reserve Banks,3.381T,,3.401T
+128,07/04/2023,08:30,JPY,low,Average Cash Earnings (YoY),1.1%,0.9%,0.8%
+129,07/04/2023,08:30,JPY,medium,Household Spending (YoY)  (Feb),1.6%,4.3%,-0.3%
+130,07/04/2023,08:30,JPY,medium,Household Spending (MoM)  (Feb),-2.4%,-0.4%,2.7%
+131,07/04/2023,08:30,JPY,low,Overall wage income of employees  (Feb),1.1%,1.4%,0.8%
+132,07/04/2023,08:30,JPY,low,Overtime Pay (YoY)  (Feb),1.70%,2.00%,0.50%
+133,07/04/2023,08:50,JPY,low,Foreign Reserves (USD)  (Mar),"1,257.1B",,"1,226.0B"
+134,07/04/2023,14:00,JPY,low,Coincident Indicator (MoM)  (Feb),2.8%,,-3.0%
+135,07/04/2023,14:00,JPY,low,Leading Index (MoM)  (Feb),1.1%,,-0.6%
+136,07/04/2023,14:00,JPY,low,Leading Index,97.7,97.5,96.6
+137,07/04/2023,21:30,USD,medium,Average Hourly Earnings (YoY) (YoY)  (Mar),4.2%,4.3%,4.6%
+138,07/04/2023,21:30,USD,high,Average Hourly Earnings (MoM)  (Mar),0.3%,0.3%,0.2%
+139,07/04/2023,21:30,USD,low,Average Weekly Hours  (Mar),34.4,34.5,34.5
+140,07/04/2023,21:30,USD,low,Government Payrolls  (Mar),47.0K,2.0K,60.0K
+141,07/04/2023,21:30,USD,low,Manufacturing Payrolls  (Mar),-1K,5K,-1K
+142,07/04/2023,21:30,USD,high,Nonfarm Payrolls  (Mar),236K,239K,326K
+143,07/04/2023,21:30,USD,medium,Participation Rate  (Mar),62.6%,62.5%,62.5%
+144,07/04/2023,21:30,USD,medium,Private Nonfarm Payrolls  (Mar),189K,215K,266K
+145,07/04/2023,21:30,USD,medium,U6 Unemployment Rate  (Mar),6.7%,6.7%,6.8%
+146,07/04/2023,21:30,USD,high,Unemployment Rate  (Mar),3.5%,3.6%,3.6%
+147,08/04/2023,04:00,USD,medium,Consumer Credit,15.29B,,19.47B
+148,08/04/2023,05:30,GBP,medium,CFTC GBP speculative net positions,-14.8K,,-24.1K
+149,08/04/2023,05:30,USD,low,CFTC Aluminium speculative net positions,5.5K,,5.8K
+150,08/04/2023,05:30,USD,low,CFTC Copper speculative net positions,-3.0K,,-1.5K
+151,08/04/2023,05:30,USD,low,CFTC Corn speculative net positions,85.7K,,71.5K
+152,08/04/2023,05:30,USD,medium,CFTC Crude Oil speculative net positions,226.1K,,181.1K
+153,08/04/2023,05:30,USD,medium,CFTC Gold speculative net positions,195.2K,,181.6K
+154,08/04/2023,05:30,USD,medium,CFTC Nasdaq 100 speculative net positions,-18.4K,,-7.3K
+155,08/04/2023,05:30,USD,low,CFTC Natural Gas speculative net positions,-130.5K,,-126.2K
+156,08/04/2023,05:30,USD,medium,CFTC S&P 500 speculative net positions,-321.5K,,-224.7K
+157,08/04/2023,05:30,USD,low,CFTC Silver speculative net positions,21.3K,,13.4K
+158,08/04/2023,05:30,USD,low,CFTC Soybeans speculative net positions,184.3K,,161.0K
+159,08/04/2023,05:30,USD,low,CFTC Wheat speculative net positions,-60.8K,,-60.5K
+160,08/04/2023,05:30,AUD,medium,CFTC AUD speculative net positions,-27.2K,,-35.4K
+161,08/04/2023,05:30,JPY,medium,CFTC JPY speculative net positions,-57.0K,,-54.0K
+162,08/04/2023,05:30,EUR,medium,CFTC EUR speculative net positions,143.4K,,145.0K
+163,10/04/2023,All Day,GBP,,United Kingdom - Easter,,,
+164,10/04/2023,All Day,AUD,,Australia - Easter,,,
+165,10/04/2023,All Day,GBP,,United Kingdom - Easter,,,
+166,10/04/2023,08:50,JPY,medium,Adjusted Current Account  (Feb),1.09T,1.43T,0.20T
+167,10/04/2023,08:50,JPY,medium,Current Account n.s.a.  (Feb),2.197T,2.536T,-1.989T
+168,10/04/2023,14:00,JPY,low,Household Confidence  (Mar),33.9,31.9,31.3
+169,10/04/2023,15:00,JPY,low,Economy Watchers Current Index  (Mar),53.3,52.9,52.0
+170,10/04/2023,23:00,USD,low,CB Employment Trends Index  (Mar),116.24,118.64,116.75
+171,10/04/2023,23:00,USD,low,Wholesale Inventories (MoM)  (Feb),0.1%,0.2%,-0.3%
+172,10/04/2023,23:00,USD,low,Wholesale Trade Sales (MoM)  (Feb),0.4%,0.5%,0.4%
+173,11/04/2023,00:00,USD,low,IMF Meetings,,,
+174,11/04/2023,00:00,USD,medium,NY Fed 1-Year Consumer Inflation Expectations,4.7%,,4.2%
+175,11/04/2023,00:30,USD,low,3-Month Bill Auction,4.980%,,4.780%
+176,11/04/2023,00:30,USD,low,6-Month Bill Auction,4.795%,,4.705%
+177,11/04/2023,05:15,USD,medium,FOMC Member Williams Speaks,,,
+178,11/04/2023,08:01,GBP,medium,BRC Retail Sales Monitor (YoY)  (Mar),4.9%,4.2%,4.9%
+179,11/04/2023,09:30,AUD,low,Westpac Consumer Sentiment  (Apr),9.4%,1.5%,0.0%
+180,11/04/2023,10:30,AUD,medium,NAB Business Confidence  (Mar),-1,-2,-4
+181,11/04/2023,10:30,AUD,low,NAB Business Survey  (Mar),16,16,17
+182,11/04/2023,12:35,JPY,low,5-Year JGB Auction,0.157%,,0.121%
+183,11/04/2023,15:40,JPY,low,Machine Tool Orders (YoY),-15.2%,-17.0%,-10.7%
+184,11/04/2023,17:30,EUR,low,Sentix Investor Confidence  (Apr),-8.7,-9.9,-11.1
+185,11/04/2023,18:00,EUR,low,Retail Sales (MoM)  (Feb),-0.8%,-0.8%,0.8%
+186,11/04/2023,18:00,EUR,low,Retail Sales (YoY)  (Feb),-3.0%,-3.5%,-1.8%
+187,11/04/2023,18:20,GBP,medium,Mortgage Rate (GBP)  (Mar),7.22%,7.00%,7.02%
+188,11/04/2023,19:00,USD,low,NFIB Small Business Optimism  (Mar),90.1,89.0,90.9
+189,11/04/2023,21:55,USD,low,Redbook (YoY),1.5%,,3.7%
+190,12/04/2023,00:00,USD,low,IMF Meetings,,,
+191,12/04/2023,01:00,USD,medium,EIA Short-Term Energy Outlook,,,
+192,12/04/2023,01:00,USD,medium,WASDE Report,,,
+193,12/04/2023,02:00,USD,medium,3-Year Note Auction,3.810%,,4.635%
+194,12/04/2023,05:00,USD,medium,FOMC Member Harker Speaks,,,
+195,12/04/2023,05:30,USD,medium,API Weekly Crude Oil Stock,0.377M,-1.300M,-4.346M
+196,12/04/2023,08:30,USD,medium,FOMC Member Kashkari Speaks,,,
+197,12/04/2023,08:50,JPY,low,Bank Lending (YoY)  (Mar),3.0%,1.8%,3.3%
+198,12/04/2023,08:50,JPY,low,Core Machinery Orders (MoM)  (Feb),-4.5%,-7.8%,9.5%
+199,12/04/2023,08:50,JPY,low,Core Machinery Orders (YoY)  (Feb),9.8%,2.9%,4.5%
+200,12/04/2023,08:50,JPY,low,PPI (YoY)  (Mar),7.2%,7.1%,8.3%
+201,12/04/2023,08:50,JPY,low,PPI (MoM)  (Mar),0.0%,-0.3%,-0.3%
+202,12/04/2023,10:30,AUD,medium,Building Approvals (MoM),4.0%,4.0%,-27.6%
+203,12/04/2023,10:30,AUD,low,Private House Approvals  (Feb),11.3%,11.3%,-13.5%
+204,12/04/2023,13:45,AUD,medium,RBA Assist Gov Bullock Speaks,,,
+205,12/04/2023,20:00,USD,low,MBA 30-Year Mortgage Rate,6.30%,,6.40%
+206,12/04/2023,20:00,USD,low,MBA Mortgage Applications (WoW),5.3%,,-4.1%
+207,07/04/2023,All Day,USD,,United States - Good Friday,,,
+208,07/04/2023,All Day,GBP,,United Kingdom - Good Friday,,,
+209,07/04/2023,All Day,AUD,,Australia - Good Friday,,,
+210,07/04/2023,All Day,GBP,,United Kingdom - Good Friday,,,
+211,10/04/2023,All Day,GBP,,United Kingdom - Easter,,,
+212,10/04/2023,All Day,AUD,,Australia - Easter,,,
+213,10/04/2023,All Day,GBP,,United Kingdom - Easter,,,
+214,12/04/2023,20:00,USD,low,MBA Purchase Index,179.6,,166.6
+215,12/04/2023,20:00,USD,low,Mortgage Market Index,229.5,,217.9
+216,12/04/2023,20:00,USD,low,Mortgage Refinance Index,477.5,,477.2
+217,12/04/2023,21:30,USD,high,Core CPI (MoM)  (Mar),0.4%,0.4%,0.5%
+218,12/04/2023,21:30,USD,medium,Core CPI (YoY)  (Mar),5.6%,5.6%,5.5%
+219,12/04/2023,21:30,USD,low,Core CPI Index  (Mar),305.24,305.57,304.07
+220,12/04/2023,21:30,USD,high,CPI (YoY)  (Mar),5.0%,5.2%,6.0%
+221,12/04/2023,21:30,USD,high,CPI (MoM)  (Mar),0.1%,0.2%,0.4%
+222,12/04/2023,21:30,USD,low,"CPI Index, n.s.a.  (Mar)",301.84,302.25,300.84
+223,12/04/2023,21:30,USD,low,"CPI Index, s.a  (Mar)",301.81,302.60,301.65
+224,12/04/2023,21:30,USD,low,"CPI, n.s.a (MoM)  (Mar)",0.33%,0.40%,0.56%
+225,12/04/2023,21:30,USD,low,Real Earnings (MoM)  (Mar),-0.1%,-0.2%,-0.4%
+226,12/04/2023,21:30,EUR,medium,ECB's De Guindos Speaks,,,
+227,12/04/2023,22:00,GBP,medium,BoE Gov Bailey Speaks,,,
+228,12/04/2023,23:30,USD,high,Crude Oil Inventories,0.597M,-0.583M,-3.739M
+229,12/04/2023,23:30,USD,low,EIA Refinery Crude Runs  (WoW),-0.030M,,-0.198M
+230,12/04/2023,23:30,USD,low,Crude Oil Imports,1.561M,-0.757M,1.164M
+231,12/04/2023,23:30,USD,medium,Cushing Crude Oil Inventories,-0.409M,0.130M,-0.970M
+232,12/04/2023,23:30,USD,low,Distillate Fuel Production,-0.157M,0.032M,0.107M
+233,12/04/2023,23:30,USD,low,EIA Weekly Distillates Stocks,-0.606M,-0.764M,-3.632M
+234,12/04/2023,23:30,USD,low,Gasoline Production,-0.033M,0.125M,-0.187M
+235,12/04/2023,23:30,USD,low,Heating Oil Stockpiles,1.015M,0.171M,-0.721M
+236,12/04/2023,23:30,USD,low,EIA Weekly Refinery Utilization Rates (WoW),-0.3%,0.5%,-0.7%
+237,12/04/2023,23:30,USD,low,Gasoline Inventories,-0.331M,-1.600M,-4.119M
+238,13/04/2023,00:00,USD,low,Cleveland CPI (MoM)  (Mar),0.4%,0.6%,0.6%
+239,13/04/2023,00:00,USD,low,IMF Meetings,,,
+240,13/04/2023,00:00,USD,low,Thomson Reuters IPSOS PCSI  (Apr),50.70,,51.35
+241,13/04/2023,02:00,USD,high,10-Year Note Auction,3.455%,,3.985%
+242,13/04/2023,03:00,USD,medium,Federal Budget Balance  (Mar),-378.0B,-302.0B,-262.0B
+243,13/04/2023,03:00,USD,high,FOMC Meeting Minutes,,,
+244,13/04/2023,04:15,GBP,medium,BoE Gov Bailey Speaks,,,
+245,13/04/2023,08:50,JPY,low,Foreign Bonds Buying,-788.8B,,-483.4B
+246,13/04/2023,08:50,JPY,low,Foreign Investments in Japanese Stocks,"2,368.9B",,62.2B
+247,13/04/2023,08:50,JPY,low,M3 Money Supply  (Mar),"2,104.6T",,"2,099.7T"
+248,13/04/2023,10:30,AUD,medium,Employment Change  (Mar),53.0K,20.0K,63.6K
+249,13/04/2023,10:30,AUD,medium,Full Employment Change  (Mar),72.2K,8.0K,79.2K
+250,13/04/2023,10:30,AUD,low,Participation Rate  (Mar),66.7%,66.6%,66.7%
+251,13/04/2023,10:30,AUD,medium,Unemployment Rate  (Mar),3.5%,3.6%,3.5%
+252,13/04/2023,11:00,AUD,low,MI Inflation Expectations,4.6%,4.8%,5.0%
+253,13/04/2023,15:00,GBP,low,Construction Output (MoM)  (Feb),2.4%,0.9%,-1.7%
+254,13/04/2023,15:00,GBP,low,U.K. Construction Output (YoY)  (Feb),5.7%,1.6%,3.3%
+255,13/04/2023,15:00,GBP,high,GDP (MoM)  (Feb),0.0%,0.1%,0.4%
+256,13/04/2023,15:00,GBP,low,Index of Services,0.1%,-0.2%,0.1%
+257,13/04/2023,15:00,GBP,medium,Industrial Production (MoM)  (Feb),-0.2%,0.2%,-0.5%
+258,13/04/2023,15:00,GBP,low,Industrial Production (YoY)  (Feb),-3.1%,-3.7%,-3.2%
+259,13/04/2023,15:00,GBP,low,Manufacturing Production (YoY)  (Feb),-2.4%,-4.7%,-2.8%
+260,13/04/2023,15:00,GBP,medium,Manufacturing Production (MoM)  (Feb),0.0%,0.2%,-0.1%
+261,13/04/2023,15:00,GBP,medium,Monthly GDP 3M/3M Change  (Feb),0.1%,0.0%,0.0%
+262,13/04/2023,15:00,GBP,medium,Trade Balance  (Feb),-17.53B,-17.00B,-16.09B
+263,13/04/2023,15:00,GBP,medium,Trade Balance Non-EU  (Feb),-6.52B,-7.40B,-6.57B
+264,13/04/2023,17:30,GBP,medium,BOE Credit Conditions Survey,,,
+265,13/04/2023,18:00,GBP,low,10-Year Treasury Gilt Auction,3.592%,,3.495%
+266,13/04/2023,18:00,EUR,low,Industrial Production (YoY)  (Feb),2.0%,1.5%,0.9%
+267,13/04/2023,18:00,EUR,medium,Industrial Production (MoM)  (Feb),1.5%,1.0%,1.0%
+268,13/04/2023,19:00,GBP,low,Thomson Reuters IPSOS PCSI  (Apr),44.0,,45.0
+269,13/04/2023,20:00,USD,medium,OPEC Monthly Report,,,
+270,13/04/2023,20:30,GBP,medium,NIESR Monthly GDP Tracker,0.1%,0.1%,0.1%
+271,13/04/2023,21:30,USD,medium,Continuing Jobless Claims,"1,810K","1,814K","1,823K"
+272,13/04/2023,21:30,USD,low,Core PPI (YoY)  (Mar),3.4%,3.4%,4.8%
+273,13/04/2023,21:30,USD,medium,Core PPI (MoM)  (Mar),-0.1%,0.3%,0.2%
+274,13/04/2023,21:30,USD,high,Initial Jobless Claims,239K,232K,228K
+275,13/04/2023,21:30,USD,low,Jobless Claims 4-Week Avg.,240.00K,253.17K,237.75K
+276,13/04/2023,21:30,USD,high,PPI (MoM)  (Mar),-0.5%,0.1%,0.0%
+277,13/04/2023,21:30,USD,low,PPI (YoY)  (Mar),2.7%,3.0%,4.9%
+278,13/04/2023,21:30,USD,low,PPI ex. Food/Energy/Transport (MoM)  (Mar),0.1%,0.1%,0.2%
+279,13/04/2023,21:30,USD,low,PPI ex. Food/Energy/Transport (YoY)  (Mar),3.6%,3.1%,4.5%
+280,13/04/2023,22:00,GBP,medium,BoE MPC Member Pill Speaks,,,
+281,13/04/2023,23:30,USD,low,Natural Gas Storage,25B,28B,-23B
+282,14/04/2023,00:00,USD,low,IMF Meetings,,,
+283,14/04/2023,00:30,USD,low,4-Week Bill Auction,4.030%,,4.440%
+284,14/04/2023,00:30,USD,low,8-Week Bill Auction,4.790%,,4.650%
+285,14/04/2023,02:00,USD,high,30-Year Bond Auction,3.661%,,3.877%
+286,14/04/2023,05:30,USD,medium,Fed's Balance Sheet,"8,615B",,"8,632B"
+287,14/04/2023,05:30,USD,low,Reserve Balances with Federal Reserve Banks,3.348T,,3.381T
+288,14/04/2023,11:00,AUD,low,Thomson Reuters IPSOS PCSI (MoM)  (Apr),49.65,,49.22
+289,14/04/2023,11:00,JPY,low,Thomson Reuters IPSOS PCSI  (Apr),38.84,,36.09
+290,14/04/2023,17:00,USD,medium,IEA Monthly Report,,,
+291,14/04/2023,21:30,USD,high,Core Retail Sales (MoM)  (Mar),-0.8%,-0.3%,0.0%
+292,14/04/2023,21:30,USD,low,Export Price Index (YoY),-4.8%,,-0.8%
+293,14/04/2023,21:30,USD,medium,Export Price Index (MoM)  (Mar),-0.3%,-0.1%,0.4%
+294,14/04/2023,21:30,USD,medium,Import Price Index (MoM)  (Mar),-0.6%,-0.1%,-0.2%
+295,14/04/2023,21:30,USD,low,Import Price Index (YoY),-4.6%,,-1.1%
+296,14/04/2023,21:30,USD,low,Import Price Index ex Petroleum (MoM),-0.6%,,-0.3%
+297,14/04/2023,21:30,USD,medium,Retail Control (MoM)  (Mar),-0.3%,-0.3%,0.5%
+298,14/04/2023,21:30,USD,high,Retail Sales (MoM)  (Mar),-1.0%,-0.4%,-0.2%
+299,14/04/2023,21:30,USD,low,Retail Sales (YoY)  (Mar),2.94%,5.90%,5.88%
+300,14/04/2023,21:30,USD,low,Retail Sales Ex Gas/Autos (MoM)  (Mar),-0.3%,-0.1%,0.0%
+301,14/04/2023,21:45,USD,medium,Fed Waller Speaks,,,
+302,14/04/2023,22:15,USD,low,Capacity Utilization Rate  (Mar),79.8%,79.0%,79.6%
+303,14/04/2023,22:15,USD,medium,Industrial Production (YoY)  (Mar),0.53%,-0.90%,0.95%
+304,14/04/2023,22:15,USD,medium,Industrial Production (MoM)  (Mar),0.4%,0.2%,0.2%
+305,14/04/2023,22:15,USD,low,Manufacturing Production (MoM)  (Mar),-0.5%,-0.1%,0.6%
+306,14/04/2023,23:00,USD,medium,Business Inventories (MoM)  (Feb),0.2%,0.3%,-0.2%
+307,14/04/2023,23:00,USD,medium,Michigan 1-Year Inflation Expectations  (Apr),4.6%,3.5%,3.6%
+308,14/04/2023,23:00,USD,medium,Michigan 5-Year Inflation Expectations  (Apr),2.9%,2.8%,2.9%
+309,14/04/2023,23:00,USD,medium,Michigan Consumer Expectations  (Apr),60.3,60.0,59.2
+310,14/04/2023,23:00,USD,medium,Michigan Consumer Sentiment  (Apr),63.5,62.0,62.0
+311,14/04/2023,23:00,USD,low,Michigan Current Conditions  (Apr),68.6,67.3,66.3
+312,14/04/2023,23:00,USD,medium,Retail Inventories Ex Auto  (Feb),0.3%,0.4%,0.1%
+313,15/04/2023,00:00,USD,low,IMF Meetings,,,
+314,15/04/2023,00:30,GBP,medium,MPC Member Tenreyro Speaks,,,
+315,15/04/2023,02:00,USD,medium,U.S. Baker Hughes Oil Rig Count,588,,590
+316,15/04/2023,02:00,USD,medium,U.S. Baker Hughes Total Rig Count,748,,751
+317,15/04/2023,05:30,GBP,medium,CFTC GBP speculative net positions,-2.4K,,-14.8K
+318,15/04/2023,05:30,USD,low,CFTC Aluminium speculative net positions,5.5K,,5.5K
+319,15/04/2023,05:30,USD,low,CFTC Copper speculative net positions,-4.3K,,-3.0K
+320,15/04/2023,05:30,USD,low,CFTC Corn speculative net positions,103.3K,,85.7K
+321,15/04/2023,05:30,USD,medium,CFTC Crude Oil speculative net positions,235.6K,,226.1K
+322,15/04/2023,05:30,USD,medium,CFTC Gold speculative net positions,192.7K,,195.2K
+323,15/04/2023,05:30,USD,medium,CFTC Nasdaq 100 speculative net positions,-2.1K,,-18.4K
+324,15/04/2023,05:30,USD,low,CFTC Natural Gas speculative net positions,-140.9K,,-130.5K
+325,15/04/2023,05:30,USD,medium,CFTC S&P 500 speculative net positions,-307.6K,,-321.5K
+326,15/04/2023,05:30,USD,low,CFTC Silver speculative net positions,23.7K,,21.3K
+327,15/04/2023,05:30,USD,low,CFTC Soybeans speculative net positions,179.3K,,184.3K
+328,15/04/2023,05:30,USD,low,CFTC Wheat speculative net positions,-66.7K,,-60.8K
+329,15/04/2023,05:30,AUD,medium,CFTC AUD speculative net positions,-37.9K,,-27.2K
+330,15/04/2023,05:30,JPY,medium,CFTC JPY speculative net positions,-57.2K,,-57.0K
+331,15/04/2023,05:30,EUR,medium,CFTC EUR speculative net positions,163.3K,,143.4K
+332,16/04/2023,00:00,USD,low,IMF Meetings,,,
+333,17/04/2023,00:00,USD,low,IMF Meetings,,,
+334,17/04/2023,16:30,EUR,medium,ECB McCaul Speaks,,,
+335,17/04/2023,18:00,EUR,medium,ECB Supervisory Board Member Tuominen Speaks,,,
+336,17/04/2023,19:00,EUR,low,Reserve Assets Total  (Mar),"1,133.10B",,"1,096.09B"
+337,17/04/2023,21:30,USD,medium,NY Empire State Manufacturing Index  (Apr),10.80,-18.00,-24.60
+338,17/04/2023,22:00,GBP,medium,BoE MPC Member Cunliffe Speaks,,,
+339,17/04/2023,23:00,USD,low,NAHB Housing Market Index  (Apr),45,44,44
+340,18/04/2023,00:00,EUR,medium,ECB President Lagarde Speaks,,,
+341,18/04/2023,00:30,USD,low,3-Month Bill Auction,5.080%,,4.980%
+342,18/04/2023,00:30,USD,low,6-Month Bill Auction,4.870%,,4.795%
+343,18/04/2023,05:00,USD,low,"US Foreign Buying, T-bonds  (Feb)",55.60B,42.10B,50.90B
+344,18/04/2023,05:00,USD,low,Overall Net Capital Flow  (Feb),28.00B,197.60B,183.20B
+345,18/04/2023,05:00,USD,medium,TIC Net Long-Term Transactions  (Feb),71.0B,101.9B,31.9B
+346,18/04/2023,05:00,USD,low,TIC Net Long-Term Transactions including Swaps  (Feb),72.20B,111.80B,22.30B
+347,18/04/2023,10:30,AUD,medium,RBA Meeting Minutes,,,
+348,18/04/2023,15:00,GBP,low,Average Earnings ex Bonus  (Feb),6.6%,6.2%,6.6%
+349,18/04/2023,15:00,GBP,medium,Average Earnings Index +Bonus  (Feb),5.9%,5.1%,5.9%
+350,18/04/2023,15:00,GBP,medium,Claimant Count Change  (Mar),28.2K,10.2K,-18.8K
+351,18/04/2023,15:00,GBP,medium,Employment Change 3M/3M (MoM)  (Feb),169K,50K,65K
+352,18/04/2023,15:00,GBP,medium,Unemployment Rate  (Feb),3.8%,3.7%,3.7%
+353,18/04/2023,18:00,EUR,medium,ZEW Economic Sentiment  (Apr),6.4,13.0,10.0
+354,18/04/2023,18:20,GBP,low,30-Year Treasury Gilt Auction,4.083%,,3.864%
+355,18/04/2023,21:30,USD,low,Building Permits (MoM)  (Mar),-8.8%,-6.0%,15.8%
+356,18/04/2023,21:30,USD,medium,Building Permits  (Mar),1.413M,1.450M,1.550M
+357,18/04/2023,21:30,USD,medium,Housing Starts  (Mar),1.420M,1.400M,1.432M
+358,18/04/2023,21:30,USD,medium,Housing Starts (MoM)  (Mar),-0.8%,0.4%,7.3%
+359,18/04/2023,21:55,USD,low,Redbook (YoY),1.1%,,1.5%
+360,18/04/2023,22:00,EUR,medium,ECB's Elderson Speaks,,,
+361,19/04/2023,00:30,USD,low,52-Week Bill Auction,4.530%,,4.390%
+362,19/04/2023,02:00,USD,medium,FOMC Member Bowman Speaks,,,
+363,19/04/2023,05:30,USD,medium,API Weekly Crude Oil Stock,-2.675M,-2.464M,0.377M
+364,19/04/2023,08:00,JPY,low,Reuters Tankan Index  (Apr),-3,-1,-3
+365,19/04/2023,10:00,AUD,low,MI Leading Index (MoM)  (Mar),-0.0%,-0.1%,-0.1%
+366,19/04/2023,13:30,JPY,low,Capacity Utilization (MoM)  (Feb),3.9%,4.0%,-5.5%
+367,19/04/2023,13:30,JPY,medium,Industrial Production (MoM)  (Feb),4.6%,4.5%,-5.3%
+368,19/04/2023,15:00,GBP,low,Car Registration (MoM)  (Mar),286.6%,,-43.6%
+369,19/04/2023,15:00,GBP,low,Car Registration (YoY)  (Mar),18.2%,,26.2%
+370,19/04/2023,15:00,GBP,low,Core CPI (YoY)  (Mar),6.2%,6.0%,6.2%
+371,19/04/2023,15:00,GBP,low,Core CPI (MoM)  (Mar),0.9%,0.6%,1.2%
+372,19/04/2023,15:00,GBP,low,Core PPI Output (YoY)  (Mar),8.5%,8.6%,10.2%
+373,19/04/2023,15:00,GBP,low,Core PPI Output (MoM)  (Mar),0.3%,0.2%,-0.2%
+374,19/04/2023,15:00,GBP,low,Core RPI (MoM)  (Mar),0.7%,0.2%,1.1%
+375,19/04/2023,15:00,GBP,low,Core RPI (YoY)  (Mar),12.6%,,12.9%
+376,19/04/2023,15:00,GBP,medium,CPI (MoM)  (Mar),0.8%,0.5%,1.1%
+377,19/04/2023,15:00,GBP,high,CPI (YoY)  (Mar),10.1%,9.8%,10.4%
+378,19/04/2023,15:00,GBP,low,"CPI, n.s.a  (Mar)",128.90,,127.90
+379,19/04/2023,15:00,GBP,medium,CPIH (YoY),8.9%,8.3%,9.2%
+380,19/04/2023,15:00,GBP,medium,PPI Input (MoM)  (Mar),0.2%,-0.3%,0.0%
+381,19/04/2023,15:00,GBP,low,PPI Input (YoY)  (Mar),7.6%,7.0%,12.8%
+382,19/04/2023,15:00,GBP,low,PPI Output (YoY)  (Mar),8.7%,8.6%,11.9%
+383,19/04/2023,15:00,GBP,low,PPI Output (MoM)  (Mar),0.1%,-0.1%,-0.4%
+384,19/04/2023,15:00,GBP,low,RPI (YoY)  (Mar),13.5%,13.3%,13.8%
+385,19/04/2023,15:00,GBP,low,RPI (MoM)  (Mar),0.7%,0.6%,1.2%
+386,19/04/2023,17:00,EUR,low,Current Account  (Feb),24.3B,6.7B,17.0B
+387,19/04/2023,17:00,EUR,low,Current Account n.s.a.  (Jan),21.3B,,16.8B
+388,19/04/2023,18:00,EUR,low,Construction Output (MoM)  (Feb),2.37%,0.00%,3.73%
+389,19/04/2023,18:00,EUR,medium,Core CPI (YoY)  (Mar),5.7%,5.7%,5.6%
+390,19/04/2023,18:00,EUR,low,Core CPI (MoM)  (Mar),1.3%,1.2%,0.8%
+391,19/04/2023,18:00,EUR,high,CPI (YoY)  (Mar),6.9%,6.9%,8.5%
+392,19/04/2023,18:00,EUR,medium,CPI (MoM)  (Mar),0.9%,0.9%,0.8%
+393,19/04/2023,18:00,EUR,low,CPI ex Tobacco (YoY)  (Mar),6.9%,8.0%,8.6%
+394,19/04/2023,18:00,EUR,low,CPI ex Tobacco (MoM)  (Mar),0.9%,1.2%,0.8%
+395,19/04/2023,18:00,EUR,low,"CPI, n.s.a  (Apr)",122.30,122.33,121.24
+396,19/04/2023,18:00,EUR,low,HICP ex Energy & Food (YoY)  (Mar),7.5%,7.5%,7.4%
+397,19/04/2023,18:00,EUR,low,HICP ex Energy and Food (MoM)  (Mar),1.2%,1.1%,0.9%
+398,19/04/2023,18:30,GBP,low,House Price Index (YoY),5.5%,9.3%,6.5%
+399,19/04/2023,19:35,EUR,medium,ECB's Lane Speaks,,,
+400,19/04/2023,19:50,GBP,low,5-Year Treasury Gilt Auction,4.039%,,3.497%
+401,19/04/2023,20:00,USD,low,MBA 30-Year Mortgage Rate,6.43%,,6.30%
+402,19/04/2023,20:00,USD,low,MBA Mortgage Applications (WoW),-8.8%,,5.3%
+403,19/04/2023,20:00,USD,low,MBA Purchase Index,161.6,,179.6
+404,19/04/2023,20:00,USD,low,Mortgage Market Index,209.2,,229.5
+405,19/04/2023,20:00,USD,low,Mortgage Refinance Index,449.8,,477.5
+406,19/04/2023,23:30,USD,high,Crude Oil Inventories,-4.581M,-1.088M,0.597M
+407,19/04/2023,23:30,USD,low,EIA Refinery Crude Runs  (WoW),0.259M,,-0.030M
+408,19/04/2023,23:30,USD,low,Crude Oil Imports,-1.743M,-0.778M,1.561M
+409,19/04/2023,23:30,USD,medium,Cushing Crude Oil Inventories,-1.088M,0.622M,-0.409M
+410,19/04/2023,23:30,USD,low,Distillate Fuel Production,0.167M,-0.014M,-0.157M
+411,19/04/2023,23:30,USD,low,EIA Weekly Distillates Stocks,-0.356M,-0.927M,-0.606M
+412,19/04/2023,23:30,USD,low,Gasoline Production,-0.343M,-0.051M,-0.033M
+413,19/04/2023,23:30,USD,low,Heating Oil Stockpiles,-0.260M,0.081M,1.015M
+414,07/04/2023,All Day,USD,,United States - Good Friday,,,
+415,07/04/2023,All Day,GBP,,United Kingdom - Good Friday,,,
+416,07/04/2023,All Day,AUD,,Australia - Good Friday,,,
+417,07/04/2023,All Day,GBP,,United Kingdom - Good Friday,,,
+418,10/04/2023,All Day,GBP,,United Kingdom - Easter,,,
+419,10/04/2023,All Day,AUD,,Australia - Easter,,,
+420,10/04/2023,All Day,GBP,,United Kingdom - Easter,,,
+421,19/04/2023,23:30,USD,low,EIA Weekly Refinery Utilization Rates (WoW),1.7%,0.5%,-0.3%
+422,19/04/2023,23:30,USD,low,Gasoline Inventories,1.300M,-1.267M,-0.331M
+423,20/04/2023,00:00,EUR,medium,ECB's Schnabel Speaks,,,
+424,20/04/2023,01:30,GBP,medium,BoE MPC Member Mann Speaks,,,
+425,20/04/2023,02:00,USD,medium,20-Year Bond Auction,3.920%,,3.909%
+426,20/04/2023,03:00,USD,medium,Beige Book,,,
+427,20/04/2023,08:00,USD,medium,FOMC Member Williams Speaks,,,
+428,20/04/2023,08:50,JPY,medium,Adjusted Trade Balance,-1.21T,-1.78T,-1.25T
+429,20/04/2023,08:50,JPY,medium,Exports (YoY)  (Mar),4.3%,2.6%,6.5%
+430,20/04/2023,08:50,JPY,low,Foreign Bonds Buying,500.2B,,-788.7B
+431,20/04/2023,08:50,JPY,low,Foreign Investments in Japanese Stocks,"1,876.4B",,"2,368.9B"
+432,20/04/2023,08:50,JPY,low,Imports (YoY)  (Mar),7.3%,11.4%,8.3%
+433,20/04/2023,08:50,JPY,medium,Trade Balance  (Mar),-754.5B,"-1,294.8B",-898.1B
+434,20/04/2023,10:30,AUD,low,NAB Quarterly Business Confidence,-4,2,-1
+435,20/04/2023,13:30,JPY,medium,Tertiary Industry Activity Index (MoM),0.7%,0.4%,0.7%
+436,20/04/2023,18:00,EUR,medium,Trade Balance  (Feb),4.6B,-22.3B,-30.6B
+437,20/04/2023,20:30,EUR,medium,ECB Publishes Account of Monetary Policy Meeting,,,
+438,20/04/2023,21:30,USD,medium,Continuing Jobless Claims,"1,865K","1,820K","1,804K"
+439,20/04/2023,21:30,USD,high,Initial Jobless Claims,245K,240K,240K
+440,20/04/2023,21:30,USD,low,Jobless Claims 4-Week Avg.,239.75K,255.15K,240.25K
+441,20/04/2023,21:30,USD,high,Philadelphia Fed Manufacturing Index  (Apr),-31.3,-19.2,-23.2
+442,20/04/2023,21:30,USD,low,Philly Fed Business Conditions  (Apr),-1.5,-11.9,-8.0
+443,20/04/2023,21:30,USD,low,Philly Fed CAPEX Index  (Apr),-5.40,8.30,-3.80
+444,20/04/2023,21:30,USD,medium,Philly Fed Employment  (Apr),-0.2,-2.6,-10.3
+445,20/04/2023,21:30,USD,low,Philly Fed New Orders  (Apr),-22.7,-21.2,-28.2
+446,20/04/2023,21:30,USD,low,Philly Fed Prices Paid  (Apr),8.20,28.00,23.50
+447,20/04/2023,23:00,USD,medium,Existing Home Sales (MoM)  (Mar),-2.4%,5.0%,13.8%
+448,20/04/2023,23:00,USD,high,Existing Home Sales  (Mar),4.44M,4.50M,4.55M
+449,20/04/2023,23:00,USD,medium,US Leading Index (MoM)  (Mar),-1.2%,-0.6%,-0.5%
+450,20/04/2023,23:00,EUR,low,Consumer Confidence  (Apr),-17.5,-18.5,-19.1
+451,20/04/2023,23:30,USD,low,Natural Gas Storage,75B,69B,25B
+452,21/04/2023,00:30,USD,low,4-Week Bill Auction,3.190%,,4.030%
+453,21/04/2023,00:30,USD,low,8-Week Bill Auction,4.850%,,4.790%
+454,21/04/2023,01:00,USD,medium,Fed Waller Speaks,,,
+455,21/04/2023,02:00,USD,medium,5-Year TIPS Auction,1.320%,,1.504%
+456,21/04/2023,04:00,USD,medium,FOMC Member Bowman Speaks,,,
+457,21/04/2023,05:15,EUR,medium,ECB's Schnabel Speaks,,,
+458,21/04/2023,05:30,USD,medium,Fed's Balance Sheet,"8,593B",,"8,615B"
+459,21/04/2023,05:30,USD,low,Reserve Balances with Federal Reserve Banks,3.165T,,3.348T
+460,21/04/2023,08:01,GBP,low,GfK Consumer Confidence  (Apr),-30,-35,-36
+461,21/04/2023,08:30,JPY,low,"CPI, n.s.a (MoM)  (Mar)",0.4%,0.1%,-0.6%
+462,21/04/2023,08:30,JPY,medium,National Core CPI (YoY)  (Mar),3.1%,3.1%,3.1%
+463,21/04/2023,08:30,JPY,medium,National CPI (MoM),0.3%,,-0.6%
+464,21/04/2023,08:30,JPY,low,National CPI (YoY)  (Mar),3.2%,3.2%,3.3%
+465,21/04/2023,15:00,GBP,medium,Core Retail Sales (YoY)  (Mar),-3.2%,-3.1%,-3.0%
+466,21/04/2023,15:00,GBP,medium,Core Retail Sales (MoM)  (Mar),-1.0%,-0.7%,1.4%
+467,21/04/2023,15:00,GBP,medium,Retail Sales (MoM)  (Mar),-0.9%,-0.5%,1.1%
+468,21/04/2023,15:00,GBP,medium,Retail Sales (YoY)  (Mar),-3.1%,-3.1%,-3.3%
+469,21/04/2023,16:00,EUR,medium,ECB's De Guindos Speaks,,,
+470,21/04/2023,18:00,EUR,low,Government Budget to GDP,-3.6%,,-5.3%
+471,21/04/2023,18:00,EUR,low,Government Debt to GDP,91.5%,,95.4%
+472,21/04/2023,23:30,EUR,medium,ECB's Elderson Speaks,,,
+473,22/04/2023,02:00,USD,medium,U.S. Baker Hughes Oil Rig Count,591,,588
+474,22/04/2023,02:00,USD,medium,U.S. Baker Hughes Total Rig Count,753,,748
+475,22/04/2023,02:45,EUR,medium,ECB's De Guindos Speaks,,,
+476,22/04/2023,05:30,GBP,medium,CFTC GBP speculative net positions,1.3K,,-2.4K
+477,22/04/2023,05:30,USD,low,CFTC Aluminium speculative net positions,5.6K,,5.5K
+478,22/04/2023,05:30,USD,low,CFTC Copper speculative net positions,8.9K,,-4.3K
+479,22/04/2023,05:30,USD,low,CFTC Corn speculative net positions,105.6K,,103.3K
+480,22/04/2023,05:30,USD,medium,CFTC Crude Oil speculative net positions,244.6K,,235.6K
+481,22/04/2023,05:30,USD,medium,CFTC Gold speculative net positions,189.9K,,192.7K
+482,22/04/2023,05:30,USD,medium,CFTC Nasdaq 100 speculative net positions,2.7K,,-2.1K
+483,22/04/2023,05:30,USD,low,CFTC Natural Gas speculative net positions,-140.0K,,-140.9K
+484,22/04/2023,05:30,USD,medium,CFTC S&P 500 speculative net positions,-344.3K,,-307.6K
+485,22/04/2023,05:30,USD,low,CFTC Silver speculative net positions,26.6K,,23.7K
+486,22/04/2023,05:30,USD,low,CFTC Soybeans speculative net positions,177.5K,,179.3K
+487,22/04/2023,05:30,USD,low,CFTC Wheat speculative net positions,-70.5K,,-66.7K
+488,22/04/2023,05:30,AUD,medium,CFTC AUD speculative net positions,-42.4K,,-37.9K
+489,22/04/2023,05:30,JPY,medium,CFTC JPY speculative net positions,-56.9K,,-57.2K
+490,22/04/2023,05:30,EUR,medium,CFTC EUR speculative net positions,164.4K,,163.3K
+491,22/04/2023,05:35,USD,low,Fed Governor Cook Speaks,,,
+492,24/04/2023,08:00,GBP,low,Rightmove House Price Index (MoM),0.2%,,0.8%
+493,24/04/2023,18:00,EUR,medium,ECB's Panetta Speaks,,,
+494,24/04/2023,21:30,USD,low,Chicago Fed National Activity  (Mar),-0.19,-0.02,-0.19
+495,24/04/2023,22:30,EUR,medium,ECB's Panetta Speaks,,,
+496,24/04/2023,23:30,USD,low,Dallas Fed Mfg Business Index  (Apr),-23.4,-14.6,-15.7
+497,25/04/2023,All Day,AUD,,Australia - ANZAC Day,,,
+498,25/04/2023,00:30,USD,low,3-Month Bill Auction,5.065%,,5.080%
+499,25/04/2023,00:30,USD,low,6-Month Bill Auction,4.840%,,4.870%
+500,25/04/2023,08:50,JPY,low,Corporate Services Price Index (CSPI) (YoY),1.6%,1.7%,1.8%
+501,25/04/2023,14:00,JPY,medium,BoJ Core CPI (YoY),2.9%,2.4%,2.7%
+502,25/04/2023,15:00,GBP,low,Public Sector Net Borrowing  (Mar),20.71B,22.94B,12.50B
+503,25/04/2023,15:00,GBP,low,Public Sector Net Cash Requirement  (Mar),18.886B,3.956B,-1.693B
+504,25/04/2023,17:00,EUR,medium,ECB's Enria Speaks,,,
+505,25/04/2023,18:00,GBP,medium,BoE MPC Member Broadbent Speaks,,,
+506,25/04/2023,19:00,GBP,low,CBI Industrial Trends Orders  (Apr),-20,-20,-20
+507,25/04/2023,21:10,USD,low,Building Permits (MoM)  (Mar),-7.7%,-8.8%,15.8%
+508,25/04/2023,21:10,USD,medium,Building Permits  (Mar),1.430M,1.413M,1.550M
+509,25/04/2023,21:55,USD,low,Redbook (YoY),1.8%,,1.1%
+510,25/04/2023,22:00,USD,low,House Price Index (YoY)  (Feb),4.0%,3.9%,5.3%
+511,25/04/2023,22:00,USD,low,House Price Index (MoM)  (Feb),0.5%,-0.1%,0.1%
+512,25/04/2023,22:00,USD,low,House Price Index  (Feb),394.8,392.8,393.0
+513,25/04/2023,22:00,USD,low,S&P/CS HPI Composite - 20 s.a. (MoM)  (Feb),0.1%,-0.4%,-0.4%
+514,25/04/2023,22:00,USD,medium,S&P/CS HPI Composite - 20 n.s.a. (MoM)  (Feb),0.2%,-0.7%,-0.6%
+515,25/04/2023,22:00,USD,medium,S&P/CS HPI Composite - 20 n.s.a. (YoY)  (Feb),0.4%,0.1%,2.6%
+516,25/04/2023,23:00,USD,high,CB Consumer Confidence  (Apr),101.3,104.0,104.0
+517,25/04/2023,23:00,USD,medium,New Home Sales (MoM)  (Mar),9.6%,1.1%,-3.9%
+518,25/04/2023,23:00,USD,high,New Home Sales  (Mar),683K,630K,623K
+519,25/04/2023,23:00,USD,low,Richmond Manufacturing Index  (Apr),-10,-9,-5
+520,25/04/2023,23:00,USD,low,Richmond Manufacturing Shipments  (Apr),-7,,2
+521,25/04/2023,23:00,USD,low,Richmond Services Index  (Apr),-23,-3,-17
+522,25/04/2023,23:30,USD,low,Dallas Fed Services Revenues  (Apr),6.9,4.0,5.5
+523,25/04/2023,23:30,USD,low,Texas Services Sector Outlook  (Apr),-14.4,-16.0,-18.0
+524,26/04/2023,02:00,USD,medium,2-Year Note Auction,3.969%,,3.954%
+525,26/04/2023,02:00,USD,low,M2 Money Supply (MoM)  (Mar),21.06T,,21.18T
+526,26/04/2023,05:30,USD,medium,API Weekly Crude Oil Stock,-6.083M,-1.667M,-2.675M
+527,26/04/2023,10:30,AUD,medium,CPI (YoY)  (Q1),7.0%,6.9%,7.8%
+528,26/04/2023,10:30,AUD,medium,CPI (QoQ)  (Q1),1.4%,1.3%,1.9%
+529,26/04/2023,10:30,AUD,low,CPI Index Number  (Q1),130.80,132.40,130.80
+530,26/04/2023,10:30,AUD,medium,Trimmed Mean CPI (QoQ)  (Q1),1.2%,1.4%,1.7%
+531,26/04/2023,10:30,AUD,low,Trimmed Mean CPI (YoY)  (Q1),6.6%,6.7%,6.9%
+532,26/04/2023,10:30,AUD,low,Weighted mean CPI (YoY)  (Q1),5.8%,5.9%,5.8%
+533,26/04/2023,10:30,AUD,low,Weighted mean CPI (QoQ)  (Q1),1.2%,1.3%,1.6%
+534,26/04/2023,12:35,JPY,low,2-Year JGB Auction,-0.042%,,-0.063%
+535,26/04/2023,16:30,EUR,medium,ECB's Enria Speaks,,,
+536,26/04/2023,17:30,GBP,medium,Labour Productivity  (Q4),0.4%,0.3%,-0.2%
+537,26/04/2023,18:20,EUR,medium,ECB's Supervisory Board Member Jochnick Speaks,,,
+538,26/04/2023,19:00,GBP,low,CBI Distributive Trades Survey  (Apr),5,0,1
+539,26/04/2023,20:00,USD,low,MBA 30-Year Mortgage Rate,6.55%,,6.43%
+540,26/04/2023,20:00,USD,low,MBA Mortgage Applications (WoW),3.7%,,-8.8%
+541,26/04/2023,20:00,USD,low,MBA Purchase Index,169.1,,161.6
+542,26/04/2023,20:00,USD,low,Mortgage Market Index,216.9,,209.2
+543,26/04/2023,20:00,USD,low,Mortgage Refinance Index,457.6,,449.8
+544,26/04/2023,21:00,EUR,medium,ECB's De Guindos Speaks,,,
+545,26/04/2023,21:30,USD,medium,Core Durable Goods Orders (MoM)  (Mar),0.3%,-0.2%,-0.3%
+546,26/04/2023,21:30,USD,high,Durable Goods Orders (MoM)  (Mar),3.2%,0.7%,-1.2%
+547,26/04/2023,21:30,USD,low,Durables Excluding Defense (MoM)  (Mar),3.5%,,-0.8%
+548,26/04/2023,21:30,USD,low,Goods Orders Non Defense Ex Air (MoM)  (Mar),-0.4%,-0.1%,-0.7%
+549,26/04/2023,21:30,USD,medium,Goods Trade Balance  (Mar),-84.60B,-89.00B,-91.99B
+550,26/04/2023,21:30,USD,medium,Retail Inventories Ex Auto  (Mar),0.4%,0.1%,-0.1%
+551,26/04/2023,21:30,USD,low,Wholesale Inventories (MoM),0.1%,,0.1%
+552,26/04/2023,22:45,EUR,medium,ECB Supervisory Board Member Tuominen Speaks,,,
+553,26/04/2023,23:30,USD,high,Crude Oil Inventories,-5.054M,-1.486M,-4.581M
+554,26/04/2023,23:30,USD,low,EIA Refinery Crude Runs  (WoW),-0.011M,,0.259M
+555,26/04/2023,23:30,USD,low,Crude Oil Imports,-0.166M,-0.300M,-1.743M
+556,26/04/2023,23:30,USD,medium,Cushing Crude Oil Inventories,0.319M,0.667M,-1.088M
+557,26/04/2023,23:30,USD,low,Distillate Fuel Production,-0.081M,-0.045M,0.167M
+558,26/04/2023,23:30,USD,low,EIA Weekly Distillates Stocks,-0.576M,-0.839M,-0.356M
+559,26/04/2023,23:30,USD,low,Gasoline Production,0.541M,-0.096M,-0.343M
+560,26/04/2023,23:30,USD,low,Heating Oil Stockpiles,0.151M,-0.285M,-0.260M
+561,26/04/2023,23:30,USD,low,EIA Weekly Refinery Utilization Rates (WoW),0.3%,0.3%,1.7%
+562,26/04/2023,23:30,USD,low,Gasoline Inventories,-2.408M,-0.933M,1.300M
+563,27/04/2023,02:00,USD,medium,5-Year Note Auction,3.500%,,3.665%
+564,27/04/2023,08:50,JPY,low,Foreign Bonds Buying,"-1,059.5B",,502.5B
+565,27/04/2023,08:50,JPY,low,Foreign Investments in Japanese Stocks,342.9B,,"1,876.1B"
+566,27/04/2023,10:30,AUD,low,Export Price Index (QoQ)  (Q1),1.6%,1.9%,-0.9%
+567,27/04/2023,10:30,AUD,low,Import Price Index (QoQ)  (Q1),-4.2%,3.6%,1.8%
+568,27/04/2023,14:00,JPY,low,Coincident Indicator (MoM),2.5%,,2.8%
+569,27/04/2023,14:00,JPY,low,Leading Index (MoM),1.3%,,1.1%
+570,27/04/2023,14:00,JPY,low,Leading Index,98.0,97.7,96.7
+571,27/04/2023,18:00,EUR,low,Business and Consumer Survey  (Apr),99.3,99.9,99.2
+572,27/04/2023,18:00,EUR,low,Business Climate  (Apr),0.54,,0.70
+573,27/04/2023,18:00,EUR,low,Consumer Confidence  (Apr),-17.5,-17.5,-19.1
+574,27/04/2023,18:00,EUR,low,Consumer Inflation Expectation  (Apr),15.1,18.0,18.8
+575,27/04/2023,18:00,EUR,low,Selling Price Expectations  (Apr),12.0,16.0,18.1
+576,27/04/2023,18:00,EUR,low,Services Sentiment  (Apr),10.5,9.4,9.6
+577,27/04/2023,18:00,EUR,low,Industrial Sentiment  (Apr),-2.6,0.1,-0.5
+578,27/04/2023,21:30,USD,medium,Continuing Jobless Claims,"1,858K","1,878K","1,861K"
+579,27/04/2023,21:30,USD,medium,Core PCE Prices  (Q1),4.90%,4.70%,4.40%
+580,27/04/2023,21:30,USD,high,GDP (QoQ)  (Q1),1.1%,2.0%,2.6%
+581,27/04/2023,21:30,USD,medium,GDP Price Index (QoQ)  (Q1),4.0%,3.7%,3.9%
+582,27/04/2023,21:30,USD,low,GDP Sales  (Q1),3.4%,2.3%,1.1%
+583,27/04/2023,21:30,USD,high,Initial Jobless Claims,230K,248K,246K
+584,27/04/2023,21:30,USD,low,Jobless Claims 4-Week Avg.,236.00K,,240.00K
+585,27/04/2023,21:30,USD,low,PCE Prices  (Q1),4.2%,0.5%,3.7%
+586,27/04/2023,21:30,USD,low,Real Consumer Spending  (Q1),3.7%,,1.0%
+587,27/04/2023,23:00,USD,medium,Pending Home Sales (MoM)  (Mar),-5.2%,0.5%,0.8%
+588,27/04/2023,23:00,USD,low,Pending Home Sales Index  (Mar),78.9,,83.2
+589,27/04/2023,23:30,USD,low,Natural Gas Storage,79B,75B,75B
+590,28/04/2023,00:00,USD,low,KC Fed Composite Index  (Apr),-10,0,0
+591,28/04/2023,00:00,USD,low,KC Fed Manufacturing Index  (Apr),-21,3,3
+592,28/04/2023,00:30,USD,low,4-Week Bill Auction,3.830%,,3.190%
+593,28/04/2023,00:30,USD,low,8-Week Bill Auction,4.940%,,4.850%
+594,28/04/2023,01:15,EUR,medium,ECB's Panetta Speaks,,,
+595,28/04/2023,02:00,USD,medium,7-Year Note Auction,3.563%,,3.626%
+596,28/04/2023,05:30,USD,medium,Fed's Balance Sheet,"8,563B",,"8,593B"
+597,28/04/2023,05:30,USD,low,Reserve Balances with Federal Reserve Banks,3.132T,,3.165T
+598,28/04/2023,08:30,JPY,low,Jobs/applications ratio  (Mar),1.32,1.34,1.34
+599,28/04/2023,08:30,JPY,medium,Tokyo Core CPI (YoY)  (Apr),3.5%,3.2%,3.2%
+600,28/04/2023,08:30,JPY,low,Tokyo CPI (YoY)  (Apr),3.5%,3.1%,3.3%
+601,28/04/2023,08:30,JPY,low,CPI Tokyo Ex Food and Energy (MoM)  (Apr),0.7%,,0.4%
+602,28/04/2023,08:30,JPY,low,Unemployment Rate  (Mar),2.8%,2.5%,2.6%
+603,28/04/2023,08:50,JPY,medium,Industrial Production (MoM)  (Mar),0.8%,0.5%,4.6%
+604,28/04/2023,08:50,JPY,low,Industrial Production forecast 1m ahead (MoM)  (Apr),4.1%,,0.7%
+605,28/04/2023,08:50,JPY,low,Industrial Production forecast 2m ahead (MoM)  (May),-2.0%,,5.8%
+606,28/04/2023,08:50,JPY,low,Large Retailers' Sales (MoM),0.6%,,2.1%
+607,28/04/2023,08:50,JPY,low,Retail Sales (YoY)  (Mar),7.2%,5.8%,7.3%
+608,28/04/2023,10:30,AUD,low,Housing Credit  (Mar),0.3%,0.2%,0.3%
+609,28/04/2023,10:30,AUD,medium,PPI (YoY)  (Q1),5.2%,5.0%,5.8%
+610,28/04/2023,10:30,AUD,medium,PPI (QoQ)  (Q1),1.0%,0.8%,0.7%
+611,28/04/2023,10:30,AUD,low,Private Sector Credit (MoM)  (Mar),0.3%,0.3%,0.4%
+612,28/04/2023,12:00,JPY,medium,BoJ Monetary Policy Statement,,,
+613,28/04/2023,12:00,JPY,medium,BoJ Outlook Report (YoY),,,
+614,28/04/2023,13:00,JPY,high,BoJ Interest Rate Decision,-0.10%,-0.10%,-0.10%
+615,28/04/2023,14:00,JPY,low,Construction Orders (YoY)  (Mar),-4.1%,11.1%,22.3%
+616,28/04/2023,14:00,JPY,low,Housing Starts (YoY)  (Mar),-3.2%,-4.3%,-0.3%
+617,28/04/2023,15:30,JPY,medium,BoJ Press Conference,,,
+618,28/04/2023,18:00,EUR,medium,GDP (QoQ)  (Q1),0.1%,0.2%,0.0%
+619,28/04/2023,18:00,EUR,medium,GDP (YoY)  (Q1),1.3%,1.4%,1.8%
+620,28/04/2023,19:00,EUR,medium,Eurogroup Meetings,,,
+621,28/04/2023,21:30,USD,high,Core PCE Price Index (YoY)  (Mar),4.6%,4.5%,4.7%
+622,07/04/2023,All Day,USD,,United States - Good Friday,,,
+623,07/04/2023,All Day,GBP,,United Kingdom - Good Friday,,,
+624,07/04/2023,All Day,AUD,,Australia - Good Friday,,,
+625,07/04/2023,All Day,GBP,,United Kingdom - Good Friday,,,
+626,10/04/2023,All Day,GBP,,United Kingdom - Easter,,,
+627,10/04/2023,All Day,AUD,,Australia - Easter,,,
+628,10/04/2023,All Day,GBP,,United Kingdom - Easter,,,
+629,25/04/2023,All Day,AUD,,Australia - ANZAC Day,,,
+630,28/04/2023,21:30,USD,high,Core PCE Price Index (YoY)  (Mar),4.6%,4.5%,4.7%
+631,28/04/2023,21:30,USD,low,Employment Benefits (QoQ)  (Q1),1.20%,0.70%,1.00%
+632,28/04/2023,21:30,USD,medium,Employment Cost Index (QoQ)  (Q1),1.2%,1.1%,1.1%
+633,28/04/2023,21:30,USD,low,Employment Wages (QoQ)  (Q1),1.20%,0.90%,1.20%
+634,28/04/2023,21:30,USD,medium,PCE Price index (YoY)  (Mar),4.2%,,5.1%
+635,28/04/2023,21:30,USD,medium,PCE price index (MoM)  (Mar),0.1%,0.3%,0.3%
+636,28/04/2023,21:30,USD,low,Personal Income (MoM)  (Mar),0.3%,0.2%,0.3%
+637,28/04/2023,21:30,USD,medium,Personal Spending (MoM)  (Mar),0.0%,-0.1%,0.1%
+638,28/04/2023,21:30,USD,low,Real Personal Consumption (MoM)  (Mar),0.0%,,-0.2%
+639,28/04/2023,22:45,USD,high,Chicago PMI  (Apr),48.6,43.5,43.8
+640,28/04/2023,23:00,USD,medium,Michigan 1-Year Inflation Expectations  (Apr),4.6%,,4.6%
+641,28/04/2023,23:00,USD,medium,Michigan 5-Year Inflation Expectations  (Apr),3.0%,,2.9%
+642,28/04/2023,23:00,USD,medium,Michigan Consumer Expectations  (Apr),60.5,61.8,60.3
+643,28/04/2023,23:00,USD,medium,Michigan Consumer Sentiment  (Apr),63.5,63.5,63.5
+644,28/04/2023,23:00,USD,low,Michigan Current Conditions  (Apr),68.2,66.0,68.6
+645,29/04/2023,00:20,USD,low,Dallas Fed PCE  (Mar),3.40%,,4.60%
+646,29/04/2023,02:00,USD,medium,U.S. Baker Hughes Oil Rig Count,591,,591
+647,29/04/2023,02:00,USD,medium,U.S. Baker Hughes Total Rig Count,755,,753
+648,29/04/2023,05:30,GBP,medium,CFTC GBP speculative net positions,5.8K,,1.3K
+649,29/04/2023,05:30,USD,low,CFTC Aluminium speculative net positions,6.2K,,5.6K
+650,29/04/2023,05:30,USD,low,CFTC Copper speculative net positions,-17.0K,,8.9K
+651,29/04/2023,05:30,USD,low,CFTC Corn speculative net positions,24.6K,,105.6K
+652,29/04/2023,05:30,USD,medium,CFTC Crude Oil speculative net positions,236.4K,,244.6K
+653,29/04/2023,05:30,USD,medium,CFTC Gold speculative net positions,185.3K,,189.9K
+654,29/04/2023,05:30,USD,medium,CFTC Nasdaq 100 speculative net positions,5.1K,,2.7K
+655,29/04/2023,05:30,USD,low,CFTC Natural Gas speculative net positions,-136.2K,,-140.0K
+656,29/04/2023,05:30,USD,medium,CFTC S&P 500 speculative net positions,-363.3K,,-344.3K
+657,29/04/2023,05:30,USD,low,CFTC Silver speculative net positions,30.6K,,26.6K
+658,29/04/2023,05:30,USD,low,CFTC Soybeans speculative net positions,104.1K,,177.5K
+659,29/04/2023,05:30,USD,low,CFTC Wheat speculative net positions,-83.2K,,-70.5K
+660,29/04/2023,05:30,AUD,medium,CFTC AUD speculative net positions,-39.5K,,-42.4K
+661,29/04/2023,05:30,JPY,medium,CFTC JPY speculative net positions,-68.7K,,-56.9K
+662,29/04/2023,05:30,EUR,medium,CFTC EUR speculative net positions,169.4K,,164.4K
+663,07/04/2023,All Day,USD,,United States - Good Friday,,,
+664,07/04/2023,All Day,GBP,,United Kingdom - Good Friday,,,
+665,07/04/2023,All Day,AUD,,Australia - Good Friday,,,
+666,07/04/2023,All Day,GBP,,United Kingdom - Good Friday,,,
+667,10/04/2023,All Day,GBP,,United Kingdom - Easter,,,
+668,10/04/2023,All Day,AUD,,Australia - Easter,,,
+669,10/04/2023,All Day,GBP,,United Kingdom - Easter,,,
+670,25/04/2023,All Day,AUD,,Australia - ANZAC Day,,,

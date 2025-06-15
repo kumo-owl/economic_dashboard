@@ -1,0 +1,726 @@
+id,date,time,currency,importance,event,actual,forecast,previous
+0,01/10/2021,00:00,USD,medium,FOMC Member Bostic Speaks,,,
+1,01/10/2021,00:00,USD,low,OPEC Crude Oil Production Algeria (Barrel),0.92M,,0.91M
+2,01/10/2021,00:00,USD,low,OPEC Crude Oil Production Congo (Barrel),0.25M,,0.26M
+3,01/10/2021,00:00,USD,low,OPEC Crude Oil Production Gabon (Barrel),0.18M,,0.18M
+4,01/10/2021,00:00,USD,low,OPEC Crude Oil Production Guinea (Barrel),0.10M,,0.10M
+5,01/10/2021,00:00,USD,low,OPEC Crude oil Production Iran (Barrel),2.49M,,2.49M
+6,01/10/2021,00:00,USD,low,OPEC Crude oil Production Iraq (Barrel),4.06M,,3.98M
+7,01/10/2021,00:00,USD,low,OPEC Crude Oil Production Kuwait (Barrel),2.44M,,2.43M
+8,01/10/2021,00:00,USD,low,OPEC Crude Oil Production Libya (Barrel),1.16M,,1.17M
+9,01/10/2021,00:00,USD,low,OPEC Crude Oil Production Nigeria (Barrel),1.27M,,1.44M
+10,01/10/2021,00:00,USD,low,OPEC Crude oil Production Saudi Arabia (Barrel),9.49M,,9.40M
+11,01/10/2021,00:00,USD,low,OPEC Crude oil Production UAE (Barrel),2.78M,,2.72M
+12,01/10/2021,00:00,USD,low,OPEC Crude oil Production Venezuela (Barrel),0.52M,,0.51M
+13,01/10/2021,00:00,USD,low,M2 Money Supply (MoM)  (Aug),21.0T,,20.8T
+14,01/10/2021,00:30,USD,low,4-Week Bill Auction,0.045%,,0.050%
+15,01/10/2021,00:30,USD,low,8-Week Bill Auction,0.040%,,0.035%
+16,01/10/2021,00:30,USD,medium,FOMC Member Harker Speaks,,,
+17,01/10/2021,01:30,USD,low,Chicago Fed President Evans Speaks,,,
+18,01/10/2021,07:30,AUD,low,AIG Manufacturing Index  (Sep),51.2,,51.6
+19,01/10/2021,08:30,JPY,low,Jobs/applications ratio  (Aug),1.14,1.14,1.15
+20,01/10/2021,08:30,JPY,low,Unemployment Rate  (Aug),2.8%,2.9%,2.8%
+21,01/10/2021,08:50,JPY,low,BoJ Summary of Opinions,,,
+22,01/10/2021,08:50,JPY,medium,Tankan All Big Industry CAPEX  (Q3),10.1%,9.1%,9.6%
+23,01/10/2021,08:50,JPY,low,Tankan All Small Industry CAPEX  (Q3),4.7%,1.6%,0.9%
+24,01/10/2021,08:50,JPY,medium,Tankan Big Manufacturing Outlook Index  (Q3),14,15,13
+25,01/10/2021,08:50,JPY,medium,Tankan Large Manufacturers Index  (Q3),18,13,14
+26,01/10/2021,08:50,JPY,low,Tankan Large Non-Manufacturers Diffusion Index  (Q3),3,5,3
+27,01/10/2021,08:50,JPY,medium,Tankan Large Non-Manufacturers Index  (Q3),2,3,1
+28,01/10/2021,08:50,JPY,low,Tankan Small Manufacturers Diffusion Index  (Q3),-4,-6,-6
+29,01/10/2021,08:50,JPY,low,Tankan Small Manufacturing Index  (Q3),-3,-9,-7
+30,01/10/2021,08:50,JPY,low,Tankan Small Non-Manufacturers Diffusion Index  (Q3),-13,-9,-12
+31,01/10/2021,08:50,JPY,low,Tankan Small Non-Manufacturing Index  (Q3),-10,-11,-9
+32,01/10/2021,09:00,USD,low,Total Vehicle Sales,12.20M,,13.10M
+33,01/10/2021,09:30,AUD,medium,Home Loans (MoM),-6.6%,-2.0%,-0.4%
+34,01/10/2021,09:30,AUD,low,Invest Housing Finance (MoM),1.5%,,1.8%
+35,01/10/2021,14:00,JPY,low,Household Confidence  (Sep),37.8,,36.7
+36,01/10/2021,15:30,AUD,low,Commodity Prices (YoY),37.4%,,49.3%
+37,01/10/2021,18:00,EUR,medium,Core CPI (YoY),1.9%,,1.6%
+38,01/10/2021,18:00,EUR,low,Core CPI (MoM),0.5%,,0.4%
+39,01/10/2021,18:00,EUR,high,CPI (YoY)  (Sep),3.4%,3.3%,3.0%
+40,01/10/2021,18:00,EUR,medium,CPI (MoM),0.5%,,0.4%
+41,01/10/2021,18:00,EUR,low,"CPI, n.s.a  (Sep)",108.49,,107.98
+42,01/10/2021,18:00,EUR,low,HICP ex Energy & Food (YoY)  (Sep),1.9%,1.9%,1.6%
+43,01/10/2021,18:00,EUR,low,HICP ex Energy and Food (MoM),0.5%,,0.2%
+44,01/10/2021,21:30,USD,high,Core PCE Price Index (MoM)  (Aug),0.3%,0.2%,0.3%
+45,01/10/2021,21:30,USD,high,Core PCE Price Index (YoY)  (Aug),3.6%,3.6%,3.6%
+46,01/10/2021,21:30,USD,medium,PCE Price index (YoY)  (Aug),4.3,,4.2
+47,01/10/2021,21:30,USD,medium,PCE price index (MoM)  (Aug),0.4%,,0.4%
+48,01/10/2021,21:30,USD,low,Personal Income (MoM)  (Aug),0.2%,0.3%,1.1%
+49,01/10/2021,21:30,USD,medium,Personal Spending (MoM)  (Aug),0.8%,0.6%,-0.1%
+50,01/10/2021,21:30,USD,low,Real Personal Consumption (MoM)  (Aug),0.4%,,-0.5%
+51,01/10/2021,23:00,USD,medium,Construction Spending (MoM)  (Aug),0.0%,0.3%,0.3%
+52,01/10/2021,23:00,USD,medium,ISM Manufacturing Employment  (Sep),50.2,,49.0
+53,01/10/2021,23:00,USD,low,ISM Manufacturing New Orders Index  (Sep),66.7,,66.7
+54,01/10/2021,23:00,USD,high,ISM Manufacturing PMI  (Sep),61.1,59.6,59.9
+55,01/10/2021,23:00,USD,high,ISM Manufacturing Prices  (Sep),81.2,78.5,79.4
+56,01/10/2021,23:00,USD,medium,Michigan 1-Year Inflation Expectations  (Sep),4.6%,4.7%,4.6%
+57,01/10/2021,23:00,USD,medium,Michigan 5-Year Inflation Expectations  (Sep),3.00%,2.90%,2.90%
+58,01/10/2021,23:00,USD,medium,Michigan Consumer Expectations  (Sep),68.1,67.1,65.1
+59,01/10/2021,23:00,USD,medium,Michigan Consumer Sentiment  (Sep),72.8,71.0,70.3
+60,01/10/2021,23:00,USD,low,Michigan Current Conditions  (Sep),80.1,77.1,78.5
+61,02/10/2021,00:30,EUR,medium,ECB's Schnabel Speaks,,,
+62,02/10/2021,01:00,USD,low,Dallas Fed PCE  (Aug),2.80%,,3.10%
+63,02/10/2021,02:00,USD,medium,U.S. Baker Hughes Oil Rig Count,428,,421
+64,02/10/2021,02:00,USD,medium,FOMC Member Harker Speaks,,,
+65,02/10/2021,02:00,USD,medium,U.S. Baker Hughes Total Rig Count,528,,521
+66,02/10/2021,04:30,GBP,medium,CFTC GBP speculative net positions,2.0K,,-0.2K
+67,02/10/2021,04:30,USD,low,CFTC Aluminium speculative net positions,4.3K,,4.3K
+68,02/10/2021,04:30,USD,low,CFTC Copper speculative net positions,18.6K,,19.3K
+69,02/10/2021,04:30,USD,low,CFTC Corn speculative net positions,278.5K,,265.5K
+70,02/10/2021,04:30,USD,medium,CFTC Crude Oil speculative net positions,373.8K,,356.0K
+71,02/10/2021,04:30,USD,medium,CFTC Gold speculative net positions,168.4K,,187.6K
+72,02/10/2021,04:30,USD,medium,CFTC Nasdaq 100 speculative net positions,-2.3K,,9.4K
+73,02/10/2021,04:30,USD,low,CFTC Natural Gas speculative net positions,-146.7K,,-140.2K
+74,02/10/2021,04:30,USD,medium,CFTC S&P 500 speculative net positions,73.2K,,49.8K
+75,02/10/2021,04:30,USD,low,CFTC Silver speculative net positions,16.7K,,15.6K
+76,02/10/2021,04:30,USD,low,CFTC Soybeans speculative net positions,64.7K,,61.1K
+77,02/10/2021,04:30,USD,low,CFTC Wheat speculative net positions,-3.6K,,1.8K
+78,02/10/2021,04:30,AUD,medium,CFTC AUD speculative net positions,-86.4K,,-85.6K
+79,02/10/2021,04:30,JPY,medium,CFTC JPY speculative net positions,-64.8K,,-56.1K
+80,02/10/2021,04:30,EUR,medium,CFTC EUR speculative net positions,0.9K,,12.1K
+81,04/10/2021,08:50,JPY,low,Monetary Base (YoY),11.7%,15.3%,14.9%
+82,04/10/2021,10:00,AUD,low,MI Inflation Gauge (MoM),0.3%,,0.0%
+83,04/10/2021,14:30,GBP,medium,Investing.com GBP/USD Index,44.0%,,42.9%
+84,04/10/2021,14:30,USD,medium,Investing.com Gold Index,54.8%,,53.7%
+85,04/10/2021,14:30,AUD,medium,Investing.com AUD/USD Index,29.2%,,31.1%
+86,04/10/2021,14:30,JPY,medium,Investing.com USD/JPY Index,51.8%,,42.6%
+87,04/10/2021,14:30,EUR,medium,Investing.com EUR/USD Index,43.2%,,44.2%
+88,04/10/2021,16:30,EUR,medium,ECB's De Guindos Speaks,,,
+89,04/10/2021,17:30,EUR,low,Sentix Investor Confidence  (Oct),16.9,18.6,19.6
+90,04/10/2021,19:00,USD,medium,OPEC Meeting,,,
+91,04/10/2021,19:00,EUR,medium,Eurogroup Meetings,,,
+92,04/10/2021,22:00,USD,low,All Car Sales  (Sep),2.61M,,2.99M
+93,04/10/2021,22:00,USD,low,All Truck Sales  (Sep),9.57M,,10.02M
+94,04/10/2021,23:00,USD,low,Durables Excluding Defense (MoM)  (Aug),2.4%,,2.4%
+95,04/10/2021,23:00,USD,medium,Factory Orders (MoM)  (Aug),1.2%,1.0%,0.7%
+96,04/10/2021,23:00,USD,low,Factory orders ex transportation (MoM)  (Aug),0.5%,,0.9%
+97,05/10/2021,00:30,USD,low,3-Month Bill Auction,0.040%,,0.035%
+98,05/10/2021,00:30,USD,low,6-Month Bill Auction,0.055%,,0.050%
+99,05/10/2021,06:30,AUD,low,AIG Construction Index  (Sep),53.3,,38.4
+100,05/10/2021,08:30,JPY,medium,Tokyo Core CPI (YoY)  (Sep),0.1%,0.2%,-0.3%
+101,05/10/2021,08:30,JPY,low,Tokyo CPI (YoY)  (Sep),0.3%,,-0.4%
+102,05/10/2021,08:30,JPY,low,CPI Tokyo Ex Food and Energy (MoM)  (Sep),-0.2%,,0.1%
+103,05/10/2021,09:30,AUD,low,ANZ Job Advertisements (MoM),-2.8%,,-2.7%
+104,05/10/2021,09:30,AUD,low,Exports (MoM)  (Aug),4%,,5%
+105,05/10/2021,09:30,AUD,low,Imports (MoM)  (Aug),-1%,,3%
+106,05/10/2021,09:30,AUD,medium,Retail Sales (MoM),-1.7%,-1.7%,-2.7%
+107,05/10/2021,09:30,AUD,medium,Trade Balance  (Aug),15.077B,10.300B,12.117B
+108,05/10/2021,12:30,AUD,high,RBA Interest Rate Decision  (Oct),0.10%,0.10%,0.10%
+109,05/10/2021,12:30,AUD,medium,RBA Rate Statement,,,
+110,05/10/2021,12:45,JPY,medium,10-Year JGB Auction,0.049%,,0.023%
+111,05/10/2021,15:00,JPY,medium,BoJ Governor Kuroda Speaks,,,
+112,05/10/2021,18:00,EUR,low,PPI (MoM)  (Aug),1.1%,1.3%,2.5%
+113,05/10/2021,18:00,EUR,low,PPI (YoY)  (Aug),13.4%,13.5%,12.4%
+114,05/10/2021,21:30,USD,medium,Exports,213.70B,,212.70B
+115,05/10/2021,21:30,USD,medium,Imports,287.00B,,283.00B
+116,05/10/2021,21:30,USD,medium,Trade Balance  (Aug),-73.30B,-70.50B,-70.30B
+117,05/10/2021,21:55,USD,low,Redbook (YoY),16.6%,,16.5%
+118,05/10/2021,23:00,USD,low,IBD/TIPP Economic Optimism,46.8,,48.5
+119,05/10/2021,23:00,USD,low,ISM Non-Manufacturing Business Activity  (Sep),62.3,59.5,60.1
+120,05/10/2021,23:00,USD,medium,ISM Non-Manufacturing Employment  (Sep),53.0,,53.7
+121,05/10/2021,23:00,USD,low,ISM Non-Manufacturing New Orders  (Sep),63.5,,63.2
+122,05/10/2021,23:00,USD,high,ISM Non-Manufacturing PMI  (Sep),61.9,60.0,61.7
+123,05/10/2021,23:00,USD,high,ISM Non-Manufacturing Prices  (Sep),77.5,,75.4
+124,06/10/2021,00:00,EUR,medium,ECB President Lagarde Speaks,,,
+125,06/10/2021,00:30,USD,low,52-Week Bill Auction,0.090%,,0.075%
+126,06/10/2021,02:15,USD,medium,FOMC Member Quarles Speaks,,,
+127,06/10/2021,05:30,USD,medium,API Weekly Crude Oil Stock,0.951M,-0.300M,4.127M
+128,06/10/2021,05:30,USD,low,API Weekly Gasoline Stock,3.682M,,3.555M
+129,06/10/2021,09:30,AUD,low,RBA Chart Pack Release,,,
+130,06/10/2021,16:50,EUR,medium,ECB McCaul Speaks,,,
+131,06/10/2021,17:30,GBP,low,Housing Equity Withdrawal (QoQ),7.2B,,6.1B
+132,06/10/2021,18:00,EUR,low,Retail Sales (MoM)  (Aug),0.3%,0.8%,-2.6%
+133,06/10/2021,18:00,EUR,low,Retail Sales (YoY)  (Aug),0.0%,0.4%,3.1%
+134,06/10/2021,20:00,USD,low,MBA 30-Year Mortgage Rate,3.14%,,3.10%
+135,06/10/2021,20:00,USD,low,MBA Mortgage Applications (WoW),-6.9%,,-1.1%
+136,06/10/2021,20:00,USD,low,MBA Purchase Index,275.7,,280.4
+137,06/10/2021,20:00,USD,low,Mortgage Market Index,684.5,,734.9
+138,06/10/2021,20:00,USD,low,Mortgage Refinance Index,"3,037.6",,"3,359.5"
+139,06/10/2021,21:15,USD,high,ADP Nonfarm Employment Change  (Sep),568K,428K,340K
+140,06/10/2021,22:00,USD,medium,FOMC Member Bostic Speaks,,,
+141,06/10/2021,23:30,USD,high,Crude Oil Inventories,2.346M,-0.418M,4.578M
+142,06/10/2021,23:30,USD,low,EIA Refinery Crude Runs  (WoW),0.329M,,0.068M
+143,06/10/2021,23:30,USD,low,Crude Oil Imports,1.389M,,-0.124M
+144,06/10/2021,23:30,USD,medium,Cushing Crude Oil Inventories,1.548M,,0.131M
+145,06/10/2021,23:30,USD,low,Distillate Fuel Production,0.130M,,0.194M
+146,06/10/2021,23:30,USD,low,EIA Weekly Distillates Stocks,-0.396M,-1.007M,0.385M
+147,06/10/2021,23:30,USD,low,Gasoline Production,-0.523M,,0.246M
+148,06/10/2021,23:30,USD,low,Heating Oil Stockpiles,-0.216M,,-0.366M
+149,06/10/2021,23:30,USD,low,EIA Weekly Refinery Utilization Rates (WoW),1.5%,0.6%,0.6%
+150,06/10/2021,23:30,USD,low,Gasoline Inventories,3.256M,-0.279M,0.193M
+151,07/10/2021,00:30,USD,medium,FOMC Member Bostic Speaks,,,
+152,07/10/2021,05:30,USD,medium,Fed's Balance Sheet,"8,464.03B",,"8,447.98B"
+153,07/10/2021,06:30,AUD,low,AIG Services Index  (Sep),45.7,,45.6
+154,07/10/2021,08:50,JPY,low,Foreign Bonds Buying,"1,189.4B",,439.5B
+155,07/10/2021,08:50,JPY,low,Foreign Investments in Japanese Stocks,-334.3B,,-228.5B
+156,07/10/2021,08:50,JPY,low,Foreign Reserves (USD)  (Sep),"1,409.3B",,"1,424.3B"
+157,07/10/2021,10:00,JPY,medium,BoJ Governor Kuroda Speaks,,,
+158,07/10/2021,14:00,JPY,low,Coincident Indicator (MoM)  (Aug),-2.9%,,-0.2%
+159,07/10/2021,14:00,JPY,low,Leading Index (MoM)  (Aug),-2.3%,,-0.1%
+160,07/10/2021,14:00,JPY,low,Leading Index,101.8,,104.1
+161,07/10/2021,15:00,GBP,medium,Halifax House Price Index (YoY),7.4%,,7.2%
+162,07/10/2021,15:00,GBP,medium,Halifax House Price Index (MoM)  (Sep),1.7%,,0.8%
+163,07/10/2021,17:30,GBP,medium,Labour Productivity  (Q2),-0.5%,,0.1%
+164,07/10/2021,17:30,EUR,medium,ECB's Elderson Speaks,,,
+165,07/10/2021,17:30,EUR,medium,ECB's Lane Speaks,,,
+166,07/10/2021,20:30,USD,low,Challenger Job Cuts (YoY),-84.9%,,-86.4%
+167,07/10/2021,20:30,USD,low,Challenger Job Cuts  (Sep),17.895K,,15.723K
+168,07/10/2021,20:30,EUR,medium,ECB Publishes Account of Monetary Policy Meeting,,,
+169,07/10/2021,21:30,USD,medium,Continuing Jobless Claims,"2,714K","2,780K","2,811K"
+170,07/10/2021,21:30,USD,high,Initial Jobless Claims,326K,348K,364K
+171,07/10/2021,21:30,USD,low,Jobless Claims 4-Week Avg.,344.00K,,340.50K
+172,07/10/2021,21:40,USD,medium,FOMC Member Williams Speaks,,,
+173,07/10/2021,22:00,EUR,medium,ECB's Lane Speaks,,,
+174,07/10/2021,22:00,EUR,medium,ECB's Schnabel Speaks,,,
+175,07/10/2021,23:30,USD,low,Natural Gas Storage,118B,105B,88B
+176,08/10/2021,00:30,USD,low,4-Week Bill Auction,0.035%,,0.045%
+177,08/10/2021,00:30,USD,low,8-Week Bill Auction,0.110%,,0.040%
+178,08/10/2021,00:45,EUR,medium,ECB's Lane Speaks,,,
+179,08/10/2021,04:00,USD,medium,Consumer Credit  (Aug),14.38B,17.50B,17.27B
+180,08/10/2021,08:30,JPY,low,Average Cash Earnings (YoY),0.7%,,0.6%
+181,08/10/2021,08:30,JPY,medium,Household Spending (MoM)  (Aug),-3.9%,-2.0%,-0.9%
+182,08/10/2021,08:30,JPY,medium,Household Spending (YoY)  (Aug),-3.0%,-1.5%,0.7%
+183,08/10/2021,08:30,JPY,low,Overall wage income of employees  (Aug),0.7%,,0.6%
+184,08/10/2021,08:30,JPY,low,Overtime Pay (YoY)  (Aug),6.50%,,11.60%
+185,08/10/2021,08:50,JPY,medium,Adjusted Current Account,1.04T,,1.41T
+186,08/10/2021,08:50,JPY,medium,Current Account n.s.a.  (Aug),1.666T,1.541T,1.911T
+187,08/10/2021,09:30,AUD,medium,Building Approvals (MoM),6.8%,,-8.6%
+188,08/10/2021,10:30,AUD,medium,RBA Financial Stability Review,,,
+189,08/10/2021,14:00,JPY,low,Economy Watchers Current Index  (Sep),42.1,,34.7
+190,08/10/2021,18:30,GBP,low,BoE FPC Meeting Minutes,,,
+191,08/10/2021,20:00,GBP,low,BoE Quarterly Bulletin,,,
+192,08/10/2021,21:10,EUR,medium,ECB President Lagarde Speaks,,,
+193,08/10/2021,21:30,USD,medium,Average Hourly Earnings (YoY) (YoY)  (Sep),4.6%,4.6%,4.0%
+194,08/10/2021,21:30,USD,high,Average Hourly Earnings (MoM)  (Sep),0.6%,0.4%,0.4%
+195,08/10/2021,21:30,USD,low,Average Weekly Hours  (Sep),34.8,34.7,34.6
+196,08/10/2021,21:30,USD,low,Government Payrolls  (Sep),-123.0K,,34.0K
+197,08/10/2021,21:30,USD,low,Manufacturing Payrolls  (Sep),26K,25K,31K
+198,08/10/2021,21:30,USD,high,Nonfarm Payrolls  (Sep),194K,500K,366K
+199,08/10/2021,21:30,USD,medium,Participation Rate  (Sep),61.6%,,61.7%
+200,08/10/2021,21:30,USD,medium,Private Nonfarm Payrolls  (Sep),317K,455K,332K
+201,08/10/2021,21:30,USD,medium,U6 Unemployment Rate  (Sep),8.5%,,8.8%
+202,08/10/2021,21:30,USD,high,Unemployment Rate  (Sep),4.8%,5.1%,5.2%
+203,08/10/2021,22:00,EUR,medium,ECB's Panetta Speaks,,,
+204,08/10/2021,23:00,USD,low,Wholesale Inventories (MoM),1.2%,,1.2%
+205,08/10/2021,23:00,USD,low,Wholesale Trade Sales (MoM)  (Aug),-1.1%,1.0%,2.1%
+206,09/10/2021,02:00,USD,medium,U.S. Baker Hughes Oil Rig Count,433,,428
+207,09/10/2021,02:00,USD,medium,U.S. Baker Hughes Total Rig Count,533,,528
+208,09/10/2021,04:30,GBP,medium,CFTC GBP speculative net positions,-20.0K,,2.0K
+209,09/10/2021,04:30,USD,low,CFTC Aluminium speculative net positions,3.8K,,4.3K
+210,09/10/2021,04:30,USD,low,CFTC Copper speculative net positions,14.4K,,18.6K
+211,09/10/2021,04:30,USD,low,CFTC Corn speculative net positions,297.0K,,278.5K
+212,09/10/2021,04:30,USD,medium,CFTC Crude Oil speculative net positions,398.3K,,373.8K
+213,09/10/2021,04:30,USD,medium,CFTC Gold speculative net positions,182.6K,,168.4K
+214,09/10/2021,04:30,USD,medium,CFTC Nasdaq 100 speculative net positions,-2.7K,,-2.3K
+215,09/10/2021,04:30,USD,low,CFTC Natural Gas speculative net positions,-133.7K,,-146.7K
+216,09/10/2021,04:30,USD,medium,CFTC S&P 500 speculative net positions,72.8K,,73.2K
+217,09/10/2021,04:30,USD,low,CFTC Silver speculative net positions,16.4K,,16.7K
+218,09/10/2021,04:30,USD,low,CFTC Soybeans speculative net positions,51.4K,,64.7K
+219,09/10/2021,04:30,USD,low,CFTC Wheat speculative net positions,7.3K,,-3.6K
+220,09/10/2021,04:30,AUD,medium,CFTC AUD speculative net positions,-90.0K,,-86.4K
+221,09/10/2021,04:30,JPY,medium,CFTC JPY speculative net positions,-63.7K,,-64.8K
+222,09/10/2021,04:30,EUR,medium,CFTC EUR speculative net positions,-22.3K,,0.9K
+223,09/10/2021,18:00,EUR,medium,ECB's Enria Speaks,,,
+224,11/10/2021,14:30,GBP,medium,Investing.com GBP/USD Index,30.0%,,44.0%
+225,11/10/2021,14:30,USD,medium,Investing.com Gold Index,59.8%,,54.8%
+226,11/10/2021,14:30,AUD,medium,Investing.com AUD/USD Index,27.4%,,29.2%
+227,11/10/2021,14:30,JPY,medium,Investing.com USD/JPY Index,48.1%,,51.8%
+228,11/10/2021,14:30,EUR,medium,Investing.com EUR/USD Index,35.3%,,43.2%
+229,11/10/2021,15:00,JPY,low,Machine Tool Orders (YoY),71.9%,,85.2%
+230,11/10/2021,21:00,EUR,medium,ECB's Lane Speaks,,,
+231,11/10/2021,23:00,USD,low,CB Employment Trends Index  (Sep),110.35,,110.68
+232,11/10/2021,23:45,EUR,medium,ECB's Elderson Speaks,,,
+233,12/10/2021,08:01,GBP,medium,BRC Retail Sales Monitor (YoY)  (Sep),-0.6%,,1.5%
+234,12/10/2021,08:50,JPY,low,Bank Lending (YoY)  (Sep),0.6%,,0.6%
+235,12/10/2021,08:50,JPY,low,PPI (MoM)  (Sep),0.3%,0.3%,0.1%
+236,12/10/2021,08:50,JPY,low,PPI (YoY)  (Sep),6.3%,5.9%,5.8%
+237,12/10/2021,09:30,AUD,medium,NAB Business Confidence  (Sep),13,,-6
+238,12/10/2021,09:30,AUD,low,NAB Business Survey  (Sep),5,,14
+239,12/10/2021,12:45,JPY,low,30-Year JGB Auction,0.702%,,0.653%
+240,12/10/2021,15:00,GBP,low,Average Earnings ex Bonus  (Aug),6.0%,6.0%,6.8%
+241,12/10/2021,15:00,GBP,medium,Average Earnings Index +Bonus  (Aug),7.2%,7.0%,8.3%
+242,12/10/2021,15:00,GBP,medium,Claimant Count Change  (Sep),-51.1K,,-58.6K
+243,12/10/2021,15:00,GBP,medium,Employment Change 3M/3M (MoM)  (Aug),235K,243K,183K
+244,12/10/2021,15:00,GBP,medium,Unemployment Rate  (Aug),4.5%,4.5%,4.6%
+245,12/10/2021,18:00,EUR,medium,ZEW Economic Sentiment  (Oct),21.0,,31.1
+246,12/10/2021,19:00,USD,low,NFIB Small Business Optimism  (Sep),99.1,,100.1
+247,12/10/2021,20:00,EUR,medium,ECB's Enria Speaks,,,
+248,12/10/2021,21:30,EUR,medium,ECB's Lane Speaks,,,
+249,12/10/2021,21:55,USD,low,Redbook (YoY),14.8%,,16.6%
+250,12/10/2021,22:00,EUR,medium,ECB President Lagarde Speaks,,,
+251,12/10/2021,22:00,EUR,medium,ECB's Elderson Speaks,,,
+252,12/10/2021,23:00,USD,high,JOLTS Job Openings  (Aug),10.439M,10.925M,11.098M
+253,13/10/2021,00:15,USD,medium,FOMC Member Clarida Speaks,,,
+254,13/10/2021,00:30,USD,medium,3-Year Note Auction,0.635%,,0.447%
+255,13/10/2021,00:30,USD,low,6-Month Bill Auction,0.055%,,0.055%
+256,13/10/2021,01:00,USD,medium,WASDE Report,,,
+257,13/10/2021,01:30,USD,medium,FOMC Member Bostic Speaks,,,
+258,13/10/2021,02:00,USD,high,10-Year Note Auction,1.584%,,1.338%
+259,13/10/2021,02:00,USD,low,3-Month Bill Auction,0.050%,,0.040%
+260,13/10/2021,08:00,JPY,low,Reuters Tankan Index  (Oct),16,,18
+261,13/10/2021,08:30,AUD,low,Westpac Consumer Sentiment  (Oct),-1.5%,,2.0%
+262,13/10/2021,08:50,JPY,low,Core Machinery Orders (MoM)  (Aug),-2.4%,1.7%,0.9%
+263,13/10/2021,08:50,JPY,low,Core Machinery Orders (YoY)  (Aug),17.0%,14.7%,11.1%
+264,13/10/2021,08:50,JPY,low,M3 Money Supply  (Sep),"1,999.8T",,"1,995.4T"
+265,13/10/2021,10:00,AUD,medium,HIA New Home Sales (MoM),2.3%,,5.8%
+266,13/10/2021,15:00,GBP,low,Construction Output (MoM)  (Aug),-0.2%,0.1%,-1.0%
+267,13/10/2021,15:00,GBP,low,U.K. Construction Output (YoY)  (Aug),10.1%,5.7%,13.1%
+268,13/10/2021,15:00,GBP,high,GDP (MoM),0.4%,0.5%,-0.1%
+269,13/10/2021,15:00,GBP,high,GDP (YoY),6.9%,6.7%,7.5%
+270,13/10/2021,15:00,GBP,low,Index of Services,3.7%,,5.2%
+271,13/10/2021,15:00,GBP,medium,Industrial Production (MoM)  (Aug),0.8%,0.2%,0.3%
+272,13/10/2021,15:00,GBP,low,Industrial Production (YoY)  (Aug),3.7%,3.1%,4.4%
+273,13/10/2021,15:00,GBP,low,Manufacturing Production (YoY)  (Aug),4.1%,4.1%,6.1%
+274,13/10/2021,15:00,GBP,medium,Manufacturing Production (MoM)  (Aug),0.5%,0.1%,-0.6%
+275,13/10/2021,15:00,GBP,medium,Monthly GDP 3M/3M Change,2.9%,3.0%,4.2%
+276,13/10/2021,15:00,GBP,medium,Trade Balance  (Aug),-14.93B,-12.00B,-12.71B
+277,13/10/2021,15:00,GBP,medium,Trade Balance Non-EU  (Aug),-8.40B,,-6.99B
+278,13/10/2021,18:00,EUR,medium,Industrial Production (MoM)  (Aug),-1.6%,-1.6%,1.4%
+279,13/10/2021,18:00,EUR,low,Industrial Production (YoY)  (Aug),5.1%,4.7%,8.0%
+280,13/10/2021,20:00,USD,low,MBA 30-Year Mortgage Rate,3.18%,,3.14%
+281,13/10/2021,20:00,USD,low,MBA Mortgage Applications (WoW),0.2%,,-6.9%
+282,13/10/2021,20:00,USD,low,MBA Purchase Index,279.8,,275.7
+283,13/10/2021,20:00,USD,low,Mortgage Market Index,686.1,,684.5
+284,13/10/2021,20:00,USD,low,Mortgage Refinance Index,"3,023.0",,"3,037.6"
+285,13/10/2021,20:00,USD,medium,OPEC Monthly Report,,,
+286,13/10/2021,21:30,USD,high,Core CPI (MoM)  (Sep),0.2%,0.2%,0.1%
+287,13/10/2021,21:30,USD,medium,Core CPI (YoY)  (Sep),4.0%,4.0%,4.0%
+288,13/10/2021,21:30,USD,low,Core CPI Index  (Sep),280.02,,279.34
+289,13/10/2021,21:30,USD,high,CPI (YoY)  (Sep),5.4%,5.3%,5.3%
+290,13/10/2021,21:30,USD,high,CPI (MoM)  (Sep),0.4%,0.3%,0.3%
+291,13/10/2021,21:30,USD,low,"CPI Index, n.s.a.  (Sep)",274.31,274.14,273.57
+292,13/10/2021,21:30,USD,low,"CPI Index, s.a  (Sep)",274.14,,273.01
+293,13/10/2021,21:30,USD,low,"CPI, n.s.a (MoM)  (Sep)",0.27%,,0.21%
+294,13/10/2021,21:30,USD,low,Real Earnings (MoM)  (Sep),0.8%,,-0.2%
+295,13/10/2021,22:00,GBP,medium,NIESR Monthly GDP Tracker,1.5%,,2.9%
+296,13/10/2021,23:30,GBP,medium,BoE MPC Member Cunliffe Speaks,,,
+297,14/10/2021,00:00,USD,low,Cleveland CPI (MoM)  (Sep),0.5%,,0.3%
+298,14/10/2021,00:00,USD,low,Thomson Reuters IPSOS PCSI  (Oct),57.78,,59.44
+299,14/10/2021,02:00,USD,high,30-Year Bond Auction,2.049%,,1.190%
+300,14/10/2021,03:00,USD,high,FOMC Meeting Minutes,,,
+301,14/10/2021,05:30,USD,medium,API Weekly Crude Oil Stock,5.213M,0.140M,0.951M
+302,14/10/2021,05:30,USD,low,API Weekly Gasoline Stock,-4.575M,,3.682M
+303,14/10/2021,05:30,USD,medium,Fed's Balance Sheet,"8,480.94B",,"8,464.03B"
+304,14/10/2021,05:30,USD,medium,FOMC Member Brainard Speaks,,,
+305,14/10/2021,07:00,AUD,medium,RBA Assist Gov Debelle Speaks,,,
+306,14/10/2021,08:50,JPY,low,Foreign Bonds Buying,139.8B,,"1,194.5B"
+307,14/10/2021,08:50,JPY,low,Foreign Investments in Japanese Stocks,"1,013.5B",,-332.7B
+308,14/10/2021,09:00,USD,medium,FOMC Member Bowman Speaks,,,
+309,14/10/2021,09:00,AUD,low,MI Inflation Expectations,3.6%,,4.4%
+310,14/10/2021,09:30,AUD,medium,Employment Change  (Sep),-138.0K,-137.5K,-146.3K
+311,14/10/2021,09:30,AUD,medium,Full Employment Change  (Sep),26.7K,,-68.0K
+312,14/10/2021,09:30,AUD,low,Participation Rate  (Sep),64.5%,64.7%,65.2%
+313,14/10/2021,09:30,AUD,medium,Unemployment Rate  (Sep),4.6%,4.8%,4.5%
+314,14/10/2021,13:30,JPY,low,Capacity Utilization (MoM)  (Aug),-3.9%,,-3.4%
+315,14/10/2021,13:30,JPY,medium,Industrial Production (MoM)  (Aug),-3.6%,,-3.2%
+316,14/10/2021,16:00,EUR,medium,ECB's Enria Speaks,,,
+317,14/10/2021,17:00,USD,medium,IEA Monthly Report,,,
+318,14/10/2021,17:30,GBP,medium,BOE Credit Conditions Survey,,,
+319,14/10/2021,18:15,EUR,medium,ECB's Enria Speaks,,,
+320,14/10/2021,19:00,GBP,low,Thomson Reuters IPSOS PCSI  (Oct),52.4,,54.1
+321,14/10/2021,19:05,EUR,medium,ECB's Elderson Speaks,,,
+322,14/10/2021,19:10,GBP,medium,MPC Member Tenreyro Speaks,,,
+323,14/10/2021,21:30,USD,medium,Continuing Jobless Claims,"2,593K","2,675K","2,727K"
+324,14/10/2021,21:30,USD,medium,Core PPI (MoM)  (Sep),0.2%,0.5%,0.6%
+325,14/10/2021,21:30,USD,low,Core PPI (YoY)  (Sep),6.8%,7.1%,6.7%
+326,14/10/2021,21:30,USD,high,Initial Jobless Claims,293K,319K,329K
+327,14/10/2021,21:30,USD,low,Jobless Claims 4-Week Avg.,334.25K,,344.75K
+328,14/10/2021,21:30,USD,high,PPI (MoM)  (Sep),0.5%,0.6%,0.7%
+329,14/10/2021,21:30,USD,low,PPI (YoY)  (Sep),8.6%,8.7%,8.3%
+330,14/10/2021,23:00,USD,medium,FOMC Member Bostic Speaks,,,
+331,14/10/2021,23:30,USD,low,Natural Gas Storage,81B,94B,118B
+332,15/10/2021,00:00,USD,high,Crude Oil Inventories,6.088M,0.702M,2.346M
+333,15/10/2021,00:00,USD,low,EIA Refinery Crude Runs  (WoW),-0.683M,,0.329M
+334,15/10/2021,00:00,USD,low,Crude Oil Imports,-1.441M,,1.389M
+335,15/10/2021,00:00,USD,medium,Cushing Crude Oil Inventories,-1.968M,,1.548M
+336,15/10/2021,00:00,USD,low,Distillate Fuel Production,-0.072M,,0.130M
+337,15/10/2021,00:00,USD,low,EIA Weekly Distillates Stocks,-0.024M,-0.933M,-0.396M
+338,15/10/2021,00:00,USD,low,Gasoline Production,0.239M,,-0.523M
+339,15/10/2021,00:00,USD,low,Heating Oil Stockpiles,0.267M,,-0.216M
+340,15/10/2021,00:00,USD,low,EIA Weekly Refinery Utilization Rates (WoW),-2.9%,-1.0%,1.5%
+341,15/10/2021,00:00,USD,low,Gasoline Inventories,-1.958M,-0.083M,3.256M
+342,15/10/2021,00:30,USD,low,4-Week Bill Auction,0.035%,,0.035%
+343,15/10/2021,00:30,USD,low,8-Week Bill Auction,0.080%,,0.110%
+344,15/10/2021,02:00,USD,low,FOMC Member Barkin Speaks,,,
+345,15/10/2021,02:00,USD,medium,FOMC Member Williams Speaks,,,
+346,15/10/2021,11:00,JPY,low,Thomson Reuters IPSOS PCSI  (Oct),44.44,,38.06
+347,15/10/2021,13:30,JPY,medium,Tertiary Industry Activity Index (MoM),-1.7%,,-0.6%
+348,15/10/2021,15:00,GBP,low,Car Registration (YoY)  (Sep),-34.4%,,-22.0%
+349,15/10/2021,15:00,GBP,low,Car Registration (MoM)  (Sep),216.5%,,-33.8%
+350,15/10/2021,18:00,EUR,medium,Trade Balance  (Aug),4.8B,16.1B,20.7B
+351,15/10/2021,19:00,EUR,low,Reserve Assets Total  (Sep),"1,002.40B",,"1,009.41B"
+352,15/10/2021,21:30,USD,high,Core Retail Sales (MoM)  (Sep),0.8%,0.5%,2.0%
+353,15/10/2021,21:30,USD,medium,Export Price Index (MoM)  (Sep),0.1%,0.6%,0.4%
+354,15/10/2021,21:30,USD,low,Export Price Index (YoY),16.3%,,16.8%
+355,15/10/2021,21:30,USD,medium,Import Price Index (MoM)  (Sep),0.4%,0.6%,-0.3%
+356,15/10/2021,21:30,USD,low,Import Price Index (YoY),9.2%,,9.0%
+357,15/10/2021,21:30,USD,low,Import Price Index ex Petroleum (MoM),0.1%,,-0.1%
+358,15/10/2021,21:30,USD,medium,NY Empire State Manufacturing Index  (Oct),19.80,27.00,34.30
+359,15/10/2021,21:30,USD,medium,Retail Control (MoM)  (Sep),0.8%,0.4%,2.6%
+360,15/10/2021,21:30,USD,high,Retail Sales (MoM)  (Sep),0.7%,-0.2%,0.9%
+361,15/10/2021,21:30,USD,low,Retail Sales (YoY)  (Sep),13.95%,,15.40%
+362,15/10/2021,21:30,USD,low,Retail Sales Ex Gas/Autos (MoM)  (Sep),0.7%,,2.1%
+363,15/10/2021,23:00,USD,medium,Business Inventories (MoM)  (Aug),0.6%,0.6%,0.6%
+364,15/10/2021,23:00,USD,medium,Michigan 1-Year Inflation Expectations  (Oct),4.8%,,4.6%
+365,15/10/2021,23:00,USD,medium,Michigan 5-Year Inflation Expectations  (Oct),2.80%,,3.00%
+366,15/10/2021,23:00,USD,medium,Michigan Consumer Expectations  (Oct),67.2,70.3,68.1
+367,15/10/2021,23:00,USD,medium,Michigan Consumer Sentiment  (Oct),71.4,73.1,72.8
+368,15/10/2021,23:00,USD,low,Michigan Current Conditions  (Oct),77.9,82.0,80.1
+369,15/10/2021,23:00,USD,medium,Retail Inventories Ex Auto  (Aug),0.6%,,0.6%
+370,16/10/2021,00:00,USD,low,IMF Meetings,,,
+371,16/10/2021,01:20,USD,medium,FOMC Member Williams Speaks,,,
+372,16/10/2021,02:00,USD,medium,U.S. Baker Hughes Oil Rig Count,445,437,433
+373,16/10/2021,02:00,USD,medium,U.S. Baker Hughes Total Rig Count,543,540,533
+374,16/10/2021,04:30,GBP,medium,CFTC GBP speculative net positions,-12.0K,,-20.0K
+375,16/10/2021,04:30,USD,low,CFTC Aluminium speculative net positions,3.5K,,3.8K
+376,16/10/2021,04:30,USD,low,CFTC Copper speculative net positions,22.5K,,14.4K
+377,16/10/2021,04:30,USD,low,CFTC Corn speculative net positions,279.3K,,297.0K
+378,16/10/2021,04:30,USD,medium,CFTC Crude Oil speculative net positions,404.8K,,398.3K
+379,16/10/2021,04:30,USD,medium,CFTC Gold speculative net positions,185.5K,,182.6K
+380,16/10/2021,04:30,USD,medium,CFTC Nasdaq 100 speculative net positions,-0.8K,,-2.7K
+381,16/10/2021,04:30,USD,low,CFTC Natural Gas speculative net positions,-130.9K,,-133.7K
+382,16/10/2021,04:30,USD,medium,CFTC S&P 500 speculative net positions,98.8K,,72.8K
+383,16/10/2021,04:30,USD,low,CFTC Silver speculative net positions,18.0K,,16.4K
+384,16/10/2021,04:30,USD,low,CFTC Soybeans speculative net positions,42.0K,,51.4K
+385,16/10/2021,04:30,USD,low,CFTC Wheat speculative net positions,-4.5K,,7.3K
+386,16/10/2021,04:30,AUD,medium,CFTC AUD speculative net positions,-87.6K,,-90.0K
+387,16/10/2021,04:30,JPY,medium,CFTC JPY speculative net positions,-76.6K,,-63.7K
+388,16/10/2021,04:30,EUR,medium,CFTC EUR speculative net positions,-18.4K,,-22.3K
+389,16/10/2021,23:00,EUR,medium,ECB President Lagarde Speaks,,,
+390,17/10/2021,00:00,USD,low,IMF Meetings,,,
+391,18/10/2021,00:00,USD,low,IMF Meetings,,,
+392,18/10/2021,08:01,GBP,low,Rightmove House Price Index (MoM),1.8%,,0.3%
+393,18/10/2021,14:30,GBP,medium,Investing.com GBP/USD Index,35.8%,,30.0%
+394,18/10/2021,14:30,USD,medium,Investing.com Gold Index,58.4%,,59.8%
+395,18/10/2021,14:30,AUD,medium,Investing.com AUD/USD Index,24.9%,,27.4%
+396,18/10/2021,14:30,JPY,medium,Investing.com USD/JPY Index,51.3%,,48.1%
+397,18/10/2021,14:30,EUR,medium,Investing.com EUR/USD Index,40.2%,,35.3%
+398,18/10/2021,18:30,USD,medium,FOMC Member Quarles Speaks,,,
+399,18/10/2021,22:15,USD,low,Capacity Utilization Rate  (Sep),75.2%,76.5%,76.2%
+400,18/10/2021,22:15,USD,medium,Industrial Production (YoY)  (Sep),4.60%,,5.66%
+401,18/10/2021,22:15,USD,medium,Industrial Production (MoM)  (Sep),-1.3%,0.2%,-0.1%
+402,18/10/2021,22:15,USD,low,Manufacturing Production (MoM)  (Sep),-0.7%,0.1%,-0.4%
+403,18/10/2021,23:00,USD,low,NAHB Housing Market Index  (Oct),80,76,76
+404,19/10/2021,00:30,USD,low,3-Month Bill Auction,0.055%,,0.050%
+405,19/10/2021,00:30,USD,low,6-Month Bill Auction,0.060%,,0.055%
+406,19/10/2021,05:00,USD,low,"US Foreign Buying, T-bonds  (Aug)",30.70B,,10.20B
+407,19/10/2021,05:00,USD,low,Overall Net Capital Flow  (Aug),91.00B,,164.10B
+408,19/10/2021,05:00,USD,medium,TIC Net Long-Term Transactions  (Aug),79.3B,,2.0B
+409,19/10/2021,05:00,USD,low,TIC Net Long-Term Transactions including Swaps  (Aug),60.90B,,-31.00B
+410,19/10/2021,10:30,AUD,medium,RBA Meeting Minutes,,,
+411,19/10/2021,18:00,EUR,low,Construction Output (MoM)  (Aug),-1.28%,,0.09%
+412,19/10/2021,20:10,EUR,medium,ECB's Elderson Speaks,,,
+413,19/10/2021,21:00,EUR,medium,ECB's Panetta Speaks,,,
+414,19/10/2021,21:05,GBP,medium,BoE Gov Bailey Speaks,,,
+415,19/10/2021,21:30,USD,low,Building Permits (MoM)  (Sep),-7.7%,,5.6%
+416,19/10/2021,21:30,USD,medium,Building Permits  (Sep),1.589M,1.680M,1.721M
+417,19/10/2021,21:30,USD,medium,Housing Starts (MoM)  (Sep),-1.6%,,1.2%
+418,19/10/2021,21:30,USD,medium,Housing Starts  (Sep),1.555M,1.620M,1.580M
+419,19/10/2021,21:55,USD,low,Redbook (YoY),15.4%,,14.8%
+420,19/10/2021,23:00,EUR,medium,ECB's Lane Speaks,,,
+421,20/10/2021,00:00,USD,medium,FOMC Member Daly Speaks,,,
+422,20/10/2021,02:15,USD,medium,FOMC Member Bowman Speaks,,,
+423,20/10/2021,03:50,USD,medium,FOMC Member Bostic Speaks,,,
+424,20/10/2021,04:00,USD,medium,Fed Waller Speaks,,,
+425,20/10/2021,05:30,USD,medium,API Weekly Crude Oil Stock,3.294M,2.233M,5.213M
+426,20/10/2021,05:30,USD,low,API Weekly Gasoline Stock,-3.500M,,-4.575M
+427,20/10/2021,08:30,AUD,low,MI Leading Index (MoM),0.0%,,-0.3%
+428,20/10/2021,08:50,JPY,medium,Adjusted Trade Balance,-0.62T,,-0.34T
+429,20/10/2021,08:50,JPY,medium,Exports (YoY)  (Sep),13.0%,11.0%,26.2%
+430,20/10/2021,08:50,JPY,low,Imports (YoY)  (Sep),38.6%,34.4%,44.7%
+431,20/10/2021,08:50,JPY,medium,Trade Balance  (Sep),-622.8B,-519.2B,-637.2B
+432,20/10/2021,15:00,GBP,low,Core CPI (YoY)  (Sep),2.9%,3.0%,3.1%
+433,20/10/2021,15:00,GBP,low,Core CPI (MoM)  (Sep),0.4%,0.5%,0.7%
+434,20/10/2021,15:00,GBP,low,Core PPI Output (YoY)  (Sep),5.9%,,5.4%
+435,20/10/2021,15:00,GBP,low,Core PPI Output (MoM)  (Sep),0.5%,,0.9%
+436,20/10/2021,15:00,GBP,low,Core RPI (MoM)  (Sep),0.4%,,0.7%
+437,20/10/2021,15:00,GBP,low,Core RPI (YoY)  (Sep),5.0%,,4.9%
+438,20/10/2021,15:00,GBP,medium,CPI (MoM)  (Sep),0.3%,0.4%,0.7%
+439,20/10/2021,15:00,GBP,high,CPI (YoY)  (Sep),3.1%,3.2%,3.2%
+440,20/10/2021,15:00,GBP,low,"CPI, n.s.a  (Sep)",112.40,,112.10
+441,20/10/2021,15:00,GBP,medium,CPIH (YoY),2.9%,3.0%,3.0%
+442,20/10/2021,15:00,GBP,medium,PPI Input (MoM)  (Sep),0.4%,1.0%,0.5%
+443,20/10/2021,15:00,GBP,low,PPI Input (YoY)  (Sep),11.4%,11.6%,11.2%
+444,20/10/2021,15:00,GBP,low,PPI Output (YoY)  (Sep),6.7%,6.8%,6.0%
+445,20/10/2021,15:00,GBP,low,PPI Output (MoM)  (Sep),0.5%,0.5%,0.7%
+446,20/10/2021,15:00,GBP,low,RPI (MoM)  (Sep),0.4%,0.2%,0.6%
+447,20/10/2021,15:00,GBP,low,RPI (YoY)  (Sep),4.9%,4.7%,4.8%
+448,20/10/2021,16:20,EUR,medium,ECB's Elderson Speaks,,,
+449,20/10/2021,17:00,EUR,low,Current Account  (Aug),13.4B,,21.6B
+450,20/10/2021,17:00,EUR,low,Current Account n.s.a.  (Aug),17.6B,,30.2B
+451,20/10/2021,18:00,EUR,low,Core CPI (MoM)  (Sep),0.5%,0.5%,0.4%
+452,20/10/2021,18:00,EUR,medium,Core CPI (YoY)  (Sep),1.9%,1.9%,1.6%
+453,20/10/2021,18:00,EUR,high,CPI (YoY)  (Sep),3.4%,3.4%,3.0%
+454,20/10/2021,18:00,EUR,medium,CPI (MoM)  (Sep),0.5%,0.5%,0.4%
+455,20/10/2021,18:00,EUR,low,CPI ex Tobacco (MoM)  (Sep),0.5%,,0.4%
+456,20/10/2021,18:00,EUR,low,CPI ex Tobacco (YoY)  (Sep),3.4%,,3.0%
+457,20/10/2021,18:00,EUR,low,HICP ex Energy & Food (YoY)  (Sep),1.9%,1.9%,1.6%
+458,20/10/2021,18:00,EUR,low,HICP ex Energy and Food (MoM)  (Sep),0.4%,0.4%,0.2%
+459,20/10/2021,18:45,GBP,low,10-Year Treasury Gilt Auction,1.144%,,0.740%
+460,20/10/2021,20:00,USD,low,MBA 30-Year Mortgage Rate,3.23%,,3.18%
+461,20/10/2021,20:00,USD,low,MBA Mortgage Applications (WoW),-6.3%,,0.2%
+462,20/10/2021,20:00,USD,low,MBA Purchase Index,266.2,,279.8
+463,20/10/2021,20:00,USD,low,Mortgage Market Index,643.0,,686.1
+464,20/10/2021,20:00,USD,low,Mortgage Refinance Index,"2,807.9",,"3,023.0"
+465,20/10/2021,23:30,USD,high,Crude Oil Inventories,-0.431M,1.857M,6.088M
+466,20/10/2021,23:30,USD,low,EIA Refinery Crude Runs  (WoW),-0.071M,,-0.683M
+467,20/10/2021,23:30,USD,low,Crude Oil Imports,-0.715M,,-1.441M
+468,20/10/2021,23:30,USD,medium,Cushing Crude Oil Inventories,-2.320M,,-1.968M
+469,20/10/2021,23:30,USD,low,Distillate Fuel Production,-0.289M,,-0.072M
+470,20/10/2021,23:30,USD,low,EIA Weekly Distillates Stocks,-3.913M,-0.700M,-0.024M
+471,20/10/2021,23:30,USD,low,Gasoline Production,0.455M,,0.239M
+472,20/10/2021,23:30,USD,low,Heating Oil Stockpiles,0.037M,,0.267M
+473,20/10/2021,23:30,USD,low,EIA Weekly Refinery Utilization Rates (WoW),-2.0%,-0.1%,-2.9%
+474,20/10/2021,23:30,USD,low,Gasoline Inventories,-5.368M,-1.267M,-1.958M
+475,21/10/2021,01:00,USD,low,Chicago Fed President Evans Speaks,,,
+476,21/10/2021,02:00,USD,medium,20-Year Bond Auction,2.100%,,1.795%
+477,21/10/2021,02:00,USD,medium,FOMC Member Quarles Speaks,,,
+478,21/10/2021,03:00,USD,medium,Beige Book,,,
+479,21/10/2021,05:30,USD,medium,Fed's Balance Sheet,"8,564.94B",,"8,480.94B"
+480,21/10/2021,08:50,JPY,low,Foreign Bonds Buying,"1,221.3B",,140.8B
+481,21/10/2021,08:50,JPY,low,Foreign Investments in Japanese Stocks,960.1B,,"1,015.6B"
+482,21/10/2021,09:30,AUD,low,NAB Quarterly Business Confidence,-1,,18
+483,21/10/2021,15:00,GBP,low,Public Sector Net Borrowing  (Sep),21.01B,14.75B,16.06B
+484,21/10/2021,15:00,GBP,low,Public Sector Net Cash Requirement  (Sep),4.688B,,4.688B
+485,21/10/2021,19:00,GBP,low,CBI Industrial Trends Orders  (Oct),9,18,22
+486,21/10/2021,19:00,EUR,medium,EU Leaders Summit,,,
+487,21/10/2021,21:30,USD,medium,Continuing Jobless Claims,"2,481K","2,550K","2,603K"
+488,21/10/2021,21:30,USD,high,Initial Jobless Claims,290K,300K,296K
+489,21/10/2021,21:30,USD,low,Jobless Claims 4-Week Avg.,319.75K,,335.00K
+490,21/10/2021,21:30,USD,high,Philadelphia Fed Manufacturing Index  (Oct),23.8,25.0,30.7
+491,21/10/2021,21:30,USD,low,Philly Fed Business Conditions  (Oct),24.2,,20.0
+492,21/10/2021,21:30,USD,low,Philly Fed CAPEX Index  (Oct),32.40,,23.60
+493,21/10/2021,21:30,USD,medium,Philly Fed Employment  (Oct),30.7,,26.3
+494,21/10/2021,21:30,USD,low,Philly Fed New Orders  (Oct),30.8,,15.9
+495,21/10/2021,21:30,USD,low,Philly Fed Prices Paid  (Oct),70.30,,67.30
+496,21/10/2021,22:00,USD,medium,Fed Waller Speaks,,,
+497,21/10/2021,23:00,USD,high,Existing Home Sales  (Sep),6.29M,6.09M,5.88M
+498,21/10/2021,23:00,USD,medium,Existing Home Sales (MoM)  (Sep),7.0%,,-2.0%
+499,21/10/2021,23:00,USD,medium,US Leading Index (MoM)  (Sep),0.2%,0.4%,0.8%
+500,21/10/2021,23:00,EUR,low,Consumer Confidence  (Oct),-4.8,-5.0,-4.0
+501,21/10/2021,23:30,USD,low,Natural Gas Storage,92B,90B,81B
+502,22/10/2021,00:30,USD,low,4-Week Bill Auction,0.050%,,0.035%
+503,22/10/2021,00:30,USD,low,8-Week Bill Auction,0.100%,,0.080%
+504,22/10/2021,02:00,USD,medium,5-Year TIPS Auction,-1.685%,,-1.416%
+505,22/10/2021,04:00,AUD,medium,RBA Governor Lowe Speaks,,,
+506,22/10/2021,08:01,GBP,low,GfK Consumer Confidence  (Oct),-17,-16,-13
+507,22/10/2021,08:30,JPY,low,"CPI, n.s.a (MoM)  (Sep)",0.4%,,0.2%
+508,22/10/2021,08:30,JPY,medium,National Core CPI (YoY)  (Sep),0.1%,0.1%,-0.2%
+509,22/10/2021,08:30,JPY,low,National CPI (YoY)  (Sep),0.2%,,-0.4%
+510,22/10/2021,08:30,JPY,medium,National CPI (MoM),0.4%,,-0.2%
+511,22/10/2021,10:00,USD,medium,FOMC Member Williams Speaks,,,
+512,22/10/2021,15:00,GBP,medium,Core Retail Sales (MoM)  (Sep),-0.6%,0.2%,-1.2%
+513,22/10/2021,15:00,GBP,medium,Core Retail Sales (YoY)  (Sep),-2.6%,-1.7%,-0.9%
+514,22/10/2021,15:00,GBP,medium,Retail Sales (MoM)  (Sep),-0.2%,0.5%,-0.6%
+515,22/10/2021,15:00,GBP,medium,Retail Sales (YoY)  (Sep),-1.3%,-0.4%,-0.2%
+516,22/10/2021,19:00,EUR,medium,EU Leaders Summit,,,
+517,22/10/2021,23:00,USD,medium,FOMC Member Daly Speaks,,,
+518,23/10/2021,00:00,USD,high,Fed Chair Powell Speaks,,,
+519,23/10/2021,02:00,USD,medium,U.S. Baker Hughes Oil Rig Count,443,,445
+520,23/10/2021,02:00,USD,medium,U.S. Baker Hughes Total Rig Count,542,,543
+521,23/10/2021,03:00,USD,medium,Federal Budget Balance  (Sep),-62.0B,,-171.0B
+522,23/10/2021,04:30,GBP,medium,CFTC GBP speculative net positions,1.6K,,-12.0K
+523,23/10/2021,04:30,USD,low,CFTC Aluminium speculative net positions,3.6K,,3.5K
+524,23/10/2021,04:30,USD,low,CFTC Copper speculative net positions,40.6K,,22.5K
+525,23/10/2021,04:30,USD,low,CFTC Corn speculative net positions,277.0K,,279.3K
+526,23/10/2021,04:30,USD,medium,CFTC Crude Oil speculative net positions,429.6K,,404.8K
+527,23/10/2021,04:30,USD,medium,CFTC Gold speculative net positions,193.3K,,185.5K
+528,23/10/2021,04:30,USD,medium,CFTC Nasdaq 100 speculative net positions,-3.1K,,-0.8K
+529,23/10/2021,04:30,USD,low,CFTC Natural Gas speculative net positions,-131.1K,,-130.9K
+530,23/10/2021,04:30,USD,medium,CFTC S&P 500 speculative net positions,67.6K,,98.8K
+531,23/10/2021,04:30,USD,low,CFTC Silver speculative net positions,30.4K,,18.0K
+532,23/10/2021,04:30,USD,low,CFTC Soybeans speculative net positions,43.5K,,42.0K
+533,23/10/2021,04:30,USD,low,CFTC Wheat speculative net positions,-8.6K,,-4.5K
+534,23/10/2021,04:30,AUD,medium,CFTC AUD speculative net positions,-76.1K,,-87.6K
+535,23/10/2021,04:30,JPY,medium,CFTC JPY speculative net positions,-102.7K,,-76.6K
+536,23/10/2021,04:30,EUR,medium,CFTC EUR speculative net positions,-12.1K,,-18.4K
+537,25/10/2021,14:00,JPY,low,Coincident Indicator (MoM),-3.1%,-2.9%,-0.2%
+538,25/10/2021,14:00,JPY,low,Leading Index (MoM),-2.8%,-2.3%,-0.1%
+539,25/10/2021,14:00,JPY,low,Leading Index,101.3,101.8,104.1
+540,25/10/2021,14:30,GBP,medium,Investing.com GBP/USD Index,41.1%,,35.8%
+541,25/10/2021,14:30,USD,medium,Investing.com Gold Index,54.3%,,58.4%
+542,25/10/2021,14:30,AUD,medium,Investing.com AUD/USD Index,28.4%,,24.9%
+543,25/10/2021,14:30,JPY,medium,Investing.com USD/JPY Index,54.1%,,51.3%
+544,25/10/2021,14:30,EUR,medium,Investing.com EUR/USD Index,40.1%,,40.2%
+545,25/10/2021,21:30,USD,low,Chicago Fed National Activity  (Sep),-0.13,,0.05
+546,25/10/2021,22:00,GBP,medium,MPC Member Tenreyro Speaks,,,
+547,25/10/2021,23:30,USD,low,Dallas Fed Mfg Business Index  (Oct),14.6,,4.6
+548,26/10/2021,00:30,USD,low,3-Month Bill Auction,0.055%,,0.055%
+549,26/10/2021,00:30,USD,low,6-Month Bill Auction,0.060%,,0.060%
+550,26/10/2021,08:50,JPY,low,Corporate Services Price Index (CSPI) (YoY),0.9%,1.1%,1.0%
+551,26/10/2021,14:00,JPY,medium,BoJ Core CPI (YoY),0.6%,,0.3%
+552,26/10/2021,17:00,EUR,low,ECB Bank Lending Survey,,,
+553,26/10/2021,18:45,GBP,low,5-Year Treasury Gilt Auction,0.789%,,0.429%
+554,26/10/2021,19:00,GBP,low,CBI Distributive Trades Survey  (Oct),30,13,11
+555,26/10/2021,21:45,EUR,medium,ECB's Enria Speaks,,,
+556,26/10/2021,21:55,USD,low,Redbook (YoY),15.6%,,15.4%
+557,26/10/2021,22:00,USD,low,House Price Index (YoY)  (Aug),18.5%,,19.2%
+558,26/10/2021,22:00,USD,low,House Price Index (MoM)  (Aug),1.0%,,1.4%
+559,26/10/2021,22:00,USD,low,House Price Index  (Aug),351.7,,348.2
+560,26/10/2021,22:00,USD,low,S&P/CS HPI Composite - 20 s.a. (MoM)  (Aug),1.2%,1.5%,1.5%
+561,26/10/2021,22:00,USD,medium,S&P/CS HPI Composite - 20 n.s.a. (MoM)  (Aug),0.9%,1.5%,1.5%
+562,26/10/2021,22:00,USD,medium,S&P/CS HPI Composite - 20 n.s.a. (YoY)  (Aug),19.7%,20.0%,20.0%
+563,26/10/2021,23:00,USD,high,CB Consumer Confidence  (Oct),113.8,108.3,109.8
+564,26/10/2021,23:00,USD,medium,New Home Sales (MoM)  (Sep),14.0%,,-1.4%
+565,26/10/2021,23:00,USD,high,New Home Sales  (Sep),800K,760K,702K
+566,26/10/2021,23:00,USD,low,Richmond Manufacturing Index  (Oct),12,,-3
+567,26/10/2021,23:00,USD,low,Richmond Manufacturing Shipments  (Oct),1,,-1
+568,26/10/2021,23:00,USD,low,Richmond Services Index  (Oct),9,,-3
+569,26/10/2021,23:30,USD,low,Dallas Fed Services Revenues  (Oct),19.6,,14.5
+570,26/10/2021,23:30,USD,low,Texas Services Sector Outlook  (Oct),20.7,,8.3
+571,27/10/2021,02:00,USD,medium,2-Year Note Auction,0.481%,,0.310%
+572,27/10/2021,05:30,USD,medium,API Weekly Crude Oil Stock,2.318M,1.650M,3.294M
+573,27/10/2021,05:30,USD,low,API Weekly Gasoline Stock,0.530M,,-3.500M
+574,27/10/2021,08:01,GBP,low,BRC Shop Price Index (YoY),-0.4%,,-0.5%
+575,27/10/2021,09:30,AUD,medium,CPI (YoY)  (Q3),3.0%,3.1%,3.8%
+576,27/10/2021,09:30,AUD,medium,CPI (QoQ)  (Q3),0.8%,0.8%,0.8%
+577,27/10/2021,09:30,AUD,low,CPI Index Number  (Q3),119.70,,118.80
+578,27/10/2021,09:30,AUD,medium,Trimmed Mean CPI (QoQ)  (Q3),0.7%,0.5%,0.5%
+579,27/10/2021,09:30,AUD,low,Trimmed Mean CPI (YoY)  (Q3),2.1%,1.8%,1.6%
+580,27/10/2021,09:30,AUD,low,Weighted mean CPI (YoY)  (Q3),2.1%,1.9%,1.7%
+581,27/10/2021,09:30,AUD,low,Weighted mean CPI (QoQ)  (Q3),0.7%,0.5%,0.5%
+582,27/10/2021,17:00,EUR,low,M3 Money Supply (YoY)  (Sep),7.4%,7.5%,7.9%
+583,27/10/2021,17:00,EUR,low,Loans to Non Financial Corporations  (Sep),2.1%,,1.5%
+584,27/10/2021,17:00,EUR,low,Private Sector Loans (YoY),4.1%,,4.2%
+585,27/10/2021,20:00,USD,low,MBA 30-Year Mortgage Rate,3.30%,,3.23%
+586,27/10/2021,20:00,USD,low,MBA Mortgage Applications (WoW),0.3%,,-6.3%
+587,27/10/2021,20:00,USD,low,MBA Purchase Index,275.6,,266.2
+588,27/10/2021,20:00,USD,low,Mortgage Market Index,645.1,,643.0
+589,27/10/2021,20:00,USD,low,Mortgage Refinance Index,"2,763.8",,"2,807.9"
+590,27/10/2021,21:30,GBP,high,Autumn Forecast Statement,,,
+591,27/10/2021,21:30,USD,medium,Core Durable Goods Orders (MoM)  (Sep),0.4%,0.4%,0.3%
+592,27/10/2021,21:30,USD,high,Durable Goods Orders (MoM)  (Sep),-0.4%,-1.1%,1.3%
+593,27/10/2021,21:30,USD,low,Durables Excluding Defense (MoM)  (Sep),-2.0%,,1.7%
+594,27/10/2021,21:30,USD,low,Goods Orders Non Defense Ex Air (MoM)  (Sep),0.8%,0.5%,0.5%
+595,27/10/2021,21:30,USD,medium,Goods Trade Balance  (Sep),-96.25B,,-88.16B
+596,27/10/2021,21:30,USD,medium,Retail Inventories Ex Auto  (Sep),0.6%,,0.6%
+597,27/10/2021,21:30,USD,low,Wholesale Inventories (MoM),1.1%,,1.2%
+598,27/10/2021,23:30,USD,high,Crude Oil Inventories,4.267M,1.914M,-0.431M
+599,27/10/2021,23:30,USD,low,EIA Refinery Crude Runs  (WoW),0.058M,,-0.071M
+600,27/10/2021,23:30,USD,low,Crude Oil Imports,0.702M,,-0.715M
+601,27/10/2021,23:30,USD,medium,Cushing Crude Oil Inventories,-3.899M,,-2.320M
+602,27/10/2021,23:30,USD,low,Distillate Fuel Production,0.164M,,-0.289M
+603,27/10/2021,23:30,USD,low,EIA Weekly Distillates Stocks,-0.432M,-2.311M,-3.913M
+604,27/10/2021,23:30,USD,low,Gasoline Production,0.012M,,0.455M
+605,27/10/2021,23:30,USD,low,Heating Oil Stockpiles,-0.031M,,0.037M
+606,27/10/2021,23:30,USD,low,EIA Weekly Refinery Utilization Rates (WoW),0.4%,0.3%,-2.0%
+607,27/10/2021,23:30,USD,low,Gasoline Inventories,-1.994M,-1.862M,-5.368M
+608,28/10/2021,00:20,EUR,medium,ECB President Lagarde Speaks,,,
+609,28/10/2021,02:00,USD,medium,5-Year Note Auction,1.157%,,0.990%
+610,28/10/2021,05:30,USD,medium,Fed's Balance Sheet,"8,556.18B",,"8,564.94B"
+611,28/10/2021,08:40,AUD,medium,RBA Assist Gov Debelle Speaks,,,
+612,28/10/2021,08:50,JPY,low,Foreign Bonds Buying,-604.5B,,"1,225.4B"
+613,28/10/2021,08:50,JPY,low,Foreign Investments in Japanese Stocks,229.7B,,958.3B
+614,28/10/2021,08:50,JPY,low,Large Retailers' Sales (MoM),2.7%,,-4.0%
+615,28/10/2021,08:50,JPY,low,Retail Sales (YoY)  (Sep),-0.6%,-2.3%,-3.2%
+616,28/10/2021,09:30,AUD,low,Export Price Index (QoQ)  (Q3),6.2%,,13.2%
+617,28/10/2021,09:30,AUD,low,Import Price Index (QoQ)  (Q3),5.4%,,1.9%
+618,28/10/2021,11:45,JPY,high,BoJ Interest Rate Decision,-0.10%,-0.10%,-0.10%
+619,28/10/2021,Tentative,JPY,medium,BoJ Monetary Policy Statement,,,
+620,28/10/2021,Tentative,JPY,medium,BoJ Outlook Report (YoY),,,
+621,28/10/2021,15:30,JPY,medium,BoJ Press Conference,,,
+622,28/10/2021,18:00,EUR,low,Business and Consumer Survey  (Oct),118.6,116.9,117.8
+623,28/10/2021,18:00,EUR,low,Business Climate  (Oct),1.76,,1.71
+624,28/10/2021,18:00,EUR,low,Consumer Confidence  (Oct),-4.8,-4.0,-4.0
+625,28/10/2021,18:00,EUR,low,Consumer Inflation Expectation  (Oct),40.0,,33.1
+626,28/10/2021,18:00,EUR,low,Selling Price Expectations  (Oct),42.2,,38.3
+627,28/10/2021,18:00,EUR,low,Services Sentiment  (Oct),18.2,16.5,15.2
+628,28/10/2021,18:00,EUR,low,Industrial Sentiment  (Oct),14.2,12.5,14.1
+629,28/10/2021,20:45,EUR,high,Deposit Facility Rate  (Oct),-0.50%,-0.50%,-0.50%
+630,28/10/2021,20:45,EUR,medium,ECB Marginal Lending Facility,0.25%,,0.25%
+631,28/10/2021,20:45,EUR,medium,ECB Monetary Policy Statement,,,
+632,28/10/2021,20:45,EUR,high,ECB Interest Rate Decision  (Oct),0.00%,0.00%,0.00%
+633,28/10/2021,21:30,USD,medium,Continuing Jobless Claims,"2,243K","2,415K","2,480K"
+634,28/10/2021,21:30,USD,medium,Core PCE Prices  (Q3),4.50%,4.50%,6.10%
+635,28/10/2021,21:30,USD,high,GDP (QoQ)  (Q3),2.0%,2.7%,6.7%
+636,28/10/2021,21:30,USD,medium,GDP Price Index (QoQ)  (Q3),5.7%,5.5%,6.2%
+637,28/10/2021,21:30,USD,low,GDP Sales  (Q3),-0.1%,,8.1%
+638,28/10/2021,21:30,USD,high,Initial Jobless Claims,281K,290K,291K
+639,28/10/2021,21:30,USD,low,Jobless Claims 4-Week Avg.,299.25K,,320.00K
+640,28/10/2021,21:30,USD,low,PCE Prices  (Q3),5.3%,,6.5%
+641,28/10/2021,21:30,USD,low,Real Consumer Spending  (Q3),1.6%,,12.0%
+642,28/10/2021,21:30,EUR,high,ECB Press Conference,,,
+643,28/10/2021,23:00,USD,medium,Pending Home Sales (MoM)  (Sep),-2.3%,0.5%,8.1%
+644,28/10/2021,23:00,USD,low,Pending Home Sales Index  (Sep),116.7,,119.4
+645,28/10/2021,23:30,USD,low,Natural Gas Storage,87B,86B,92B
+646,29/10/2021,00:00,USD,low,KC Fed Composite Index  (Oct),31,,22
+647,29/10/2021,00:00,USD,low,KC Fed Manufacturing Index  (Oct),25,,10
+648,29/10/2021,00:30,USD,low,4-Week Bill Auction,0.055%,,0.050%
+649,29/10/2021,00:30,USD,low,8-Week Bill Auction,0.095%,,0.100%
+650,29/10/2021,02:00,USD,medium,7-Year Note Auction,1.461%,,1.332%
+651,29/10/2021,08:30,JPY,low,Jobs/applications ratio  (Sep),1.16,1.14,1.14
+652,29/10/2021,08:30,JPY,medium,Tokyo Core CPI (YoY)  (Oct),0.1%,0.3%,0.1%
+653,29/10/2021,08:30,JPY,low,Tokyo CPI (YoY)  (Oct),0.1%,,0.3%
+654,29/10/2021,08:30,JPY,low,CPI Tokyo Ex Food and Energy (MoM)  (Oct),-0.2%,,-0.2%
+655,29/10/2021,08:30,JPY,low,Unemployment Rate  (Sep),2.8%,2.8%,2.8%
+656,29/10/2021,08:50,JPY,medium,Industrial Production (MoM)  (Sep),-5.4%,-3.2%,-3.6%
+657,29/10/2021,08:50,JPY,low,Industrial Production forecast 1m ahead (MoM)  (Oct),6.4%,,0.2%
+658,29/10/2021,08:50,JPY,low,Industrial Production forecast 2m ahead (MoM)  (Nov),5.7%,,6.8%
+659,29/10/2021,09:30,AUD,low,Housing Credit  (Sep),0.6%,,0.6%
+660,29/10/2021,09:30,AUD,medium,PPI (YoY)  (Q3),2.9%,,2.2%
+661,29/10/2021,09:30,AUD,medium,PPI (QoQ)  (Q3),1.1%,,0.7%
+662,29/10/2021,09:30,AUD,low,Private Sector Credit (MoM)  (Sep),0.6%,0.6%,0.6%
+663,29/10/2021,09:30,AUD,medium,Retail Sales (MoM)  (Sep),1.3%,0.2%,-1.7%
+664,29/10/2021,14:00,JPY,low,Construction Orders (YoY)  (Sep),27.3%,,-2.0%
+665,29/10/2021,14:00,JPY,low,Household Confidence  (Oct),39.2,,37.8
+666,29/10/2021,14:00,JPY,low,Housing Starts (YoY)  (Sep),4.3%,7.5%,7.5%
+667,29/10/2021,17:30,GBP,low,BoE Consumer Credit  (Sep),0.231B,0.450B,0.526B
+668,29/10/2021,17:30,GBP,low,M4 Money Supply (MoM)  (Sep),0.6%,,0.5%
+669,29/10/2021,17:30,GBP,low,Mortgage Approvals  (Sep),72.65K,70.95K,74.21K
+670,29/10/2021,17:30,GBP,low,Mortgage Lending  (Sep),9.52B,6.00B,4.44B
+671,29/10/2021,17:30,GBP,low,Net Lending to Individuals,9.8B,,5.0B
+672,29/10/2021,18:00,EUR,high,CPI (YoY)  (Oct),4.1%,3.7%,3.4%
+673,29/10/2021,18:00,EUR,medium,CPI (MoM),0.8%,,0.5%
+674,29/10/2021,18:00,EUR,low,"CPI, n.s.a  (Oct)",109.41,,108.49
+675,29/10/2021,18:00,EUR,medium,GDP (QoQ)  (Q3),2.2%,,2.1%
+676,29/10/2021,18:00,EUR,medium,GDP (YoY)  (Q3),3.7%,,14.2%
+677,29/10/2021,18:00,EUR,low,HICP ex Energy & Food (YoY)  (Oct),2.1%,1.9%,1.9%
+678,29/10/2021,18:00,EUR,low,HICP ex Energy and Food (MoM),0.3%,,0.4%
+679,29/10/2021,21:30,USD,high,Core PCE Price Index (YoY)  (Sep),3.6%,3.7%,3.6%
+680,29/10/2021,21:30,USD,high,Core PCE Price Index (MoM)  (Sep),0.2%,0.2%,0.3%
+681,29/10/2021,21:30,USD,low,Employment Benefits (QoQ)  (Q3),0.90%,,0.40%
+682,29/10/2021,21:30,USD,medium,Employment Cost Index (QoQ)  (Q3),1.3%,0.9%,0.7%
+683,29/10/2021,21:30,USD,low,Employment Wages (QoQ)  (Q3),1.50%,,0.90%
+684,29/10/2021,21:30,USD,medium,PCE Price index (YoY)  (Sep),4.4,,4.2
+685,29/10/2021,21:30,USD,medium,PCE price index (MoM)  (Sep),0.3%,,0.3%
+686,29/10/2021,21:30,USD,low,Personal Income (MoM)  (Sep),-1.0%,-0.2%,0.2%
+687,29/10/2021,21:30,USD,medium,Personal Spending (MoM)  (Sep),0.6%,0.5%,1.0%
+688,29/10/2021,21:30,USD,low,Real Personal Consumption (MoM)  (Sep),0.3%,,0.6%
+689,29/10/2021,22:45,USD,high,Chicago PMI  (Oct),68.4,63.5,64.7
+690,29/10/2021,23:00,USD,medium,Michigan 1-Year Inflation Expectations  (Oct),4.8%,4.8%,4.6%
+691,29/10/2021,23:00,USD,medium,Michigan 5-Year Inflation Expectations  (Oct),2.90%,,2.80%
+692,29/10/2021,23:00,USD,medium,Michigan Consumer Expectations  (Oct),67.9,67.2,68.1
+693,29/10/2021,23:00,USD,medium,Michigan Consumer Sentiment  (Oct),71.7,71.4,71.4
+694,29/10/2021,23:00,USD,low,Michigan Current Conditions  (Oct),77.7,77.9,80.1
+695,30/10/2021,00:00,USD,low,OPEC Crude Oil Production Algeria (Barrel),0.93M,,0.92M
+696,30/10/2021,00:00,USD,low,OPEC Crude Oil Production Congo (Barrel),0.26M,,0.25M
+697,30/10/2021,00:00,USD,low,OPEC Crude Oil Production Gabon (Barrel),0.20M,,0.18M
+698,30/10/2021,00:00,USD,low,OPEC Crude Oil Production Guinea (Barrel),0.10M,,0.10M
+699,30/10/2021,00:00,USD,low,OPEC Crude oil Production Iran (Barrel),2.50M,,2.49M
+700,30/10/2021,00:00,USD,low,OPEC Crude oil Production Iraq (Barrel),4.14M,,4.06M
+701,30/10/2021,00:00,USD,low,OPEC Crude Oil Production Kuwait (Barrel),2.47M,,2.44M
+702,30/10/2021,00:00,USD,low,OPEC Crude Oil Production Libya (Barrel),1.15M,,1.16M
+703,30/10/2021,00:00,USD,low,OPEC Crude Oil Production Nigeria (Barrel),1.45M,,1.27M
+704,30/10/2021,00:00,USD,low,OPEC Crude oil Production Saudi Arabia (Barrel),9.68M,,9.49M
+705,30/10/2021,00:00,USD,low,OPEC Crude oil Production UAE (Barrel),2.79M,,2.78M
+706,30/10/2021,00:00,USD,low,OPEC Crude oil Production Venezuela (Barrel),0.53M,,0.52M
+707,30/10/2021,01:00,USD,low,Dallas Fed PCE  (Sep),5.10%,,2.70%
+708,30/10/2021,02:00,USD,medium,U.S. Baker Hughes Oil Rig Count,444,,443
+709,30/10/2021,02:00,USD,medium,U.S. Baker Hughes Total Rig Count,544,,542
+710,30/10/2021,04:30,GBP,medium,CFTC GBP speculative net positions,15.0K,,1.6K
+711,30/10/2021,04:30,USD,low,CFTC Aluminium speculative net positions,4.2K,,3.6K
+712,30/10/2021,04:30,USD,low,CFTC Copper speculative net positions,37.3K,,40.6K
+713,30/10/2021,04:30,USD,low,CFTC Corn speculative net positions,307.8K,,277.0K
+714,30/10/2021,04:30,USD,medium,CFTC Crude Oil speculative net positions,423.7K,,429.6K
+715,30/10/2021,04:30,USD,medium,CFTC Gold speculative net positions,214.6K,,193.3K
+716,30/10/2021,04:30,USD,medium,CFTC Nasdaq 100 speculative net positions,-3.3K,,-3.1K
+717,30/10/2021,04:30,USD,low,CFTC Natural Gas speculative net positions,-138.2K,,-131.1K
+718,30/10/2021,04:30,USD,medium,CFTC S&P 500 speculative net positions,96.5K,,67.6K
+719,30/10/2021,04:30,USD,low,CFTC Silver speculative net positions,37.5K,,30.4K
+720,30/10/2021,04:30,USD,low,CFTC Soybeans speculative net positions,43.2K,,43.5K
+721,30/10/2021,04:30,USD,low,CFTC Wheat speculative net positions,0.8K,,-8.6K
+722,30/10/2021,04:30,AUD,medium,CFTC AUD speculative net positions,-75.2K,,-76.1K
+723,30/10/2021,04:30,JPY,medium,CFTC JPY speculative net positions,-107.0K,,-102.7K
+724,30/10/2021,04:30,EUR,medium,CFTC EUR speculative net positions,-11.3K,,-12.1K

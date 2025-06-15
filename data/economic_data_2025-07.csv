@@ -1,0 +1,68 @@
+id,date,time,currency,importance,event,actual,forecast,previous
+0,01/07/2025,08:50,JPY,medium,Tankan All Big Industry CAPEX  (Q2),,,3.1%
+1,01/07/2025,08:50,JPY,low,Tankan All Small Industry CAPEX  (Q2),,,-10.0%
+2,01/07/2025,08:50,JPY,medium,Tankan Big Manufacturing Outlook Index  (Q2),,,12
+3,01/07/2025,08:50,JPY,medium,Tankan Large Manufacturers Index  (Q2),,,12
+4,01/07/2025,08:50,JPY,low,Tankan Large Non-Manufacturers Diffusion Index  (Q2),,,28
+5,01/07/2025,08:50,JPY,medium,Tankan Large Non-Manufacturers Index  (Q2),,,35
+6,01/07/2025,08:50,JPY,low,Tankan Small Manufacturers Diffusion Index  (Q2),,,-1
+7,01/07/2025,08:50,JPY,low,Tankan Small Manufacturing Index  (Q2),,,2
+8,01/07/2025,08:50,JPY,low,Tankan Small Non-Manufacturers Diffusion Index  (Q2),,,9
+9,01/07/2025,08:50,JPY,low,Tankan Small Non-Manufacturing Index  (Q2),,,16
+10,01/07/2025,14:00,JPY,low,Household Confidence  (Jun),,,32.8
+11,01/07/2025,18:00,EUR,high,CPI (YoY)  (Jun),,,2.2%
+12,01/07/2025,18:00,EUR,low,"CPI, n.s.a  (Jun)",,,128.73
+13,01/07/2025,18:00,EUR,low,HICP ex Energy & Food (YoY)  (Jun),,,2.7%
+14,01/07/2025,23:00,USD,medium,Construction Spending (MoM)  (May),,,-0.4%
+15,01/07/2025,23:00,USD,medium,ISM Manufacturing Employment  (Jun),,,46.8
+16,01/07/2025,23:00,USD,low,ISM Manufacturing New Orders Index  (Jun),,,47.6
+17,01/07/2025,23:00,USD,high,ISM Manufacturing PMI  (Jun),,,48.5
+18,01/07/2025,23:00,USD,high,ISM Manufacturing Prices  (Jun),,,69.4
+19,01/07/2025,23:00,USD,high,JOLTS Job Openings  (May),,,7.391M
+20,01/07/2025,23:30,USD,low,Dallas Fed Services Revenues  (Jun),,,-4.7
+21,01/07/2025,23:30,USD,low,Texas Services Sector Outlook  (Jun),,,-10.1
+22,02/07/2025,08:00,AUD,low,AIG Construction Index  (Jun),,,-6.4
+23,02/07/2025,08:00,AUD,low,AIG Manufacturing Index  (Jun),,,-23.5
+24,02/07/2025,08:50,JPY,low,Monetary Base (YoY)  (Jun),,,-3.4%
+25,02/07/2025,10:30,AUD,low,Building Approvals (YoY)  (May),,,5.10%
+26,02/07/2025,10:30,AUD,medium,Building Approvals (MoM)  (May),,,-5.7%
+27,02/07/2025,10:30,AUD,low,Private House Approvals  (May),,,3.1%
+28,02/07/2025,10:30,AUD,medium,Retail Sales (MoM)  (May),,,-0.1%
+29,02/07/2025,18:00,EUR,medium,Unemployment Rate  (May),,,6.2%
+30,02/07/2025,20:30,USD,low,Challenger Job Cuts  (Jun),,,93.816K
+31,02/07/2025,21:15,USD,high,ADP Nonfarm Employment Change  (Jun),,,37K
+32,03/07/2025,,USD,,United States - Independence Day - Early close at 13:00,,,
+33,03/07/2025,21:30,USD,high,Average Hourly Earnings (MoM)  (Jun),,,0.4%
+34,03/07/2025,21:30,USD,medium,Average Hourly Earnings (YoY) (YoY)  (Jun),,,3.9%
+35,03/07/2025,21:30,USD,low,Average Weekly Hours  (Jun),,,34.3
+36,03/07/2025,21:30,USD,low,Government Payrolls  (Jun),,,-1.0K
+37,03/07/2025,21:30,USD,low,Manufacturing Payrolls  (Jun),,,-8K
+38,03/07/2025,21:30,USD,high,Nonfarm Payrolls  (Jun),,,139K
+39,03/07/2025,21:30,USD,medium,Participation Rate  (Jun),,,62.4%
+40,03/07/2025,21:30,USD,medium,Private Nonfarm Payrolls  (Jun),,,140K
+41,03/07/2025,21:30,USD,medium,Trade Balance  (May),,,-61.60B
+42,03/07/2025,21:30,USD,medium,U6 Unemployment Rate  (Jun),,,7.8%
+43,03/07/2025,21:30,USD,high,Unemployment Rate  (Jun),,,4.2%
+44,03/07/2025,23:00,USD,low,Durables Excluding Defense (MoM)  (May),,,-7.5%
+45,03/07/2025,23:00,USD,low,Durables Excluding Transport (MoM)  (May),,,0.2%
+46,03/07/2025,23:00,USD,medium,Factory Orders (MoM)  (May),,,-3.7%
+47,03/07/2025,23:00,USD,low,Factory orders ex transportation (MoM)  (May),,,-0.5%
+48,03/07/2025,23:00,USD,low,ISM Non-Manufacturing Business Activity  (Jun),,,50.0
+49,03/07/2025,23:00,USD,medium,ISM Non-Manufacturing Employment  (Jun),,,50.7
+50,03/07/2025,23:00,USD,low,ISM Non-Manufacturing New Orders  (Jun),,,46.4
+51,03/07/2025,23:00,USD,high,ISM Non-Manufacturing PMI  (Jun),,,49.9
+52,03/07/2025,23:00,USD,high,ISM Non-Manufacturing Prices  (Jun),,,68.7
+53,04/07/2025,All Day,USD,,United States - Independence Day,,,
+54,04/07/2025,08:30,JPY,medium,Household Spending (MoM)  (May),,,-1.8%
+55,04/07/2025,08:30,JPY,medium,Household Spending (YoY)  (May),,,-0.1%
+56,04/07/2025,18:00,EUR,low,PPI (YoY)  (May),,,0.7%
+57,04/07/2025,18:00,EUR,low,PPI (MoM)  (May),,,-2.2%
+58,11/07/2025,11:00,AUD,low,Thomson Reuters IPSOS PCSI (MoM)  (Jun),,,48.13
+59,11/07/2025,11:00,JPY,low,Thomson Reuters IPSOS PCSI  (Jun),,,34.51
+60,15/07/2025,20:00,USD,medium,OPEC Monthly Report,,,
+61,21/07/2025,All Day,JPY,,Japan - Marine Day,,,
+62,30/07/2025,12:00,JPY,high,BoJ Interest Rate Decision,,,
+63,31/07/2025,03:00,USD,high,Fed Interest Rate Decision,,,
+64,03/07/2025,,USD,,United States - Independence Day - Early close at 13:00,,,
+65,04/07/2025,All Day,USD,,United States - Independence Day,,,
+66,21/07/2025,All Day,JPY,,Japan - Marine Day,,,

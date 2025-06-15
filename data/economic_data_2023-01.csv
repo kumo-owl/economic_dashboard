@@ -1,0 +1,658 @@
+id,date,time,currency,importance,event,actual,forecast,previous
+0,02/01/2023,All Day,USD,,United States - New Year's Day,,,
+1,02/01/2023,All Day,GBP,,United Kingdom - New Year's Day,,,
+2,02/01/2023,All Day,AUD,,Australia - New Year's Day,,,
+3,02/01/2023,All Day,JPY,,Japan - New Year's Day,,,
+4,02/01/2023,All Day,GBP,,United Kingdom - New Year's Day,,,
+5,03/01/2023,All Day,JPY,,Japan - Market Holiday,,,
+6,03/01/2023,14:30,AUD,low,Commodity Prices (YoY),15.6%,,19.6%
+7,04/01/2023,00:00,USD,medium,Construction Spending (MoM)  (Nov),0.2%,-0.4%,-0.2%
+8,04/01/2023,01:30,USD,low,3-Month Bill Auction,4.410%,,4.350%
+9,04/01/2023,01:30,USD,low,6-Month Bill Auction,4.635%,,4.600%
+10,04/01/2023,08:50,JPY,low,Foreign Bonds Buying,-459.5B,,-941.4B
+11,04/01/2023,08:50,JPY,low,Foreign Investments in Japanese Stocks,-265.1B,,-668.8B
+12,04/01/2023,09:01,GBP,low,BRC Shop Price Index (YoY),7.3%,,7.4%
+13,04/01/2023,09:30,AUD,low,RBA Chart Pack Release,,,
+14,04/01/2023,18:30,GBP,low,BoE Consumer Credit  (Nov),1.507B,0.900B,0.748B
+15,04/01/2023,18:30,GBP,low,M4 Money Supply (MoM)  (Nov),-1.6%,,0.1%
+16,04/01/2023,18:30,GBP,low,Mortgage Approvals  (Nov),46.08K,55.00K,57.88K
+17,04/01/2023,18:30,GBP,low,Mortgage Lending  (Nov),4.36B,3.70B,3.58B
+18,04/01/2023,18:30,GBP,low,Net Lending to Individuals,5.9B,4.5B,4.3B
+19,04/01/2023,21:00,USD,low,MBA 30-Year Mortgage Rate,6.58%,,6.34%
+20,04/01/2023,21:00,USD,low,MBA Mortgage Applications (WoW),-10.3%,,0.9%
+21,04/01/2023,21:00,USD,low,MBA Purchase Index,160.2,,182.5
+22,04/01/2023,21:00,USD,low,Mortgage Market Index,184.5,,212.5
+23,04/01/2023,21:00,USD,low,Mortgage Refinance Index,310.9,,371.4
+24,04/01/2023,22:55,USD,low,Redbook (YoY),10.2%,,9.6%
+25,05/01/2023,00:00,USD,medium,ISM Manufacturing Employment  (Dec),51.4,48.3,48.4
+26,05/01/2023,00:00,USD,low,ISM Manufacturing New Orders Index  (Dec),45.2,,47.2
+27,05/01/2023,00:00,USD,high,ISM Manufacturing PMI  (Dec),48.4,48.5,49.0
+28,05/01/2023,00:00,USD,high,ISM Manufacturing Prices  (Dec),39.4,42.6,43.0
+29,05/01/2023,00:00,USD,high,JOLTS Job Openings  (Nov),10.458M,10.000M,10.512M
+30,05/01/2023,04:00,USD,high,FOMC Meeting Minutes,,,
+31,05/01/2023,05:30,USD,medium,Fed's Balance Sheet,"8,507.43B",,"8,551.17B"
+32,05/01/2023,06:30,USD,medium,API Weekly Crude Oil Stock,3.298M,,-1.300M
+33,05/01/2023,08:00,USD,low,Total Vehicle Sales  (Dec),13.30M,,14.10M
+34,05/01/2023,08:50,JPY,low,Monetary Base (YoY),-6.1%,-3.2%,-6.4%
+35,05/01/2023,12:35,JPY,medium,10-Year JGB Auction,0.500%,,0.250%
+36,05/01/2023,14:00,JPY,low,Household Confidence  (Dec),30.3,,28.6
+37,05/01/2023,19:00,EUR,low,PPI (YoY)  (Nov),27.1%,27.5%,30.5%
+38,05/01/2023,19:00,EUR,low,PPI (MoM)  (Nov),-0.9%,-0.9%,-3.0%
+39,05/01/2023,21:00,GBP,low,5-Year Treasury Gilt Auction,3.665%,,3.472%
+40,05/01/2023,21:30,USD,low,Challenger Job Cuts (YoY),129.1%,,416.5%
+41,05/01/2023,21:30,USD,low,Challenger Job Cuts  (Dec),43.651K,,76.835K
+42,05/01/2023,22:15,USD,high,ADP Nonfarm Employment Change  (Dec),235K,150K,182K
+43,05/01/2023,22:30,USD,medium,Continuing Jobless Claims,"1,694K","1,708K","1,718K"
+44,05/01/2023,22:30,USD,medium,Exports,251.90B,,256.90B
+45,05/01/2023,22:30,USD,medium,Imports,313.40B,,334.80B
+46,05/01/2023,22:30,USD,high,Initial Jobless Claims,204K,225K,223K
+47,05/01/2023,22:30,USD,low,Jobless Claims 4-Week Avg.,213.75K,,220.50K
+48,05/01/2023,22:30,USD,medium,Trade Balance  (Nov),-61.50B,-73.00B,-77.80B
+49,05/01/2023,23:20,USD,medium,FOMC Member Bostic Speaks,,,
+50,05/01/2023,23:30,USD,low,All Car Sales  (Dec),2.78M,,3.16M
+51,05/01/2023,23:30,USD,low,All Truck Sales  (Dec),10.53M,,11.06M
+52,06/01/2023,00:30,USD,low,Natural Gas Storage,-221B,-228B,-213B
+53,06/01/2023,01:00,USD,high,Crude Oil Inventories,1.694M,1.154M,0.718M
+54,06/01/2023,01:00,USD,low,EIA Refinery Crude Runs  (WoW),-2.329M,,0.173M
+55,06/01/2023,01:00,USD,low,Crude Oil Imports,-1.282M,,1.328M
+56,06/01/2023,01:00,USD,medium,Cushing Crude Oil Inventories,0.244M,,-0.195M
+57,06/01/2023,01:00,USD,low,Distillate Fuel Production,-1.050M,,-0.017M
+58,06/01/2023,01:00,USD,low,EIA Weekly Distillates Stocks,-1.427M,-0.396M,0.282M
+59,06/01/2023,01:00,USD,low,Gasoline Production,-1.678M,,0.592M
+60,06/01/2023,01:00,USD,low,Heating Oil Stockpiles,-0.476M,,0.011M
+61,06/01/2023,01:00,USD,low,EIA Weekly Refinery Utilization Rates (WoW),-12.4%,-2.9%,1.1%
+62,06/01/2023,01:00,USD,low,Gasoline Inventories,-0.346M,-0.486M,-3.105M
+63,06/01/2023,01:30,USD,low,4-Week Bill Auction,4.100%,,3.830%
+64,06/01/2023,01:30,USD,low,8-Week Bill Auction,4.430%,,4.250%
+65,06/01/2023,03:20,USD,medium,FOMC Member Bullard Speaks,,,
+66,06/01/2023,08:30,JPY,low,Average Cash Earnings (YoY),0.5%,,1.4%
+67,06/01/2023,08:30,JPY,low,Overtime Pay (YoY)  (Nov),5.20%,,7.70%
+68,06/01/2023,16:00,GBP,medium,Halifax House Price Index (MoM)  (Dec),-1.5%,,-2.4%
+69,06/01/2023,16:00,GBP,medium,Halifax House Price Index (YoY),2.0%,,4.6%
+70,06/01/2023,19:00,EUR,low,Business and Consumer Survey  (Dec),95.8,94.7,94.0
+71,06/01/2023,19:00,EUR,low,Business Climate  (Dec),0.54,,0.54
+72,06/01/2023,19:00,EUR,low,Consumer Confidence  (Dec),-22.2,-22.2,-22.2
+73,06/01/2023,19:00,EUR,low,Consumer Inflation Expectation  (Dec),23.7,,29.9
+74,06/01/2023,19:00,EUR,medium,Core CPI (YoY),5.2%,5.0%,5.0%
+75,06/01/2023,19:00,EUR,low,Core CPI (MoM),0.6%,-0.1%,0.0%
+76,06/01/2023,19:00,EUR,medium,CPI (MoM),-0.3%,0.8%,-0.1%
+77,06/01/2023,19:00,EUR,high,CPI (YoY)  (Dec),9.2%,9.7%,10.1%
+78,06/01/2023,19:00,EUR,low,"CPI, n.s.a  (Dec)",120.53,,120.95
+79,06/01/2023,19:00,EUR,low,Selling Price Expectations  (Dec),38.4,,40.4
+80,06/01/2023,19:00,EUR,low,Services Sentiment  (Dec),6.3,3.5,3.1
+81,06/01/2023,19:00,EUR,low,HICP ex Energy & Food (YoY)  (Dec),6.9%,6.5%,6.6%
+82,06/01/2023,19:00,EUR,low,HICP ex Energy and Food (MoM),0.7%,0.3%,0.3%
+83,06/01/2023,19:00,EUR,low,Industrial Sentiment  (Dec),-1.5,-1.2,-1.9
+84,06/01/2023,19:00,EUR,low,Retail Sales (MoM)  (Nov),0.8%,0.5%,-1.5%
+85,06/01/2023,19:00,EUR,low,Retail Sales (YoY)  (Nov),-2.8%,-3.3%,-2.6%
+86,06/01/2023,22:30,USD,medium,Average Hourly Earnings (YoY) (YoY)  (Dec),4.6%,5.0%,4.8%
+87,06/01/2023,22:30,USD,high,Average Hourly Earnings (MoM)  (Dec),0.3%,0.4%,0.4%
+88,06/01/2023,22:30,USD,low,Average Weekly Hours  (Dec),34.3,34.4,34.4
+89,06/01/2023,22:30,USD,low,Government Payrolls  (Dec),3.0K,,54.0K
+90,06/01/2023,22:30,USD,low,Manufacturing Payrolls  (Dec),8K,10K,8K
+91,06/01/2023,22:30,USD,high,Nonfarm Payrolls  (Dec),223K,200K,256K
+92,06/01/2023,22:30,USD,medium,Participation Rate  (Dec),62.3%,,62.2%
+93,06/01/2023,22:30,USD,medium,Private Nonfarm Payrolls  (Dec),220K,180K,202K
+94,06/01/2023,22:30,USD,medium,U6 Unemployment Rate  (Dec),6.5%,,6.7%
+95,06/01/2023,22:30,USD,high,Unemployment Rate  (Dec),3.5%,3.7%,3.6%
+96,07/01/2023,00:00,USD,low,Durables Excluding Defense (MoM)  (Nov),-2.7%,,-2.6%
+97,07/01/2023,00:00,USD,low,Durables Excluding Transport (MoM)  (Nov),0.1%,,0.2%
+98,07/01/2023,00:00,USD,medium,Factory Orders (MoM)  (Nov),-1.8%,-0.8%,0.4%
+99,07/01/2023,00:00,USD,low,Factory orders ex transportation (MoM)  (Nov),-0.8%,,0.1%
+100,07/01/2023,00:00,USD,low,ISM Non-Manufacturing Business Activity  (Dec),54.7,59.5,64.7
+101,07/01/2023,00:00,USD,medium,ISM Non-Manufacturing Employment  (Dec),49.8,,51.5
+102,07/01/2023,00:00,USD,low,ISM Non-Manufacturing New Orders  (Dec),45.2,,56.0
+103,07/01/2023,00:00,USD,high,ISM Non-Manufacturing PMI  (Dec),49.6,55.0,56.5
+104,07/01/2023,00:00,USD,high,ISM Non-Manufacturing Prices  (Dec),67.6,,70.0
+105,07/01/2023,01:15,USD,low,Fed Governor Cook Speaks,,,
+106,07/01/2023,01:15,USD,medium,FOMC Member Bostic Speaks,,,
+107,07/01/2023,01:15,EUR,medium,ECB's Lane Speaks,,,
+108,07/01/2023,02:15,USD,low,FOMC Member Barkin Speaks,,,
+109,07/01/2023,03:00,USD,medium,U.S. Baker Hughes Oil Rig Count,618,,621
+110,07/01/2023,03:00,USD,medium,U.S. Baker Hughes Total Rig Count,772,,779
+111,07/01/2023,05:30,GBP,medium,CFTC GBP speculative net positions,-20.3K,,-10.9K
+112,07/01/2023,05:30,USD,low,CFTC Aluminium speculative net positions,5.3K,,5.0K
+113,07/01/2023,05:30,USD,low,CFTC Copper speculative net positions,-4.7K,,0.7K
+114,07/01/2023,05:30,USD,low,CFTC Corn speculative net positions,267.5K,,235.1K
+115,07/01/2023,05:30,USD,medium,CFTC Crude Oil speculative net positions,227.6K,,247.6K
+116,07/01/2023,05:30,USD,medium,CFTC Gold speculative net positions,141.7K,,136.9K
+117,07/01/2023,05:30,USD,medium,CFTC Nasdaq 100 speculative net positions,1.4K,,1.2K
+118,07/01/2023,05:30,USD,low,CFTC Natural Gas speculative net positions,-169.8K,,-160.6K
+119,07/01/2023,05:30,USD,medium,CFTC S&P 500 speculative net positions,-167.3K,,-174.3K
+120,07/01/2023,05:30,USD,low,CFTC Silver speculative net positions,30.9K,,31.0K
+121,07/01/2023,05:30,USD,low,CFTC Soybeans speculative net positions,148.6K,,133.5K
+122,07/01/2023,05:30,USD,low,CFTC Wheat speculative net positions,-32.3K,,-36.3K
+123,07/01/2023,05:30,USD,medium,FOMC Member Bostic Speaks,,,
+124,07/01/2023,05:30,AUD,medium,CFTC AUD speculative net positions,-36.3K,,-36.8K
+125,07/01/2023,05:30,JPY,medium,CFTC JPY speculative net positions,-46.9K,,-37.7K
+126,07/01/2023,05:30,EUR,medium,CFTC EUR speculative net positions,129.9K,,146.2K
+127,08/01/2023,01:15,GBP,medium,BoE MPC Member Mann Speaks,,,
+128,08/01/2023,22:00,GBP,medium,BoE MPC Member Pill Speaks,,,
+129,09/01/2023,All Day,JPY,,Japan - Respect for the Aged Day,,,
+130,09/01/2023,09:30,AUD,medium,Building Approvals (MoM)  (Nov),-9.0%,-1.0%,-5.6%
+131,09/01/2023,09:30,AUD,low,Private House Approvals  (Nov),-2.5%,,-2.2%
+132,09/01/2023,18:30,EUR,low,Sentix Investor Confidence  (Jan),-17.5,-18.0,-21.0
+133,09/01/2023,19:00,GBP,medium,Mortgage Rate (GBP)  (Dec),6.41%,,5.88%
+134,09/01/2023,19:00,EUR,medium,Unemployment Rate  (Nov),6.5%,6.5%,6.5%
+135,10/01/2023,00:00,USD,low,CB Employment Trends Index  (Dec),116.31,,117.14
+136,10/01/2023,01:00,USD,medium,NY Fed 1-Year Consumer Inflation Expectations,5.0%,,5.2%
+137,10/01/2023,01:30,USD,low,3-Month Bill Auction,4.560%,,4.410%
+138,10/01/2023,01:30,USD,low,6-Month Bill Auction,4.710%,,4.635%
+139,10/01/2023,02:00,GBP,medium,BoE MPC Member Mann Speaks,,,
+140,10/01/2023,05:00,USD,medium,Consumer Credit  (Nov),27.96B,25.00B,29.12B
+141,10/01/2023,08:30,JPY,medium,Household Spending (MoM)  (Nov),-0.9%,-0.5%,1.1%
+142,10/01/2023,08:30,JPY,medium,Household Spending (YoY)  (Nov),-1.2%,0.5%,1.2%
+143,10/01/2023,08:30,JPY,medium,Tokyo Core CPI (YoY)  (Dec),4.0%,3.8%,3.6%
+144,10/01/2023,08:30,JPY,low,Tokyo CPI (YoY)  (Dec),4.0%,,3.7%
+145,10/01/2023,08:30,JPY,low,CPI Tokyo Ex Food and Energy (MoM)  (Dec),0.2%,,-0.1%
+146,10/01/2023,08:45,GBP,medium,BoE MPC Member Pill Speaks,,,
+147,10/01/2023,09:01,GBP,medium,BRC Retail Sales Monitor (YoY)  (Dec),6.5%,2.4%,4.1%
+148,10/01/2023,19:10,JPY,medium,BoJ Governor Kuroda Speaks,,,
+149,10/01/2023,19:10,EUR,medium,ECB's Schnabel Speaks,,,
+150,10/01/2023,20:00,USD,low,NFIB Small Business Optimism  (Dec),89.8,91.5,91.9
+151,10/01/2023,22:55,USD,low,Redbook (YoY),5.3%,,10.2%
+152,10/01/2023,23:00,USD,high,Fed Chair Powell Speaks,,,
+153,11/01/2023,00:00,USD,low,IBD/TIPP Economic Optimism,42.3,41.7,42.9
+154,11/01/2023,00:00,USD,low,Wholesale Inventories (MoM),1.0%,1.0%,1.0%
+155,11/01/2023,00:00,USD,low,Wholesale Trade Sales (MoM)  (Nov),-0.6%,0.5%,0.4%
+156,11/01/2023,02:00,USD,medium,EIA Short-Term Energy Outlook,,,
+157,11/01/2023,03:00,USD,medium,3-Year Note Auction,3.977%,,4.093%
+158,11/01/2023,06:30,USD,medium,API Weekly Crude Oil Stock,14.865M,-2.375M,3.298M
+159,11/01/2023,08:50,JPY,low,Foreign Reserves (USD)  (Dec),"1,227.6B",,"1,226.3B"
+160,11/01/2023,09:30,AUD,medium,Retail Sales (MoM)  (Nov),1.4%,0.6%,0.4%
+161,11/01/2023,12:35,JPY,low,30-Year JGB Auction,1.649%,,1.481%
+162,11/01/2023,14:00,JPY,low,Coincident Indicator (MoM)  (Nov),-0.5%,,-1.2%
+163,11/01/2023,14:00,JPY,low,Leading Index,97.6,97.5,98.6
+164,11/01/2023,14:00,JPY,low,Leading Index (MoM)  (Nov),-1.0%,,0.4%
+165,11/01/2023,21:00,USD,low,MBA 30-Year Mortgage Rate,6.42%,,6.58%
+166,11/01/2023,21:00,USD,low,MBA Mortgage Applications (WoW),1.2%,,-10.3%
+167,11/01/2023,21:00,USD,low,MBA Purchase Index,159.4,,160.2
+168,11/01/2023,21:00,USD,low,Mortgage Market Index,186.7,,184.5
+169,11/01/2023,21:00,USD,low,Mortgage Refinance Index,326.7,,310.9
+170,12/01/2023,00:30,USD,high,Crude Oil Inventories,18.962M,-2.243M,1.694M
+171,12/01/2023,00:30,USD,low,EIA Refinery Crude Runs  (WoW),0.831M,,-2.329M
+172,12/01/2023,00:30,USD,low,Crude Oil Imports,2.708M,,-1.282M
+173,12/01/2023,00:30,USD,medium,Cushing Crude Oil Inventories,2.511M,,0.244M
+174,12/01/2023,00:30,USD,low,Distillate Fuel Production,0.509M,,-1.050M
+175,12/01/2023,00:30,USD,low,EIA Weekly Distillates Stocks,-1.069M,-0.472M,-1.427M
+176,12/01/2023,00:30,USD,low,Gasoline Production,0.067M,,-1.678M
+177,12/01/2023,00:30,USD,low,Heating Oil Stockpiles,0.405M,,-0.476M
+178,12/01/2023,00:30,USD,low,EIA Weekly Refinery Utilization Rates (WoW),4.5%,6.1%,-12.4%
+179,12/01/2023,00:30,USD,low,Gasoline Inventories,4.114M,1.186M,-0.346M
+180,12/01/2023,00:30,USD,low,Thomson Reuters IPSOS PCSI  (Jan),50.23,,49.76
+181,12/01/2023,03:00,USD,high,10-Year Note Auction,3.575%,,3.625%
+182,12/01/2023,05:30,USD,medium,Fed's Balance Sheet,"8,508.59B",,"8,507.43B"
+183,12/01/2023,08:50,JPY,medium,Adjusted Current Account,1.92T,0.65T,-0.61T
+184,12/01/2023,08:50,JPY,low,Bank Lending (YoY)  (Dec),2.7%,,2.7%
+185,12/01/2023,08:50,JPY,medium,Current Account n.s.a.  (Nov),1.804T,0.471T,-0.064T
+186,12/01/2023,09:30,AUD,low,Exports (MoM)  (Nov),-0.4%,,-1.2%
+187,12/01/2023,09:30,AUD,low,Imports (MoM)  (Nov),-1.5%,,-2.0%
+188,12/01/2023,09:30,AUD,medium,Trade Balance  (Nov),13.201B,10.500B,12.217B
+189,12/01/2023,14:00,JPY,low,Economy Watchers Current Index  (Dec),47.9,47.8,48.1
+190,12/01/2023,14:00,EUR,medium,ECB Economic Bulletin,,,
+191,12/01/2023,19:00,GBP,low,Thomson Reuters IPSOS PCSI  (Jan),41.7,,40.8
+192,12/01/2023,21:30,USD,medium,FOMC Member Harker Speaks,,,
+193,12/01/2023,22:30,USD,medium,Continuing Jobless Claims,"1,634K","1,705K","1,697K"
+194,12/01/2023,22:30,USD,high,Core CPI (MoM)  (Dec),0.3%,0.3%,0.3%
+195,12/01/2023,22:30,USD,medium,Core CPI (YoY)  (Dec),5.7%,5.7%,6.0%
+196,12/01/2023,22:30,USD,low,Core CPI Index  (Dec),300.97,,300.07
+197,12/01/2023,22:30,USD,high,CPI (MoM)  (Dec),-0.1%,0.0%,0.2%
+198,12/01/2023,22:30,USD,high,CPI (YoY)  (Dec),6.5%,6.5%,7.1%
+199,12/01/2023,22:30,USD,low,"CPI Index, n.s.a.  (Dec)",296.80,296.70,297.71
+200,12/01/2023,22:30,USD,low,"CPI Index, s.a  (Dec)",298.11,,298.35
+201,12/01/2023,22:30,USD,low,"CPI, n.s.a (MoM)  (Dec)",-0.31%,,-0.10%
+202,12/01/2023,22:30,USD,high,Initial Jobless Claims,205K,215K,206K
+203,12/01/2023,22:30,USD,low,Jobless Claims 4-Week Avg.,212.50K,,214.25K
+204,12/01/2023,22:30,USD,low,Real Earnings (MoM)  (Dec),0.1%,,0.2%
+205,13/01/2023,00:30,USD,low,Natural Gas Storage,11B,-15B,-221B
+206,13/01/2023,01:00,USD,low,Cleveland CPI (MoM)  (Dec),0.4%,,0.5%
+207,02/01/2023,All Day,USD,,United States - New Year's Day,,,
+208,02/01/2023,All Day,GBP,,United Kingdom - New Year's Day,,,
+209,02/01/2023,All Day,AUD,,Australia - New Year's Day,,,
+210,02/01/2023,All Day,JPY,,Japan - New Year's Day,,,
+211,02/01/2023,All Day,GBP,,United Kingdom - New Year's Day,,,
+212,03/01/2023,All Day,JPY,,Japan - Market Holiday,,,
+213,09/01/2023,All Day,JPY,,Japan - Respect for the Aged Day,,,
+214,13/01/2023,01:30,USD,low,4-Week Bill Auction,4.370%,,4.100%
+215,13/01/2023,01:30,USD,low,8-Week Bill Auction,4.465%,,4.430%
+216,13/01/2023,02:00,GBP,medium,BoE MPC Member Mann Speaks,,,
+217,13/01/2023,02:00,USD,medium,WASDE Report,,,
+218,13/01/2023,03:00,USD,high,30-Year Bond Auction,3.585%,,3.513%
+219,13/01/2023,04:00,USD,medium,Federal Budget Balance  (Dec),-85.0B,-70.0B,-249.0B
+220,13/01/2023,06:30,USD,low,Reserve Balances with Federal Reserve Banks,3.117T,,3.050T
+221,13/01/2023,08:50,JPY,low,Foreign Bonds Buying,566.8B,,-459.5B
+222,13/01/2023,08:50,JPY,low,Foreign Investments in Japanese Stocks,-199.1B,,-265.1B
+223,13/01/2023,08:50,JPY,low,M2 Money Stock (YoY),2.9%,3.2%,3.1%
+224,13/01/2023,08:50,JPY,low,M3 Money Supply  (Dec),"2,084.8T",,"2,085.6T"
+225,13/01/2023,09:30,AUD,medium,Home Loans (MoM),-2.0%,-3.0%,-5.6%
+226,13/01/2023,09:30,AUD,low,Invest Housing Finance (MoM),-3.6%,,-2.3%
+227,13/01/2023,11:00,AUD,low,Thomson Reuters IPSOS PCSI (MoM)  (Jan),54.89,,53.44
+228,13/01/2023,11:00,JPY,low,Thomson Reuters IPSOS PCSI  (Jan),36.29,,35.71
+229,13/01/2023,12:35,JPY,low,5-Year JGB Auction,0.393%,,0.121%
+230,13/01/2023,16:00,GBP,low,U.K. Construction Output (YoY)  (Nov),4.0%,5.4%,5.9%
+231,13/01/2023,16:00,GBP,low,Construction Output (MoM)  (Nov),0.0%,-0.3%,0.4%
+232,13/01/2023,16:00,GBP,high,GDP (YoY),0.2%,0.3%,1.5%
+233,13/01/2023,16:00,GBP,high,GDP (MoM),0.1%,-0.3%,0.5%
+234,13/01/2023,16:00,GBP,low,Index of Services,-0.1%,-0.3%,-0.1%
+235,13/01/2023,16:00,GBP,low,Industrial Production (YoY)  (Nov),-5.1%,-3.0%,-4.7%
+236,13/01/2023,16:00,GBP,medium,Industrial Production (MoM)  (Nov),-0.2%,-0.3%,-0.1%
+237,13/01/2023,16:00,GBP,low,Manufacturing Production (YoY)  (Nov),-5.9%,-4.8%,-5.7%
+238,13/01/2023,16:00,GBP,medium,Manufacturing Production (MoM)  (Nov),-0.5%,-0.2%,0.7%
+239,13/01/2023,16:00,GBP,medium,Monthly GDP 3M/3M Change,-0.1%,,-0.3%
+240,13/01/2023,16:00,GBP,medium,Trade Balance  (Nov),-15.62B,-14.90B,-12.26B
+241,13/01/2023,16:00,GBP,medium,Trade Balance Non-EU  (Nov),-4.67B,,-3.00B
+242,13/01/2023,19:00,EUR,low,Industrial Production (YoY)  (Nov),2.0%,0.5%,3.4%
+243,13/01/2023,19:00,EUR,medium,Industrial Production (MoM)  (Nov),1.0%,0.5%,-1.9%
+244,13/01/2023,19:00,EUR,medium,Trade Balance  (Nov),-11.7B,-21.1B,-27.0B
+245,13/01/2023,21:30,USD,medium,FOMC Member Harker Speaks,,,
+246,13/01/2023,21:30,USD,low,Import Price Index ex Petroleum (MoM),0.8%,,-0.3%
+247,13/01/2023,22:00,GBP,medium,NIESR Monthly GDP Tracker,0.1%,,-0.3%
+248,13/01/2023,22:30,USD,low,Export Price Index (YoY),5.0%,,6.3%
+249,13/01/2023,22:30,USD,medium,Export Price Index (MoM)  (Dec),-2.6%,-0.5%,-0.4%
+250,13/01/2023,22:30,USD,low,Import Price Index (YoY),3.5%,,2.7%
+251,13/01/2023,22:30,USD,medium,Import Price Index (MoM)  (Dec),0.4%,-0.9%,-0.7%
+252,14/01/2023,00:00,USD,medium,Michigan 1-Year Inflation Expectations  (Jan),4.0%,,4.4%
+253,14/01/2023,00:00,USD,medium,Michigan 5-Year Inflation Expectations  (Jan),3.0%,,2.9%
+254,14/01/2023,00:00,USD,medium,Michigan Consumer Expectations  (Jan),62.0,59.5,59.9
+255,14/01/2023,00:00,USD,medium,Michigan Consumer Sentiment  (Jan),64.6,60.5,59.7
+256,14/01/2023,00:00,USD,low,Michigan Current Conditions  (Jan),68.6,60.0,59.4
+257,14/01/2023,03:00,USD,medium,U.S. Baker Hughes Oil Rig Count,623,,618
+258,14/01/2023,03:00,USD,medium,U.S. Baker Hughes Total Rig Count,725,,772
+259,14/01/2023,05:30,GBP,medium,CFTC GBP speculative net positions,-29.5K,,-20.3K
+260,14/01/2023,05:30,USD,low,CFTC Aluminium speculative net positions,5.2K,,5.3K
+261,14/01/2023,05:30,USD,low,CFTC Copper speculative net positions,10.2K,,-4.7K
+262,14/01/2023,05:30,USD,low,CFTC Corn speculative net positions,233.8K,,267.5K
+263,14/01/2023,05:30,USD,medium,CFTC Crude Oil speculative net positions,205.2K,,227.6K
+264,14/01/2023,05:30,USD,medium,CFTC Gold speculative net positions,150.5K,,141.7K
+265,14/01/2023,05:30,USD,medium,CFTC Nasdaq 100 speculative net positions,-8.2K,,1.4K
+266,14/01/2023,05:30,USD,low,CFTC Natural Gas speculative net positions,-172.5K,,-169.8K
+267,14/01/2023,05:30,USD,medium,CFTC S&P 500 speculative net positions,-213.2K,,-167.3K
+268,14/01/2023,05:30,USD,low,CFTC Silver speculative net positions,29.0K,,30.9K
+269,14/01/2023,05:30,USD,low,CFTC Soybeans speculative net positions,140.3K,,148.6K
+270,14/01/2023,05:30,USD,low,CFTC Wheat speculative net positions,-39.7K,,-32.3K
+271,14/01/2023,05:30,AUD,medium,CFTC AUD speculative net positions,-33.7K,,-36.3K
+272,14/01/2023,05:30,JPY,medium,CFTC JPY speculative net positions,-35.4K,,-46.9K
+273,14/01/2023,05:30,EUR,medium,CFTC EUR speculative net positions,135.0K,,129.9K
+274,16/01/2023,All Day,USD,,"United States - Martin Luther King, Jr. Day",,,
+275,16/01/2023,08:50,JPY,low,PPI (MoM)  (Dec),0.5%,0.3%,0.8%
+276,16/01/2023,08:50,JPY,low,PPI (YoY)  (Dec),10.2%,9.5%,9.7%
+277,16/01/2023,09:00,AUD,low,MI Inflation Gauge (MoM),0.2%,,1.0%
+278,16/01/2023,09:30,AUD,low,Private House Approvals,-2.5%,,-1.1%
+279,16/01/2023,15:00,JPY,low,Machine Tool Orders (YoY),1.0%,,-7.8%
+280,16/01/2023,19:00,EUR,medium,Eurogroup Meetings,,,
+281,16/01/2023,20:00,EUR,low,Reserve Assets Total  (Dec),"1,114.24B",,"1,115.12B"
+282,17/01/2023,00:00,GBP,medium,BoE Gov Bailey Speaks,,,
+283,17/01/2023,08:30,AUD,low,Westpac Consumer Sentiment  (Jan),5.0%,,3.0%
+284,17/01/2023,13:30,JPY,medium,Tertiary Industry Activity Index (MoM),-0.2%,0.2%,0.5%
+285,17/01/2023,16:00,GBP,low,Average Earnings ex Bonus  (Nov),6.4%,6.3%,6.1%
+286,17/01/2023,16:00,GBP,medium,Average Earnings Index +Bonus  (Nov),6.4%,6.2%,6.2%
+287,17/01/2023,16:00,GBP,medium,Claimant Count Change  (Dec),19.7K,19.8K,16.1K
+288,17/01/2023,16:00,GBP,medium,Employment Change 3M/3M (MoM)  (Nov),27K,5K,27K
+289,17/01/2023,16:00,GBP,medium,Unemployment Rate  (Nov),3.7%,3.7%,3.7%
+290,17/01/2023,17:00,EUR,medium,ECB Supervisory Board Member Fernandez-Bollo Speaks,,,
+291,17/01/2023,19:00,GBP,low,3-Year Treasury Gilt Auction,3.634%,,3.813%
+292,17/01/2023,19:00,EUR,medium,ZEW Economic Sentiment  (Jan),16.7,-14.3,-23.6
+293,17/01/2023,21:00,USD,medium,OPEC Monthly Report,,,
+294,17/01/2023,22:30,USD,medium,NY Empire State Manufacturing Index  (Jan),-32.90,-8.70,-11.20
+295,18/01/2023,01:30,USD,low,3-Month Bill Auction,4.560%,,4.560%
+296,18/01/2023,01:30,USD,low,6-Month Bill Auction,4.685%,,4.710%
+297,18/01/2023,05:00,USD,medium,FOMC Member Williams Speaks,,,
+298,18/01/2023,08:00,JPY,low,Reuters Tankan Index  (Jan),-6,,8
+299,18/01/2023,08:50,JPY,low,Core Machinery Orders (MoM)  (Nov),-8.3%,-0.9%,5.4%
+300,18/01/2023,08:50,JPY,low,Core Machinery Orders (YoY)  (Nov),-3.7%,2.4%,0.4%
+301,18/01/2023,11:40,JPY,high,BoJ Interest Rate Decision,-0.10%,-0.10%,-0.10%
+302,18/01/2023,12:00,JPY,medium,BoJ Monetary Policy Statement,,,
+303,18/01/2023,12:00,JPY,medium,BoJ Outlook Report (YoY),,,
+304,18/01/2023,13:30,JPY,low,Capacity Utilization (MoM)  (Nov),-1.4%,,2.2%
+305,18/01/2023,13:30,JPY,medium,Industrial Production (MoM)  (Nov),0.2%,-0.1%,-0.1%
+306,18/01/2023,14:00,JPY,medium,BoJ Press Conference,,,
+307,18/01/2023,15:00,GBP,medium,CPIH (YoY),9.2%,9.3%,9.3%
+308,18/01/2023,16:00,GBP,low,Car Registration (MoM)  (Dec),-10.1%,,6.4%
+309,18/01/2023,16:00,GBP,low,Car Registration (YoY)  (Dec),18.3%,,23.5%
+310,18/01/2023,16:00,GBP,low,Core CPI (YoY)  (Dec),6.3%,6.2%,6.3%
+311,18/01/2023,16:00,GBP,low,Core CPI (MoM)  (Dec),0.5%,0.4%,0.3%
+312,18/01/2023,16:00,GBP,low,Core RPI (MoM)  (Dec),0.5%,,0.5%
+313,18/01/2023,16:00,GBP,low,Core RPI (YoY)  (Dec),12.9%,,13.5%
+314,18/01/2023,16:00,GBP,medium,CPI (MoM)  (Dec),0.4%,0.4%,0.4%
+315,18/01/2023,16:00,GBP,high,CPI (YoY)  (Dec),10.5%,10.5%,10.7%
+316,18/01/2023,16:00,GBP,low,"CPI, n.s.a  (Dec)",127.20,,126.70
+317,18/01/2023,16:00,GBP,low,RPI (MoM)  (Dec),0.6%,0.7%,0.6%
+318,18/01/2023,16:00,GBP,low,RPI (YoY)  (Dec),13.4%,13.6%,14.0%
+319,18/01/2023,18:00,USD,medium,IEA Monthly Report,,,
+320,18/01/2023,18:30,GBP,low,House Price Index (YoY),10.3%,10.4%,12.6%
+321,18/01/2023,18:30,GBP,low,Housing Equity Withdrawal (QoQ),-5.8B,-7.9B,-5.1B
+322,18/01/2023,19:00,EUR,low,Construction Output (MoM)  (Nov),-0.81%,,1.00%
+323,18/01/2023,19:00,EUR,low,Core CPI (MoM)  (Dec),0.6%,0.6%,0.6%
+324,18/01/2023,19:00,EUR,medium,Core CPI (YoY)  (Dec),5.2%,5.2%,5.0%
+325,18/01/2023,19:00,EUR,high,CPI (YoY)  (Dec),9.2%,9.2%,10.1%
+326,18/01/2023,19:00,EUR,medium,CPI (MoM)  (Dec),-0.4%,-0.3%,-0.1%
+327,18/01/2023,19:00,EUR,low,CPI ex Tobacco (YoY)  (Dec),9.3%,,10.2%
+328,18/01/2023,19:00,EUR,low,CPI ex Tobacco (MoM)  (Dec),-0.4%,,-0.1%
+329,18/01/2023,19:00,EUR,low,HICP ex Energy & Food (YoY)  (Dec),6.9%,6.9%,6.9%
+330,18/01/2023,19:00,EUR,low,HICP ex Energy and Food (MoM)  (Dec),0.7%,0.7%,0.3%
+331,18/01/2023,21:00,USD,low,MBA 30-Year Mortgage Rate,6.23%,,6.42%
+332,18/01/2023,21:00,USD,low,MBA Mortgage Applications (WoW),27.9%,,1.2%
+333,18/01/2023,21:00,USD,low,MBA Purchase Index,198.7,,159.4
+334,18/01/2023,21:00,USD,low,Mortgage Market Index,238.7,,186.7
+335,18/01/2023,21:00,USD,low,Mortgage Refinance Index,438.3,,326.7
+336,18/01/2023,22:30,USD,medium,Core PPI (MoM)  (Dec),0.1%,0.1%,0.2%
+337,18/01/2023,22:30,USD,low,Core PPI (YoY)  (Dec),5.5%,5.7%,6.2%
+338,18/01/2023,22:30,USD,high,Core Retail Sales (MoM)  (Dec),-1.1%,-0.4%,-0.6%
+339,18/01/2023,22:30,USD,low,PPI (YoY)  (Dec),6.2%,6.8%,7.3%
+340,18/01/2023,22:30,USD,high,PPI (MoM)  (Dec),-0.5%,-0.1%,0.2%
+341,18/01/2023,22:30,USD,low,PPI ex. Food/Energy/Transport (YoY)  (Dec),4.6%,,4.9%
+342,18/01/2023,22:30,USD,low,PPI ex. Food/Energy/Transport (MoM)  (Dec),0.1%,,0.3%
+343,18/01/2023,22:30,USD,medium,Retail Control (MoM)  (Dec),-0.7%,-0.3%,-0.2%
+344,18/01/2023,22:30,USD,high,Retail Sales (MoM)  (Dec),-1.1%,-0.8%,-1.0%
+345,18/01/2023,22:30,USD,low,Retail Sales (YoY)  (Dec),6.02%,,6.01%
+346,18/01/2023,22:30,USD,low,Retail Sales Ex Gas/Autos (MoM)  (Dec),-0.7%,,-0.5%
+347,18/01/2023,22:55,USD,low,Redbook (YoY),5.0%,,5.3%
+348,18/01/2023,23:00,USD,medium,FOMC Member Bostic Speaks,,,
+349,18/01/2023,23:15,USD,low,Capacity Utilization Rate  (Dec),78.8%,79.6%,79.4%
+350,18/01/2023,23:15,USD,medium,Industrial Production (YoY)  (Dec),1.65%,,2.18%
+351,18/01/2023,23:15,USD,medium,Industrial Production (MoM)  (Dec),-0.7%,-0.1%,-0.6%
+352,18/01/2023,23:15,USD,low,Manufacturing Production (MoM)  (Dec),-1.3%,-0.3%,-1.1%
+353,18/01/2023,23:30,USD,medium,FOMC Member Bullard Speaks,,,
+354,19/01/2023,00:00,USD,medium,Business Inventories (MoM)  (Nov),0.4%,0.4%,0.2%
+355,19/01/2023,00:00,USD,low,NAHB Housing Market Index  (Jan),35,31,31
+356,19/01/2023,00:00,USD,medium,Retail Inventories Ex Auto  (Nov),-0.3%,,-0.6%
+357,19/01/2023,03:00,USD,medium,20-Year Bond Auction,3.678%,,3.935%
+358,19/01/2023,03:00,USD,medium,FOMC Member George Speaks,,,
+359,19/01/2023,04:00,USD,medium,Beige Book,,,
+360,19/01/2023,04:00,USD,medium,FOMC Member Harker Speaks,,,
+361,19/01/2023,05:30,USD,medium,Fed's Balance Sheet,"8,489.04B",,"8,508.59B"
+362,19/01/2023,06:00,USD,low,"US Foreign Buying, T-bonds  (Nov)",54.20B,,61.90B
+363,19/01/2023,06:00,USD,low,Overall Net Capital Flow  (Nov),213.10B,,179.30B
+364,19/01/2023,06:00,USD,medium,TIC Net Long-Term Transactions  (Nov),171.5B,92.7B,67.8B
+365,19/01/2023,06:00,USD,low,TIC Net Long-Term Transactions including Swaps  (Nov),165.20B,,50.80B
+366,19/01/2023,06:30,USD,medium,API Weekly Crude Oil Stock,7.615M,-1.750M,14.865M
+367,19/01/2023,08:00,USD,low,Fed Logan Speaks,,,
+368,19/01/2023,08:50,JPY,medium,Adjusted Trade Balance,-1.72T,,-1.78T
+369,19/01/2023,08:50,JPY,medium,Exports (YoY)  (Dec),11.5%,10.1%,20.0%
+370,19/01/2023,08:50,JPY,low,Foreign Bonds Buying,"1,232.1B",,569.5B
+371,19/01/2023,08:50,JPY,low,Foreign Investments in Japanese Stocks,185.6B,,-199.2B
+372,19/01/2023,08:50,JPY,low,Imports (YoY)  (Dec),20.6%,22.4%,30.3%
+373,19/01/2023,08:50,JPY,medium,Trade Balance  (Dec),"-1,448.5B","-1,652.8B","-2,027.4B"
+374,19/01/2023,09:00,AUD,low,MI Inflation Expectations,5.6%,,5.2%
+375,19/01/2023,09:30,AUD,medium,Employment Change  (Dec),-14.6K,22.5K,58.2K
+376,19/01/2023,09:30,AUD,medium,Full Employment Change  (Dec),17.6K,,33.2K
+377,19/01/2023,09:30,AUD,low,Participation Rate  (Dec),66.6%,66.8%,66.8%
+378,19/01/2023,09:30,AUD,medium,Unemployment Rate  (Dec),3.5%,3.4%,3.5%
+379,19/01/2023,18:00,EUR,low,Current Account  (Nov),13.6B,-11.6B,-0.4B
+380,19/01/2023,18:00,EUR,low,Current Account n.s.a.  (Nov),13.4B,,-4.5B
+381,19/01/2023,18:30,GBP,medium,BOE Credit Conditions Survey,,,
+382,19/01/2023,19:30,EUR,medium,ECB President Lagarde Speaks,,,
+383,19/01/2023,20:30,GBP,low,10-Year Treasury Gilt Auction,3.697%,,3.333%
+384,19/01/2023,21:30,EUR,medium,ECB Publishes Account of Monetary Policy Meeting,,,
+385,19/01/2023,22:30,USD,medium,Building Permits  (Dec),1.330M,1.370M,1.351M
+386,19/01/2023,22:30,USD,low,Building Permits (MoM)  (Dec),-1.6%,,-10.6%
+387,19/01/2023,22:30,USD,medium,Continuing Jobless Claims,"1,647K","1,660K","1,630K"
+388,19/01/2023,22:30,USD,medium,Housing Starts  (Dec),1.382M,1.359M,1.401M
+389,19/01/2023,22:30,USD,medium,Housing Starts (MoM)  (Dec),-1.4%,,-1.8%
+390,19/01/2023,22:30,USD,high,Initial Jobless Claims,190K,214K,205K
+391,19/01/2023,22:30,USD,low,Jobless Claims 4-Week Avg.,206.00K,,212.50K
+392,19/01/2023,22:30,USD,high,Philadelphia Fed Manufacturing Index  (Jan),-8.9,-11.0,-13.7
+393,19/01/2023,22:30,USD,low,Philly Fed Business Conditions  (Jan),4.9,,-0.9
+394,19/01/2023,22:30,USD,low,Philly Fed CAPEX Index  (Jan),10.50,,16.20
+395,19/01/2023,22:30,USD,medium,Philly Fed Employment  (Jan),10.9,,-0.9
+396,19/01/2023,22:30,USD,low,Philly Fed New Orders  (Jan),-10.9,,-22.3
+397,19/01/2023,22:30,USD,low,Philly Fed Prices Paid  (Jan),24.50,,36.30
+398,19/01/2023,23:00,USD,low,Fed Collins Speaks,,,
+399,20/01/2023,00:30,USD,low,Natural Gas Storage,-82B,-71B,11B
+400,20/01/2023,01:00,USD,high,Crude Oil Inventories,8.408M,-0.593M,18.962M
+401,20/01/2023,01:00,USD,low,EIA Refinery Crude Runs  (WoW),0.202M,,0.831M
+402,20/01/2023,01:00,USD,low,Crude Oil Imports,-1.224M,,2.708M
+403,20/01/2023,01:00,USD,medium,Cushing Crude Oil Inventories,3.646M,,2.511M
+404,20/01/2023,01:00,USD,low,Distillate Fuel Production,0.057M,,0.509M
+405,20/01/2023,01:00,USD,low,EIA Weekly Distillates Stocks,-1.939M,0.122M,-1.069M
+406,20/01/2023,01:00,USD,low,Gasoline Production,0.332M,,0.067M
+407,20/01/2023,01:00,USD,low,Heating Oil Stockpiles,-0.260M,,0.405M
+408,20/01/2023,01:00,USD,low,EIA Weekly Refinery Utilization Rates (WoW),1.2%,3.8%,4.5%
+409,20/01/2023,01:00,USD,low,Gasoline Inventories,3.483M,2.529M,4.114M
+410,20/01/2023,01:30,USD,low,8-Week Bill Auction,4.520%,,4.465%
+411,20/01/2023,01:36,USD,low,4-Week Bill Auction,4.480%,,4.370%
+412,20/01/2023,02:00,EUR,medium,ECB's Schnabel Speaks,,,
+413,20/01/2023,03:00,USD,medium,10-Year TIPS Auction,1.220%,,1.485%
+414,20/01/2023,03:15,USD,low,Fed Vice Chair Brainard Speaks,,,
+415,02/01/2023,All Day,USD,,United States - New Year's Day,,,
+416,02/01/2023,All Day,GBP,,United Kingdom - New Year's Day,,,
+417,02/01/2023,All Day,AUD,,Australia - New Year's Day,,,
+418,02/01/2023,All Day,JPY,,Japan - New Year's Day,,,
+419,02/01/2023,All Day,GBP,,United Kingdom - New Year's Day,,,
+420,03/01/2023,All Day,JPY,,Japan - Market Holiday,,,
+421,09/01/2023,All Day,JPY,,Japan - Respect for the Aged Day,,,
+422,16/01/2023,All Day,USD,,"United States - Martin Luther King, Jr. Day",,,
+423,20/01/2023,06:30,USD,low,Reserve Balances with Federal Reserve Banks,3.118T,,3.117T
+424,20/01/2023,08:30,JPY,low,"CPI, n.s.a (MoM)  (Dec)",0.2%,,0.2%
+425,20/01/2023,08:30,JPY,medium,National Core CPI (YoY)  (Dec),4.0%,4.0%,3.7%
+426,20/01/2023,08:30,JPY,medium,National CPI (MoM),0.3%,,0.4%
+427,20/01/2023,08:30,JPY,low,National CPI (YoY)  (Dec),4.0%,,3.8%
+428,20/01/2023,08:35,USD,medium,FOMC Member Williams Speaks,,,
+429,20/01/2023,09:01,GBP,low,GfK Consumer Confidence  (Jan),-45,-40,-42
+430,20/01/2023,16:00,GBP,medium,Core Retail Sales (YoY)  (Dec),-6.1%,-4.4%,-5.6%
+431,20/01/2023,16:00,GBP,medium,Core Retail Sales (MoM)  (Dec),-1.1%,0.4%,-0.3%
+432,20/01/2023,16:00,GBP,medium,Retail Sales (YoY)  (Dec),-5.8%,-4.1%,-5.7%
+433,20/01/2023,16:00,GBP,medium,Retail Sales (MoM)  (Dec),-1.0%,0.5%,-0.5%
+434,20/01/2023,19:00,EUR,medium,ECB President Lagarde Speaks,,,
+435,20/01/2023,23:00,USD,medium,FOMC Member Harker Speaks,,,
+436,21/01/2023,00:00,USD,high,Existing Home Sales  (Dec),4.02M,3.96M,4.08M
+437,21/01/2023,00:00,USD,medium,Existing Home Sales (MoM)  (Dec),-1.5%,-5.4%,-7.9%
+438,21/01/2023,00:30,EUR,medium,ECB's Elderson Speaks,,,
+439,21/01/2023,03:00,USD,medium,U.S. Baker Hughes Oil Rig Count,613,,623
+440,21/01/2023,03:00,USD,medium,Fed Waller Speaks,,,
+441,21/01/2023,03:00,USD,medium,U.S. Baker Hughes Total Rig Count,771,,775
+442,21/01/2023,05:30,GBP,medium,CFTC GBP speculative net positions,-24.7K,,-29.5K
+443,21/01/2023,05:30,USD,low,CFTC Aluminium speculative net positions,5.5K,,5.2K
+444,21/01/2023,05:30,USD,low,CFTC Copper speculative net positions,16.2K,,10.2K
+445,21/01/2023,05:30,USD,low,CFTC Corn speculative net positions,271.9K,,233.8K
+446,21/01/2023,05:30,USD,medium,CFTC Crude Oil speculative net positions,239.2K,,205.2K
+447,21/01/2023,05:30,USD,medium,CFTC Gold speculative net positions,153.2K,,150.5K
+448,21/01/2023,05:30,USD,medium,CFTC Nasdaq 100 speculative net positions,-20.6K,,-8.2K
+449,21/01/2023,05:30,USD,low,CFTC Natural Gas speculative net positions,-177.2K,,-172.5K
+450,21/01/2023,05:30,USD,medium,CFTC S&P 500 speculative net positions,-226.8K,,-213.2K
+451,21/01/2023,05:30,USD,low,CFTC Silver speculative net positions,31.5K,,29.0K
+452,21/01/2023,05:30,USD,low,CFTC Soybeans speculative net positions,169.1K,,140.3K
+453,21/01/2023,05:30,USD,low,CFTC Wheat speculative net positions,-42.0K,,-39.7K
+454,21/01/2023,05:30,AUD,medium,CFTC AUD speculative net positions,-33.6K,,-33.7K
+455,21/01/2023,05:30,JPY,medium,CFTC JPY speculative net positions,-23.0K,,-35.4K
+456,21/01/2023,05:30,EUR,medium,CFTC EUR speculative net positions,127.0K,,135.0K
+457,23/01/2023,08:50,JPY,medium,Monetary Policy Meeting Minutes,,,
+458,23/01/2023,23:30,EUR,medium,ECB's Panetta Speaks,,,
+459,24/01/2023,00:00,USD,medium,US Leading Index (MoM)  (Dec),-1.0%,-0.7%,-1.1%
+460,24/01/2023,00:00,EUR,low,Consumer Confidence  (Jan),-20.9,-20.0,-22.0
+461,24/01/2023,01:30,USD,low,3-Month Bill Auction,4.575%,,4.560%
+462,24/01/2023,01:30,USD,low,6-Month Bill Auction,4.685%,,4.685%
+463,24/01/2023,02:45,EUR,medium,ECB President Lagarde Speaks,,,
+464,24/01/2023,09:30,AUD,medium,NAB Business Confidence  (Dec),-1,3,-4
+465,24/01/2023,09:30,AUD,low,NAB Business Survey  (Dec),12,,20
+466,24/01/2023,14:00,JPY,medium,BoJ Core CPI (YoY),3.1%,2.9%,2.9%
+467,24/01/2023,16:00,GBP,low,Public Sector Net Borrowing  (Dec),26.58B,22.30B,18.82B
+468,24/01/2023,16:00,GBP,low,Public Sector Net Cash Requirement  (Dec),17.210B,,20.034B
+469,24/01/2023,18:45,EUR,medium,ECB President Lagarde Speaks,,,
+470,24/01/2023,20:00,GBP,low,CBI Industrial Trends Orders  (Jan),-17,-8,-6
+471,24/01/2023,22:55,USD,low,Redbook (YoY),4.6%,,5.0%
+472,24/01/2023,23:45,EUR,medium,ECB's Supervisory Board Member Jochnick Speaks,,,
+473,25/01/2023,00:00,USD,low,Richmond Manufacturing Index  (Jan),-11,-5,1
+474,25/01/2023,00:00,USD,low,Richmond Manufacturing Shipments  (Jan),-3,,5
+475,25/01/2023,00:00,USD,low,Richmond Services Index  (Jan),-6,,-12
+476,25/01/2023,01:30,USD,low,52-Week Bill Auction,4.470%,,4.515%
+477,25/01/2023,03:00,USD,medium,2-Year Note Auction,4.139%,,4.373%
+478,25/01/2023,03:00,USD,low,M2 Money Supply (MoM)  (Dec),21.38T,,21.42T
+479,25/01/2023,06:30,USD,medium,API Weekly Crude Oil Stock,3.378M,1.600M,7.615M
+480,25/01/2023,08:30,AUD,low,MI Leading Index (MoM),-0.1%,,-0.1%
+481,25/01/2023,09:30,AUD,medium,CPI (QoQ)  (Q4),1.9%,1.6%,1.8%
+482,25/01/2023,09:30,AUD,medium,CPI (YoY)  (Q4),7.8%,7.5%,7.3%
+483,25/01/2023,09:30,AUD,low,CPI Index Number  (Q4),130.80,,128.40
+484,25/01/2023,09:30,AUD,low,Trimmed Mean CPI (YoY)  (Q4),6.9%,6.5%,6.1%
+485,25/01/2023,09:30,AUD,medium,Trimmed Mean CPI (QoQ)  (Q4),1.7%,1.5%,1.8%
+486,25/01/2023,09:30,AUD,low,Weighted mean CPI (YoY)  (Q4),5.8%,5.5%,5.0%
+487,25/01/2023,09:30,AUD,low,Weighted mean CPI (QoQ)  (Q4),1.6%,1.4%,1.4%
+488,25/01/2023,14:00,JPY,low,Coincident Indicator (MoM)  (Dec),-0.3%,,-1.2%
+489,25/01/2023,14:00,JPY,low,Leading Index (MoM)  (Dec),-1.2%,,0.4%
+490,25/01/2023,14:00,JPY,low,Leading Index,97.4,,97.6
+491,25/01/2023,16:00,GBP,low,Core PPI Output (MoM)  (Dec),0.1%,,0.6%
+492,25/01/2023,16:00,GBP,low,Core PPI Output (YoY)  (Dec),12.4%,,13.5%
+493,25/01/2023,16:00,GBP,low,PPI Input (YoY)  (Dec),16.5%,18.0%,19.2%
+494,25/01/2023,16:00,GBP,medium,PPI Input (MoM)  (Dec),-1.1%,-0.6%,0.6%
+495,25/01/2023,16:00,GBP,low,PPI Output (YoY)  (Dec),14.7%,16.4%,17.5%
+496,25/01/2023,16:00,GBP,low,PPI Output (MoM)  (Dec),-0.8%,0.3%,1.0%
+497,25/01/2023,17:00,EUR,medium,European Central Bank Non-monetary Policy Meeting,,,
+498,25/01/2023,21:00,USD,low,MBA 30-Year Mortgage Rate,6.20%,,6.23%
+499,25/01/2023,21:00,USD,low,MBA Mortgage Applications (WoW),7.0%,,27.9%
+500,25/01/2023,21:00,USD,low,MBA Purchase Index,205.4,,198.7
+501,25/01/2023,21:00,USD,low,Mortgage Market Index,255.3,,238.7
+502,25/01/2023,21:00,USD,low,Mortgage Refinance Index,502.3,,438.3
+503,26/01/2023,All Day,AUD,,Australia - Australia Day,,,
+504,26/01/2023,00:30,USD,high,Crude Oil Inventories,0.533M,0.971M,8.408M
+505,26/01/2023,00:30,USD,low,EIA Refinery Crude Runs  (WoW),0.128M,,0.202M
+506,26/01/2023,00:30,USD,low,Crude Oil Imports,-1.791M,,-1.224M
+507,26/01/2023,00:30,USD,medium,Cushing Crude Oil Inventories,4.267M,,3.646M
+508,26/01/2023,00:30,USD,low,Distillate Fuel Production,-0.009M,,0.057M
+509,26/01/2023,00:30,USD,low,EIA Weekly Distillates Stocks,-0.507M,-1.121M,-1.939M
+510,26/01/2023,00:30,USD,low,Gasoline Production,-0.034M,,0.332M
+511,26/01/2023,00:30,USD,low,Heating Oil Stockpiles,-0.234M,,-0.260M
+512,26/01/2023,00:30,USD,low,EIA Weekly Refinery Utilization Rates (WoW),0.8%,1.2%,1.2%
+513,26/01/2023,00:30,USD,low,Gasoline Inventories,1.763M,1.767M,3.483M
+514,26/01/2023,03:00,USD,medium,5-Year Note Auction,3.530%,,3.973%
+515,26/01/2023,05:30,USD,medium,Fed's Balance Sheet,"8,471B",,"8,489B"
+516,26/01/2023,08:50,JPY,low,BoJ Summary of Opinions,,,
+517,26/01/2023,08:50,JPY,low,Corporate Services Price Index (CSPI) (YoY),1.5%,1.6%,1.7%
+518,26/01/2023,08:50,JPY,low,Foreign Bonds Buying,-344.2B,,"1,238.5B"
+519,26/01/2023,08:50,JPY,low,Foreign Investments in Japanese Stocks,-83.0B,,186.4B
+520,26/01/2023,17:30,GBP,medium,Labour Productivity  (Q3),0.9%,,1.1%
+521,26/01/2023,20:00,GBP,low,CBI Distributive Trades Survey  (Jan),-23,-5,11
+522,26/01/2023,22:00,USD,low,Building Permits (MoM)  (Dec),-1.0%,,-10.6%
+523,26/01/2023,22:00,USD,medium,Building Permits  (Dec),1.337M,,1.351M
+524,26/01/2023,22:30,USD,low,Chicago Fed National Activity  (Nov),-0.49,,-0.05
+525,26/01/2023,22:30,USD,medium,Continuing Jobless Claims,"1,675K","1,659K","1,655K"
+526,26/01/2023,22:30,USD,medium,Core Durable Goods Orders (MoM)  (Dec),-0.1%,-0.2%,0.1%
+527,26/01/2023,22:30,USD,medium,Core PCE Prices  (Q4),3.90%,4.00%,4.70%
+528,26/01/2023,22:30,USD,high,Durable Goods Orders (MoM)  (Dec),5.6%,2.5%,-1.7%
+529,26/01/2023,22:30,USD,low,Durables Excluding Defense (MoM)  (Dec),6.3%,,-2.3%
+530,26/01/2023,22:30,USD,high,GDP (QoQ)  (Q4),2.9%,2.6%,3.2%
+531,26/01/2023,22:30,USD,medium,GDP Price Index (QoQ)  (Q4),3.5%,3.3%,4.4%
+532,26/01/2023,22:30,USD,low,GDP Sales  (Q4),1.4%,,4.5%
+533,26/01/2023,22:30,USD,low,Goods Orders Non Defense Ex Air (MoM)  (Dec),-0.2%,-0.2%,0.1%
+534,26/01/2023,22:30,USD,medium,Goods Trade Balance  (Dec),-90.27B,,-82.93B
+535,26/01/2023,22:30,USD,high,Initial Jobless Claims,186K,205K,192K
+536,26/01/2023,22:30,USD,low,Jobless Claims 4-Week Avg.,197.50K,,206.75K
+537,26/01/2023,22:30,USD,low,PCE Prices  (Q4),3.2%,,4.3%
+538,26/01/2023,22:30,USD,low,Real Consumer Spending  (Q4),2.1%,,2.3%
+539,26/01/2023,22:30,USD,medium,Retail Inventories Ex Auto  (Dec),0.3%,,-0.4%
+540,26/01/2023,22:30,USD,low,Wholesale Inventories (MoM),0.1%,0.5%,1.0%
+541,27/01/2023,00:00,USD,medium,New Home Sales (MoM)  (Dec),2.3%,-4.7%,0.7%
+542,27/01/2023,00:00,USD,high,New Home Sales  (Dec),616K,617K,602K
+543,27/01/2023,00:30,USD,low,Natural Gas Storage,-91B,-82B,-82B
+544,27/01/2023,01:00,USD,low,KC Fed Composite Index  (Jan),-1,,-4
+545,27/01/2023,01:00,USD,low,KC Fed Manufacturing Index  (Jan),-4,,-6
+546,27/01/2023,01:30,USD,low,4-Week Bill Auction,4.500%,,4.480%
+547,27/01/2023,01:30,USD,low,8-Week Bill Auction,4.525%,,4.520%
+548,27/01/2023,03:00,USD,medium,7-Year Note Auction,3.517%,,3.921%
+549,27/01/2023,04:45,USD,high,U.S. President Biden Speaks,,,
+550,27/01/2023,06:30,USD,low,Reserve Balances with Federal Reserve Banks,3.000T,,3.118T
+551,27/01/2023,08:30,JPY,medium,Tokyo Core CPI (YoY)  (Jan),4.3%,4.2%,4.0%
+552,27/01/2023,08:30,JPY,low,Tokyo CPI (YoY)  (Jan),4.4%,,4.0%
+553,27/01/2023,08:30,JPY,low,CPI Tokyo Ex Food and Energy (MoM)  (Jan),0.1%,,0.1%
+554,27/01/2023,09:30,AUD,low,Export Price Index (QoQ)  (Q4),-0.9%,,-3.6%
+555,27/01/2023,09:30,AUD,low,Import Price Index (QoQ)  (Q4),1.8%,,3.0%
+556,27/01/2023,09:30,AUD,medium,PPI (QoQ)  (Q4),0.7%,1.7%,1.9%
+557,27/01/2023,09:30,AUD,medium,PPI (YoY)  (Q4),5.8%,6.3%,6.4%
+558,27/01/2023,18:00,EUR,low,M3 Money Supply (YoY)  (Dec),4.1%,4.6%,4.8%
+559,27/01/2023,18:00,EUR,low,Loans to Non Financial Corporations  (Dec),6.3%,8.6%,8.4%
+560,27/01/2023,18:00,EUR,low,Private Sector Loans (YoY),3.8%,,4.1%
+561,27/01/2023,19:30,EUR,medium,ECB President Lagarde Speaks,,,
+562,27/01/2023,22:30,USD,high,Core PCE Price Index (MoM)  (Dec),0.3%,0.3%,0.2%
+563,27/01/2023,22:30,USD,high,Core PCE Price Index (YoY)  (Dec),4.4%,4.4%,4.7%
+564,27/01/2023,22:30,USD,medium,PCE Price index (YoY)  (Dec),5.0%,5.5%,5.5%
+565,27/01/2023,22:30,USD,medium,PCE price index (MoM)  (Dec),0.1%,0.2%,0.1%
+566,27/01/2023,22:30,USD,low,Personal Income (MoM)  (Dec),0.2%,0.2%,0.3%
+567,27/01/2023,22:30,USD,medium,Personal Spending (MoM)  (Dec),-0.2%,-0.1%,-0.1%
+568,27/01/2023,22:30,USD,low,Real Personal Consumption (MoM)  (Dec),-0.3%,,-0.2%
+569,28/01/2023,00:00,USD,medium,Michigan 1-Year Inflation Expectations  (Jan),3.9%,4.4%,4.0%
+570,28/01/2023,00:00,USD,medium,Michigan 5-Year Inflation Expectations  (Jan),2.9%,3.0%,2.9%
+571,28/01/2023,00:00,USD,medium,Michigan Consumer Expectations  (Jan),62.7,62.0,59.9
+572,28/01/2023,00:00,USD,medium,Michigan Consumer Sentiment  (Jan),64.9,64.6,59.7
+573,28/01/2023,00:00,USD,low,Michigan Current Conditions  (Jan),68.4,68.6,59.4
+574,28/01/2023,00:00,USD,medium,Pending Home Sales (MoM)  (Dec),2.5%,-0.9%,-2.6%
+575,28/01/2023,00:00,USD,low,Pending Home Sales Index  (Dec),76.9,,75.0
+576,28/01/2023,03:00,USD,medium,U.S. Baker Hughes Oil Rig Count,609,,613
+577,28/01/2023,03:00,USD,medium,U.S. Baker Hughes Total Rig Count,771,,771
+578,28/01/2023,03:14,USD,low,Dallas Fed PCE  (Dec),2.30%,,3.00%
+579,28/01/2023,05:30,GBP,medium,CFTC GBP speculative net positions,-23.9K,,-24.7K
+580,28/01/2023,05:30,USD,low,CFTC Aluminium speculative net positions,5.9K,,5.5K
+581,28/01/2023,05:30,USD,low,CFTC Copper speculative net positions,20.2K,,16.2K
+582,28/01/2023,05:30,USD,low,CFTC Corn speculative net positions,277.4K,,271.9K
+583,28/01/2023,05:30,USD,medium,CFTC Crude Oil speculative net positions,249.8K,,239.2K
+584,28/01/2023,05:30,USD,medium,CFTC Gold speculative net positions,157.7K,,153.2K
+585,28/01/2023,05:30,USD,medium,CFTC Nasdaq 100 speculative net positions,-25.3K,,-20.6K
+586,28/01/2023,05:30,USD,low,CFTC Natural Gas speculative net positions,-171.0K,,-177.2K
+587,28/01/2023,05:30,USD,medium,CFTC S&P 500 speculative net positions,-209.0K,,-226.8K
+588,28/01/2023,05:30,USD,low,CFTC Silver speculative net positions,25.7K,,31.5K
+589,28/01/2023,05:30,USD,low,CFTC Soybeans speculative net positions,155.2K,,169.1K
+590,28/01/2023,05:30,USD,low,CFTC Wheat speculative net positions,-48.3K,,-42.0K
+591,28/01/2023,05:30,AUD,medium,CFTC AUD speculative net positions,-33.2K,,-33.6K
+592,28/01/2023,05:30,JPY,medium,CFTC JPY speculative net positions,-21.6K,,-23.0K
+593,28/01/2023,05:30,EUR,medium,CFTC EUR speculative net positions,134.3K,,127.0K
+594,30/01/2023,19:00,EUR,low,Business and Consumer Survey  (Jan),99.9,97.0,97.1
+595,30/01/2023,19:00,EUR,low,Business Climate  (Jan),0.69,,0.57
+596,30/01/2023,19:00,EUR,low,Consumer Confidence  (Jan),-20.9,-20.9,-22.1
+597,30/01/2023,19:00,EUR,low,Consumer Inflation Expectation  (Jan),17.7,,23.2
+598,30/01/2023,19:00,EUR,low,Selling Price Expectations  (Jan),31.9,,37.8
+599,30/01/2023,19:00,EUR,low,Services Sentiment  (Jan),10.7,7.9,7.7
+600,30/01/2023,19:00,EUR,low,Industrial Sentiment  (Jan),1.3,-0.6,-0.6
+601,31/01/2023,00:30,USD,low,Dallas Fed Mfg Business Index  (Jan),-8.4,,-20.0
+602,31/01/2023,01:30,USD,low,3-Month Bill Auction,4.595%,,4.575%
+603,31/01/2023,01:30,USD,low,6-Month Bill Auction,4.680%,,4.685%
+604,31/01/2023,08:30,JPY,low,Jobs/applications ratio  (Dec),1.35,1.36,1.35
+605,31/01/2023,08:30,JPY,low,Unemployment Rate  (Dec),2.5%,2.5%,2.5%
+606,31/01/2023,08:50,JPY,medium,Industrial Production (MoM)  (Dec),-0.1%,-1.2%,0.2%
+607,31/01/2023,08:50,JPY,low,Industrial Production forecast 1m ahead (MoM)  (Jan),0.0%,,2.8%
+608,31/01/2023,08:50,JPY,low,Industrial Production forecast 2m ahead (MoM)  (Feb),4.1%,,-0.6%
+609,31/01/2023,08:50,JPY,low,Large Retailers' Sales (MoM),1.1%,,-1.3%
+610,31/01/2023,08:50,JPY,low,Retail Sales (YoY)  (Dec),3.8%,3.0%,2.5%
+611,31/01/2023,09:30,AUD,low,Housing Credit  (Dec),0.3%,,0.4%
+612,31/01/2023,09:30,AUD,low,Private Sector Credit (MoM)  (Dec),0.3%,0.5%,0.5%
+613,31/01/2023,09:30,AUD,medium,Retail Sales (MoM)  (Dec),-3.9%,-0.3%,1.4%
+614,31/01/2023,12:35,JPY,low,2-Year JGB Auction,-0.009%,,0.043%
+615,31/01/2023,14:00,JPY,low,Construction Orders (YoY)  (Dec),8.5%,,-9.7%
+616,31/01/2023,14:00,JPY,low,Household Confidence  (Jan),31.0,30.5,30.3
+617,31/01/2023,14:00,JPY,low,Housing Starts (YoY)  (Dec),-1.7%,0.5%,-1.4%
+618,31/01/2023,18:00,EUR,low,ECB Bank Lending Survey,,,
+619,31/01/2023,18:30,GBP,low,BoE Consumer Credit  (Dec),0.493B,1.050B,1.488B
+620,31/01/2023,18:30,GBP,low,M4 Money Supply (MoM)  (Dec),-0.8%,1.2%,-1.5%
+621,31/01/2023,18:30,GBP,low,Mortgage Approvals  (Dec),35.61K,45.00K,46.19K
+622,31/01/2023,18:30,GBP,low,Mortgage Lending  (Dec),3.24B,4.00B,4.26B
+623,31/01/2023,18:30,GBP,low,Net Lending to Individuals,3.7B,5.1B,5.7B
+624,02/01/2023,All Day,USD,,United States - New Year's Day,,,
+625,02/01/2023,All Day,GBP,,United Kingdom - New Year's Day,,,
+626,02/01/2023,All Day,AUD,,Australia - New Year's Day,,,
+627,02/01/2023,All Day,JPY,,Japan - New Year's Day,,,
+628,02/01/2023,All Day,GBP,,United Kingdom - New Year's Day,,,
+629,03/01/2023,All Day,JPY,,Japan - Market Holiday,,,
+630,09/01/2023,All Day,JPY,,Japan - Respect for the Aged Day,,,
+631,16/01/2023,All Day,USD,,"United States - Martin Luther King, Jr. Day",,,
+632,26/01/2023,All Day,AUD,,Australia - Australia Day,,,
+633,31/01/2023,19:00,EUR,medium,GDP (YoY)  (Q4),1.9%,2.2%,2.3%
+634,31/01/2023,19:00,EUR,medium,GDP (QoQ)  (Q4),0.1%,-0.1%,0.3%
+635,31/01/2023,22:30,USD,low,Employment Benefits (QoQ)  (Q4),0.80%,,1.00%
+636,31/01/2023,22:30,USD,medium,Employment Cost Index (QoQ)  (Q4),1.0%,1.1%,1.2%
+637,31/01/2023,22:30,USD,low,Employment Wages (QoQ)  (Q4),1.00%,,1.30%
+638,31/01/2023,22:30,USD,low,OPEC Crude Oil Production Congo (Barrel),0.26M,,0.26M
+639,31/01/2023,22:30,USD,low,OPEC Crude oil Production Saudi Arabia (Barrel),10.44M,,10.45M
+640,31/01/2023,22:55,USD,low,Redbook (YoY),4.9%,,4.6%
+641,31/01/2023,23:00,USD,low,House Price Index (YoY)  (Nov),8.2%,,9.8%
+642,31/01/2023,23:00,USD,low,House Price Index (MoM)  (Nov),-0.1%,-0.4%,0.0%
+643,31/01/2023,23:00,USD,low,House Price Index  (Nov),392.3,,392.8
+644,31/01/2023,23:00,USD,low,S&P/CS HPI Composite - 20 s.a. (MoM)  (Nov),-0.5%,-0.6%,-0.5%
+645,31/01/2023,23:00,USD,medium,S&P/CS HPI Composite - 20 n.s.a. (MoM)  (Nov),-0.8%,,-0.8%
+646,31/01/2023,23:00,USD,medium,S&P/CS HPI Composite - 20 n.s.a. (YoY)  (Nov),6.8%,6.8%,8.7%
+647,31/01/2023,23:45,USD,high,Chicago PMI  (Jan),44.3,45.0,45.1
+648,02/01/2023,All Day,USD,,United States - New Year's Day,,,
+649,02/01/2023,All Day,GBP,,United Kingdom - New Year's Day,,,
+650,02/01/2023,All Day,AUD,,Australia - New Year's Day,,,
+651,02/01/2023,All Day,JPY,,Japan - New Year's Day,,,
+652,02/01/2023,All Day,GBP,,United Kingdom - New Year's Day,,,
+653,03/01/2023,All Day,JPY,,Japan - Market Holiday,,,
+654,09/01/2023,All Day,JPY,,Japan - Respect for the Aged Day,,,
+655,16/01/2023,All Day,USD,,"United States - Martin Luther King, Jr. Day",,,
+656,26/01/2023,All Day,AUD,,Australia - Australia Day,,,
